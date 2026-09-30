@@ -8,7 +8,7 @@
   "state": "running",
   "workflow_stage": "discovered",
   "started_at": "2026-09-30T08:23:47.016Z",
-  "updated_at": "2026-09-30T08:27:42.845Z",
+  "updated_at": "2026-09-30T08:30:18.116Z",
   "stop_reason": null,
   "limits": {
     "user_business_limit": null,
@@ -32,5 +32,5 @@
     "saturation_threshold": 1,
     "saturation_streak_required": 3
   },
-  "observed_unique_businesses": 138
+  "observed_unique_businesses": 142
 }
