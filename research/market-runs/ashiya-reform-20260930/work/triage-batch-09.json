@@ -1,0 +1,138 @@
+[
+ {
+  "lead_id": "blanca-b97dd556a1",
+  "name": "株式会社blanca(ブランカ)",
+  "region": "芦屋市",
+  "address": "",
+  "industry": "インテリア・空間デザイン",
+  "notes": "",
+  "candidate_site": "https://www.e-blanca.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/blanca-b97dd556a1/blanca-b97dd556a1-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/blanca-b97dd556a1/blanca-b97dd556a1-top-mobile.png"
+  },
+  "sources": [
+   "https://www.e-blanca.co.jp/concept.php"
+  ]
+ },
+ {
+  "lead_id": "lead-85ae573ba4",
+  "name": "あいじょう株式会社",
+  "region": "西宮市(本社)/芦屋市対応",
+  "address": "兵庫県西宮市(町名未確認)",
+  "industry": "総合住宅リフォーム・畳・給湯器",
+  "notes": "",
+  "candidate_site": "https://www.aijyo.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-85ae573ba4/lead-85ae573ba4-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-85ae573ba4/lead-85ae573ba4-top-mobile.png"
+  },
+  "sources": [
+   "https://www.homepro.jp/kaisha/322311/"
+  ]
+ },
+ {
+  "lead_id": "lead-db4fa2be24",
+  "name": "株式会社安江工務店",
+  "region": "神戸市(神戸HDC店)/芦屋市対応",
+  "address": "神戸市中央区(神戸HDC店、番地未確認)",
+  "industry": "リフォーム・新築・不動産(地域大手、名古屋本社)",
+  "notes": "",
+  "candidate_site": "https://www.yasue.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-db4fa2be24/lead-db4fa2be24-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-db4fa2be24/lead-db4fa2be24-top-mobile.png"
+  },
+  "sources": [
+   "https://reform.yasue.co.jp/"
+  ]
+ },
+ {
+  "lead_id": "lead-3992648ebe",
+  "name": "株式会社ウィル空間デザイン",
+  "region": "宝塚市(本社)/芦屋に施工実績",
+  "address": "兵庫県宝塚市逆瀬川1-14-39",
+  "industry": "マンション・戸建ての大規模リフォーム・リノベーション",
+  "notes": "",
+  "candidate_site": "https://www.wills.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-3992648ebe/lead-3992648ebe-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-3992648ebe/lead-3992648ebe-top-mobile.png"
+  },
+  "sources": [
+   "https://www.wills.co.jp/reform/example/253/"
+  ]
+ },
+ {
+  "lead_id": "masa-architects-46464c7aa8",
+  "name": "中西正佳建築設計事務所(MASA Architects)",
+  "region": "宝塚市・西宮市(芦屋市はHouzz掲載)",
+  "address": "兵庫県宝塚市仁川北3-7-14 ペガサスビル(登記)",
+  "industry": "建築設計(注文住宅・リノベーション・店舗ほか)",
+  "notes": "",
+  "candidate_site": "https://www.naka-masa.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/masa-architects-46464c7aa8/masa-architects-46464c7aa8-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/masa-architects-46464c7aa8/masa-architects-46464c7aa8-top-mobile.png"
+  },
+  "sources": [
+   "https://www.houzz.jp/professionals/architect/c/%E5%85%B5%E5%BA%AB%E7%9C%8C-%E8%8A%A6%E5%B1%8B%E5%B8%82"
+  ]
+ },
+ {
+  "lead_id": "lead-a7a83a1723",
+  "name": "藤原・室建築設計事務所",
+  "region": "大阪府大阪市(芦屋市はHouzz掲載)",
+  "address": "",
+  "industry": "建築設計(住宅・店舗・リノベーション)",
+  "notes": "",
+  "candidate_site": "https://aplan.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-a7a83a1723/lead-a7a83a1723-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-a7a83a1723/lead-a7a83a1723-top-mobile.png"
+  },
+  "sources": [
+   "https://www.houzz.jp/professionals/architect/c/%E5%85%B5%E5%BA%AB%E7%9C%8C-%E8%8A%A6%E5%B1%8B%E5%B8%82"
+  ]
+ },
+ {
+  "lead_id": "muura-inc-8c4ce05572",
+  "name": "muura inc.",
+  "region": "大阪市(芦屋市はHouzz掲載)",
+  "address": "大阪府大阪市中央区瓦屋町1-4-15",
+  "industry": "飲食・物販など商業空間の建築・インテリアデザイン",
+  "notes": "",
+  "candidate_site": "https://muura.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/muura-inc-8c4ce05572/muura-inc-8c4ce05572-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/muura-inc-8c4ce05572/muura-inc-8c4ce05572-top-mobile.png"
+  },
+  "sources": [
+   "https://www.houzz.jp/professionals/interior-designer/c/%E5%85%B5%E5%BA%AB%E7%9C%8C-%E8%8A%A6%E5%B1%8B%E5%B8%82/p/45"
+  ]
+ },
+ {
+  "lead_id": "with-be-f68dd04c9e",
+  "name": "with be株式会社",
+  "region": "神戸・三田(芦屋市向けリノベLPあり)",
+  "address": "",
+  "industry": "中古住宅のリノベーション・フルリフォーム(不動産仲介)",
+  "notes": "",
+  "candidate_site": "https://www.withbe.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/with-be-f68dd04c9e/with-be-f68dd04c9e-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/with-be-f68dd04c9e/with-be-f68dd04c9e-top-mobile.png"
+  },
+  "sources": [
+   "https://life.withbe.jp/renovatiion/ashiya/"
+  ]
+ }
+]

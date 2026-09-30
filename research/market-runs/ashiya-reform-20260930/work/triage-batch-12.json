@@ -1,0 +1,206 @@
+[
+ {
+  "lead_id": "lead-1da9531142",
+  "name": "有本優史郎建築設計事務所",
+  "region": "芦屋市",
+  "address": "〒659-0012 兵庫県芦屋市朝日ケ丘町19-6-206",
+  "industry": "建築設計事務所(建築・インテリア・プロダクト設計監理)",
+  "notes": "個人・小規模設計事務所。TEL 0797-34-0128。Houzzとあしやのに掲載。独立した公式サイトは検索結果では見つからなかったが、サイトなしとは断定しない。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://www.houzz.jp/pro/arimoto",
+   "https://ashiyano.life/shop/arimotoyuushirou/",
+   "https://jp-book.store/architectural/?page=shop&id=ChIJwY43TjDzAGARcg24-pCA2OQ"
+  ]
+ },
+ {
+  "lead_id": "simul-design-office-ced4bba111",
+  "name": "シームルデザインオフィス(SIMUL DESIGN OFFICE)",
+  "region": "芦屋市(要確認)",
+  "address": "",
+  "industry": "インテリアデザイン(店舗・住宅)",
+  "notes": "ミツモアの芦屋市インテリアコーディネーター一覧に掲載。所在地は検索結果から確認できず、芦屋市内拠点か未確認。個人・小規模と推定されるが断定しない。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://meetsmore.com/services/interrior-designer/hyogo/ashiya",
+   "https://meetsmore.com/p/ZT8x-N3jIUud1vbt/interrior-designer",
+   "https://www.shop-reform.com/company/detail?id=290"
+  ]
+ },
+ {
+  "lead_id": "lead-8443fc43bd",
+  "name": "ペイントはなまる",
+  "region": "芦屋市(要確認)",
+  "address": "",
+  "industry": "塗装・リフォーム施工店(一級塗装技能士在籍、自社施工)",
+  "notes": "塗装専門寄りで、対象業種との適合はtriageで判断。リショップナビの芦屋市評価上位として掲載。所在地は未確認。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://rehome-navi.com/shops/4697",
+   "https://rehome-navi.com/hyogo/ashiyashi"
+  ]
+ },
+ {
+  "lead_id": "lead-5900bc98f5",
+  "name": "有限会社エコ・エネルギー",
+  "region": "芦屋市(要確認)",
+  "address": "",
+  "industry": "リフォーム会社(評価ナビ芦屋市掲載)",
+  "notes": "評価ナビの芦屋市一覧で名称のみ確認。所在地・業態・公式サイトは未確認。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://www.refonavi.or.jp/search/hyogo/c28206"
+  ]
+ },
+ {
+  "lead_id": "lead-13f43f3db8",
+  "name": "株式会社三福",
+  "region": "芦屋市(要確認)",
+  "address": "",
+  "industry": "リフォーム会社(評価ナビ芦屋市掲載)",
+  "notes": "評価ナビの芦屋市一覧で名称のみ確認。同名で愛知県名古屋市守山区の株式会社三福(リフォームの三福)が検索に出たが同一か不明。同一視しない。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://www.refonavi.or.jp/search/hyogo/c28206"
+  ]
+ },
+ {
+  "lead_id": "lead-9ec895d110",
+  "name": "株式会社スタジオ・コア",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市東芦屋町(番地未確認)",
+  "industry": "リノベーション・水回り・内装・造作木工事",
+  "notes": "リショップナビの芦屋市リノベーション一覧に関する検索要約で、本社が芦屋市東芦屋町と記載。公式サイトは未確認(検索上限のため追加確認不可)。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://rehome-navi.com/hyogo/ashiyashi/categories/renovation/shops"
+  ]
+ },
+ {
+  "lead_id": "lead-75846fc0e6",
+  "name": "あんじゅホーム",
+  "region": "芦屋市(要確認)",
+  "address": "",
+  "industry": "工務店(設計から施工まで一貫、年間24棟限定の注文住宅)",
+  "notes": "芦屋市の工務店まとめ記事に掲載。所在地・法人名は未確認。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://akitekt.net/koumutenmatome-1-165/"
+  ]
+ },
+ {
+  "lead_id": "lead-86b211018c",
+  "name": "株式会社ケーソウ",
+  "region": "芦屋市(要確認)",
+  "address": "",
+  "industry": "リフォーム会社(リショップナビ芦屋市で施工実績が多い会社として掲載)",
+  "notes": "名称のみ確認。所在地・規模・公式サイトは未確認。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://rehome-navi.com/hyogo/ashiyashi"
+  ]
+ },
+ {
+  "lead_id": "lead-123913f1a7",
+  "name": "リニューホーム株式会社",
+  "region": "芦屋市(要確認)",
+  "address": "",
+  "industry": "リフォーム会社(リショップナビ芦屋市で施工実績が多い会社として掲載)",
+  "notes": "名称のみ確認。所在地・規模・公式サイトは未確認。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://rehome-navi.com/hyogo/ashiyashi"
+  ]
+ },
+ {
+  "lead_id": "sho-c0b1cb976f",
+  "name": "SHOあさひリフォーム株式会社",
+  "region": "大阪市北区",
+  "address": "〒530-0035 大阪府大阪市北区同心2丁目11-26",
+  "industry": "新築・リフォーム(京阪神対応)",
+  "notes": "中堅の地域リフォーム会社で、大手ではない。評価ナビの芦屋市一覧に掲載されるが、芦屋市内拠点は未確認。TOTO・パナソニック・トクラスの加盟店として掲載。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://www.refonavi.or.jp/shop/2261",
+   "https://jp.toto.com/reform/remodelclub/RC235701/"
+  ]
+ },
+ {
+  "lead_id": "lead-e53f7c09f2",
+  "name": "ハウスドクター株式会社",
+  "region": "芦屋市(要確認)",
+  "address": "",
+  "industry": "リフォーム・不動産(リショップナビ芦屋市で評価が高い会社として掲載)",
+  "notes": "大手・全国展開のフランチャイズ系ブランドと推定されるが未確認。芦屋市内の加盟店か本部かは未確認で、大手扱いとしてtriageに回す。",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://rehome-navi.com/hyogo/ashiyashi"
+  ]
+ },
+ {
+  "lead_id": "simul-design-office-0d4c06f67e",
+  "name": "SIMUL DESIGN OFFICE(シームルデザインオフィス)",
+  "region": "芦屋市(ミツモア掲載。所在地未確認)",
+  "address": "",
+  "industry": "インテリアデザイン事務所(店舗・住宅)",
+  "notes": "芦屋市のインテリアコーディネーター枠に掲載。所在地は確認できず、店舗設計施工.comの掲載ページ(id=290)に記載がある可能性",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://meetsmore.com/services/interrior-designer/hyogo/ashiya",
+   "https://www.shop-reform.com/company/detail?id=290"
+  ]
+ },
+ {
+  "lead_id": "lead-cf355913c0",
+  "name": "樋口章建築アトリエ",
+  "region": "宝塚市(芦屋市の実績あり可能性。芦屋のHouzz検索に出現)",
+  "address": "〒665-0802 兵庫県宝塚市花屋敷荘園1-19-3",
+  "industry": "建築設計事務所(住宅・商業施設設計)",
+  "notes": "所在地は宝塚市で芦屋市外。夫婦運営の小規模事務所と記載",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://www.houzz.jp/pro/higuchiatelier",
+   "https://www.biz.ne.jp/corporation/31620/"
+  ]
+ },
+ {
+  "lead_id": "lead-c7b5f80074",
+  "name": "株式会社上野工務店",
+  "region": "京都・大阪・兵庫で展開(芦屋市対応は掲載元上)",
+  "address": "",
+  "industry": "リフォーム・リノベーション(中古物件探しから一貫、増改築、大規模修繕)",
+  "notes": "複数府県展開で中規模以上の可能性。芦屋市内所在かは未確認",
+  "candidate_site": null,
+  "visual": "none",
+  "images": null,
+  "sources": [
+   "https://rehome-navi.com/shops/142"
+  ]
+ }
+]

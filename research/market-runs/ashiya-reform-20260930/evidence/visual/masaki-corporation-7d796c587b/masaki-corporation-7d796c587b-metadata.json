@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "masaki-corporation-7d796c587b",
+  "page_type": "top",
+  "page_url": "https://masaki-corporation.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:44:50.630Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/masaki-corporation-7d796c587b/masaki-corporation-7d796c587b-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/masaki-corporation-7d796c587b/masaki-corporation-7d796c587b-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "io-5aa922ed83",
+  "page_type": "top",
+  "page_url": "https://io-arch.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:46:26.864Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/io-5aa922ed83/io-5aa922ed83-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/io-5aa922ed83/io-5aa922ed83-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

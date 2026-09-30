@@ -1,0 +1,284 @@
+[
+ {
+  "lead_id": "lead-ad33988779",
+  "name": "株式会社エディトデザイン(芦屋リフォーム)",
+  "region": "大阪市北区(芦屋・西宮・神戸エリアを対象)",
+  "address": "大阪市北区天満",
+  "industry": "建築設計・リフォーム・リノベーション(不動産仲介併営)",
+  "notes": "芦屋市外の事務所。運営サイト https://modern-reform.jp/ashiya/ 。",
+  "candidate_site": "https://modern-reform.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-ad33988779/lead-ad33988779-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-ad33988779/lead-ad33988779-top-mobile.png"
+  },
+  "sources": [
+   "https://modern-reform.jp/ashiya/outline/company/"
+  ]
+ },
+ {
+  "lead_id": "lead-6e09906d6f",
+  "name": "マノアート株式会社",
+  "region": "大阪府豊中市(芦屋市も施工対象)",
+  "address": "大阪府豊中市山ノ上町18-17",
+  "industry": "塗り替え・建物改修・内装リフォーム",
+  "notes": "芦屋市外の事業者。芦屋向けページ https://manoart.co.jp/ashiya.html 。対象業種として境界的。",
+  "candidate_site": "https://manoart.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-6e09906d6f/lead-6e09906d6f-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-6e09906d6f/lead-6e09906d6f-top-mobile.png"
+  },
+  "sources": [
+   "https://manoart.co.jp/ashiya.html"
+  ]
+ },
+ {
+  "lead_id": "lead-6e3bcc12e7",
+  "name": "株式会社グランデザイン一級建築士事務所",
+  "region": "神戸市",
+  "address": "",
+  "industry": "住宅・店舗の建築設計事務所",
+  "notes": "神戸市の事務所。対象地域外の可能性が高い。公式サイト候補 https://gran-design.com/ (未確認)。",
+  "candidate_site": "https://gran-design.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-6e3bcc12e7/lead-6e3bcc12e7-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-6e3bcc12e7/lead-6e3bcc12e7-top-mobile.png"
+  },
+  "sources": [
+   "https://gran-design.com/",
+   "https://www.houzz.jp/professionals/architect/c/日本-兵庫県-芦屋市"
+  ]
+ },
+ {
+  "lead_id": "lead-a0916c3c2c",
+  "name": "有限会社エコ・ハウス芦屋",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市伊勢町5-7",
+  "industry": "リフォーム工務店(増改築・インテリア・リフォーム全般)",
+  "notes": "小規模。地元密着を自称。住所は検索結果要約による",
+  "candidate_site": "https://ecohouse-ashiya.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-a0916c3c2c/lead-a0916c3c2c-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-a0916c3c2c/lead-a0916c3c2c-top-mobile.png"
+  },
+  "sources": [
+   "https://ecohouse-ashiya.com/",
+   "https://ecohouse-ashiya.com/",
+   "https://www.ekiten.jp/g0503/a28206/",
+   "https://ecohouse-ashiya.com/"
+  ]
+ },
+ {
+  "lead_id": "lead-9e3b07bd74",
+  "name": "有限会社スペースアート",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市東山町27番9号",
+  "industry": "リフォーム・リノベーション(トータルリフォーム)",
+  "notes": "小規模。Houzz・TOTOリモデルクラブ・エキテン掲載。全員女性スタッフとの紹介あり(媒体要約)",
+  "candidate_site": "https://www.ne.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-9e3b07bd74/lead-9e3b07bd74-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-9e3b07bd74/lead-9e3b07bd74-top-mobile.png"
+  },
+  "sources": [
+   "https://loco.yahoo.co.jp/place/g-TlB7FMLHJN2/",
+   "https://www.mapion.co.jp/phonebook/M26006/28206/22830630791/",
+   "https://www.houzz.jp/pro/spaceart-ashiya",
+   "https://www.ekiten.jp/shop_1124345/"
+  ]
+ },
+ {
+  "lead_id": "lead-589b407173",
+  "name": "株式会社アメニティ芦屋",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市朝日ケ丘町19番6-503号",
+  "industry": "インテリアコーディネート事務所(コーディネート・デザイン・販売・施工・教育)",
+  "notes": "小規模(インテリアコーディネーター2名体制と記載)。30年以上の活動と記載。芦屋市商工会名簿にも掲載",
+  "candidate_site": "https://amenityashiya.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-589b407173/lead-589b407173-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-589b407173/lead-589b407173-top-mobile.png"
+  },
+  "sources": [
+   "https://www.ashiya-net.or.jp/shop_detail.php?id=12",
+   "https://meetsmore.com/services/interrior-designer/hyogo/ashiya",
+   "https://www.ekiten.jp/shop_5106925/",
+   "https://amenityashiya.com/"
+  ]
+ },
+ {
+  "lead_id": "itten-617c9580d7",
+  "name": "インテリアセレクト＆コーディネートショップ itten(イッテン)",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市船戸町3-6 ヴァンテージ芦屋106",
+  "industry": "インテリアセレクト・コーディネートショップ(家具販売・椅子張り替え)",
+  "notes": "JR芦屋駅近く。家具販売寄り。現営業状況は未確認。同名のITTEN(Web制作)とは別物の可能性が高く統合しない。",
+  "candidate_site": "https://www.ittena.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/itten-617c9580d7/itten-617c9580d7-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/itten-617c9580d7/itten-617c9580d7-top-mobile.png"
+  },
+  "sources": [
+   "https://ashi2.jp/3827/",
+   "https://tabroom.jp/pr-hyogo/mar0101/sar000375/",
+   "https://www.ittena.com/aboutus/index.html"
+  ]
+ },
+ {
+  "lead_id": "lead-b582b2f70a",
+  "name": "株式会社竹内工務店(不動産部)",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市大原町5-4",
+  "industry": "不動産仲介・管理が主、リフォーム・増改築も対応",
+  "notes": "1972年創業。主業は不動産で対象適合は要判断。京都・横浜の同名『竹内工務店』とは別法人で統合しない。",
+  "candidate_site": "https://www.ashiya-takeuchi.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-b582b2f70a/lead-b582b2f70a-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-b582b2f70a/lead-b582b2f70a-top-mobile.png"
+  },
+  "sources": [
+   "https://www.ashiya-takeuchi.com/",
+   "https://www.hatomarksite.com/search/zentaku/agent/00072804882/"
+  ]
+ },
+ {
+  "lead_id": "lead-3e187b7781",
+  "name": "株式会社ラビングホーム",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市呉川町2-17",
+  "industry": "リフォーム",
+  "notes": "小規模の可能性(規模未確認)。出典は検索結果要約",
+  "candidate_site": "https://lovinghome.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-3e187b7781/lead-3e187b7781-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-3e187b7781/lead-3e187b7781-top-mobile.png"
+  },
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/sZ1ADL6eVHI",
+   "https://place.line.me/businesses/215888231",
+   "https://lovinghome.co.jp/",
+   "https://www.refonavi.or.jp/search/hyogo/c28206"
+  ]
+ },
+ {
+  "lead_id": "lead-7510f2543e",
+  "name": "西宮・芦屋の建築デザイン設計事務所 リンクアップ",
+  "region": "芦屋市(西宮・芦屋を対象と称するが拠点は未確認)",
+  "address": "",
+  "industry": "建築デザイン設計事務所",
+  "notes": "検索結果上は西宮に事務所があるとの記載。芦屋市内拠点かは未確認。",
+  "candidate_site": "http://l-u.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-7510f2543e/lead-7510f2543e-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-7510f2543e/lead-7510f2543e-top-mobile.png"
+  },
+  "sources": [
+   "http://l-u.jp/"
+  ]
+ },
+ {
+  "lead_id": "lead-09cc2fad02",
+  "name": "株式会社マニエラ建築設計事務所",
+  "region": "西宮市(芦屋市でも設計実績あり)",
+  "address": "兵庫県西宮市深谷町11-14",
+  "industry": "建築設計事務所(住宅・マンション・店舗の設計とリノベーション)",
+  "notes": "市外拠点(西宮市)。芦屋市で設計実績。Instagramあり。小規模。",
+  "candidate_site": "https://www.maniera.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-09cc2fad02/lead-09cc2fad02-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-09cc2fad02/lead-09cc2fad02-top-mobile.png"
+  },
+  "sources": [
+   "https://www.houzz.jp/pro/maniera5",
+   "https://www.maniera.co.jp/",
+   "https://sumaidea.com/architects/detail/1706/"
+  ]
+ },
+ {
+  "lead_id": "life-a88aba7de2",
+  "name": "株式会社LIFE建築工房",
+  "region": "尼崎市(芦屋市を施工エリアとして掲載)",
+  "address": "兵庫県尼崎市塚口町3丁目40番6号",
+  "industry": "リフォーム工事(水回り・内装・間取り変更・外構)",
+  "notes": "市外拠点(尼崎市)。リショップナビの芦屋市一覧で上位。小規模。",
+  "candidate_site": "https://life-kk.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/life-a88aba7de2/life-a88aba7de2-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/life-a88aba7de2/life-a88aba7de2-top-mobile.png"
+  },
+  "sources": [
+   "https://rehome-navi.com/hyogo/ashiyashi/categories/renovation/shops",
+   "https://life-kk.co.jp/",
+   "https://map.yahoo.co.jp/v3/place/Wo0BnMZ_m_k",
+   "https://rehome-navi.com/hyogo/ashiyashi/categories/renovation/shops"
+  ]
+ },
+ {
+  "lead_id": "modern-reform-203c8de206",
+  "name": "芦屋リフォーム(modern-reform)",
+  "region": "大阪市北区(芦屋・西宮・神戸向けサイトを運営)",
+  "address": "大阪市北区天満4-10-10 1F-honda bldg",
+  "industry": "マンション・戸建てリフォーム",
+  "notes": "市外拠点(大阪市北区)。運営法人名は未確認。",
+  "candidate_site": "https://modern-reform.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/modern-reform-203c8de206/modern-reform-203c8de206-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/modern-reform-203c8de206/modern-reform-203c8de206-top-mobile.png"
+  },
+  "sources": [
+   "https://modern-reform.jp/ashiya/",
+   "https://modern-reform.jp/ashiya/outline/company/",
+   "https://modern-reform.jp/ashiya/",
+   "https://modern-reform.jp/ashiya/outline/company/"
+  ]
+ },
+ {
+  "lead_id": "lead-3a858d4410",
+  "name": "一級建築士事務所 上野工務店",
+  "region": "茨木市(芦屋市を対応エリアとして掲載)",
+  "address": "大阪府茨木市新堂3-5-19(大阪本社)",
+  "industry": "工務店・一級建築士事務所(新築・大型リフォーム)",
+  "notes": "市外拠点(茨木市、伊丹支店あり)。芦屋市内拠点は未確認。同名の京都・舞鶴事業者は統合しない。",
+  "candidate_site": "https://uenokoumuten.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-3a858d4410/lead-3a858d4410-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-3a858d4410/lead-3a858d4410-top-mobile.png"
+  },
+  "sources": [
+   "https://suumo.jp/chumon/tn_hyogo/an_ashiya/ITn02.html",
+   "https://akitekt.net/koumutenmatome-1-165/",
+   "https://uenokoumuten.com/company-profile/"
+  ]
+ },
+ {
+  "lead_id": "lead-a73ed16d00",
+  "name": "一級建築士事務所 ひかり工務店",
+  "region": "豊中市(芦屋市の工務店一覧に掲載)",
+  "address": "",
+  "industry": "工務店・一級建築士事務所(注文住宅)",
+  "notes": "市外拠点(豊中市)。芦屋市内の拠点・施工範囲は未確認。",
+  "candidate_site": "https://www.hikarikoumuten.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-a73ed16d00/lead-a73ed16d00-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-a73ed16d00/lead-a73ed16d00-top-mobile.png"
+  },
+  "sources": [
+   "https://akitekt.net/koumutenmatome-1-165/",
+   "https://www.hikarikoumuten.com/about/company/"
+  ]
+ }
+]

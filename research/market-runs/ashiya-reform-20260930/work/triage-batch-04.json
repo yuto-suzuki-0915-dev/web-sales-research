@@ -1,0 +1,280 @@
+[
+ {
+  "lead_id": "lead-1b42d63612",
+  "name": "アトリエツバキ 一級建築士事務所(株式会社椿工務店)",
+  "region": "大阪府枚方市",
+  "address": "大阪府枚方市松丘町18-21",
+  "industry": "設計事務所併設の工務店(注文住宅)",
+  "notes": "芦屋市所在ではない。検索結果に混入しており、対象地域外が明白。芦屋拠点の証拠なし",
+  "candidate_site": "https://tsubaki-style.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-1b42d63612/lead-1b42d63612-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-1b42d63612/lead-1b42d63612-top-mobile.png"
+  },
+  "sources": [
+   "https://tsubaki-style.jp/company/"
+  ]
+ },
+ {
+  "lead_id": "rises-c7fd1d4a94",
+  "name": "rises株式会社",
+  "region": "兵庫県芦屋市",
+  "address": "兵庫県芦屋市前田町7-12",
+  "industry": "リフォーム・リノベーション・インテリアデザイン・店舗設計施工",
+  "notes": "建設業許可 兵庫県知事(般-4)第220318号(検索要約)。TOTOリモデルクラブ店掲載。小規模。阪神芦屋/JR芦屋周辺(前田町)。",
+  "candidate_site": "https://www.rises-inc.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/rises-c7fd1d4a94/rises-c7fd1d4a94-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/rises-c7fd1d4a94/rises-c7fd1d4a94-top-mobile.png"
+  },
+  "sources": [
+   "https://www.rises-inc.jp/",
+   "https://www.ashiya-net.or.jp/shop_detail.php?id=863",
+   "https://www.houzz.jp/pro/rises-inc",
+   "https://www.houzz.jp/pro/rises-inc"
+  ]
+ },
+ {
+  "lead_id": "lead-f4a8bdc6d7",
+  "name": "有限会社シンプレックス一級建築士事務所",
+  "region": "兵庫県芦屋市",
+  "address": "兵庫県芦屋市前田町5-8 西崎ビル2F",
+  "industry": "住宅設計事務所(RC住宅・リノベーション)",
+  "notes": "法人番号2140002026853。小規模設計事務所。Instagram: https://www.instagram.com/simplex_arc/ 。阪神芦屋/JR芦屋周辺。",
+  "candidate_site": "https://www.simplex-arc.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-f4a8bdc6d7/lead-f4a8bdc6d7-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-f4a8bdc6d7/lead-f4a8bdc6d7-top-mobile.png"
+  },
+  "sources": [
+   "https://www.simplex-arc.com/",
+   "https://loco.yahoo.co.jp/place/g-_BbBTUmROpo/",
+   "https://www.simplex-arc.com/about",
+   "https://www.simplex-arc.com/"
+  ]
+ },
+ {
+  "lead_id": "lead-d8f54bff6b",
+  "name": "株式会社笠谷工務店",
+  "region": "兵庫県芦屋市",
+  "address": "兵庫県芦屋市業平町4-1",
+  "industry": "工務店・建築設計施工・リフォーム",
+  "notes": "1906年創業、従業員29名(媒体記載)。関連会社の株式会社カサタニクリエート(同住所、リフォーム・メンテナンス)は別候補として扱う。Instagram: https://www.instagram.com/kasatani_komuten/ 。JR芦屋/阪神芦屋周辺(業平町)。中小規模。",
+  "candidate_site": "https://www.kasatani.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-d8f54bff6b/lead-d8f54bff6b-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-d8f54bff6b/lead-d8f54bff6b-top-mobile.png"
+  },
+  "sources": [
+   "https://www.kasatani.jp/",
+   "https://www.instagram.com/kasatani_komuten/",
+   "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4140001000262"
+  ]
+ },
+ {
+  "lead_id": "lead-6ad07907ed",
+  "name": "株式会社カサタニクリエート",
+  "region": "兵庫県芦屋市",
+  "address": "兵庫県芦屋市業平町4-1",
+  "industry": "リフォーム・メンテナンス",
+  "notes": "笠谷工務店の関連会社(検索要約)。同住所でも自動統合せず別候補。",
+  "candidate_site": "https://www.kasatani.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-6ad07907ed/lead-6ad07907ed-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-6ad07907ed/lead-6ad07907ed-top-mobile.png"
+  },
+  "sources": [
+   "https://www.kasatani.jp/"
+  ]
+ },
+ {
+  "lead_id": "lead-f4dd815ad4",
+  "name": "株式会社高翔",
+  "region": "兵庫県芦屋市",
+  "address": "兵庫県芦屋市業平町3-6 1F",
+  "industry": "注文住宅・リフォーム・リノベーション・不動産",
+  "notes": "芦屋・阪神間の木造/RC注文住宅、不動産(高翔バイセル)も運営。規模は中堅の可能性があり要確認(大手とは未確認)。",
+  "candidate_site": "https://takasho.net/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-f4dd815ad4/lead-f4dd815ad4-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-f4dd815ad4/lead-f4dd815ad4-top-mobile.png"
+  },
+  "sources": [
+   "https://takasho.net/",
+   "https://kansai-ietatta.com/company/35",
+   "https://takasho.net/service/reform-renovation/",
+   "https://takasho.net/chumon/reform/"
+  ]
+ },
+ {
+  "lead_id": "lead-4db1084159",
+  "name": "有限会社藤本工務店",
+  "region": "兵庫県芦屋市",
+  "address": "〒659-0091 兵庫県芦屋市東山町14-21",
+  "industry": "工務店・リフォーム・リノベーション・不動産管理",
+  "notes": "小規模。阪急芦屋川駅周辺(東山町)。",
+  "candidate_site": "https://fujimoto-ashiya.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-4db1084159/lead-4db1084159-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-4db1084159/lead-4db1084159-top-mobile.png"
+  },
+  "sources": [
+   "https://fujimoto-ashiya.co.jp/",
+   "https://www.houzz.jp/pro/webuser-914691919"
+  ]
+ },
+ {
+  "lead_id": "anciel-ee6b01d26d",
+  "name": "アン・シェル株式会社(anciel)",
+  "region": "兵庫県芦屋市",
+  "address": "兵庫県芦屋市茶屋之町7-12-2 anciel芦屋201",
+  "industry": "店舗・住宅の建築設計デザイン・施工監理(店舗設計中心)",
+  "notes": "阪神芦屋駅徒歩6分・JR芦屋駅徒歩8分(媒体記載)。店舗施工300件以上。住宅も扱うため対象業種の境界事例。Instagram: https://www.instagram.com/anciel_ashiya/ 。",
+  "candidate_site": "https://www.an-en-ciel.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/anciel-ee6b01d26d/anciel-ee6b01d26d-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/anciel-ee6b01d26d/anciel-ee6b01d26d-top-mobile.png"
+  },
+  "sources": [
+   "https://www.an-en-ciel.com/",
+   "https://www.tenpodesign.com/company/detail/1530",
+   "https://www.an-en-ciel.com/",
+   "https://www.an-en-ciel.com/company"
+  ]
+ },
+ {
+  "lead_id": "g-craft-6de5daf078",
+  "name": "芦屋市のG.CRAFT(ジークラフト)",
+  "region": "兵庫県芦屋市",
+  "address": "",
+  "industry": "注文住宅・設計施工(工務店)",
+  "notes": "芦屋市向けページ(https://gcraft.co.jp/ashiya_city)のみ確認。本社所在地が芦屋市内か不明で、市外の可能性あり。要確認。",
+  "candidate_site": "https://gcraft.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/g-craft-6de5daf078/g-craft-6de5daf078-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/g-craft-6de5daf078/g-craft-6de5daf078-top-mobile.png"
+  },
+  "sources": [
+   "https://gcraft.co.jp/ashiya_city"
+  ]
+ },
+ {
+  "lead_id": "lead-7f073b73db",
+  "name": "株式会社リンクアップ 一級建築士事務所",
+  "region": "兵庫県西宮市",
+  "address": "兵庫県西宮市苦楽園(詳細住所は未確認)",
+  "industry": "建築デザイン設計事務所(住宅・リノベーション・店舗設計・不動産)",
+  "notes": "芦屋市外(西宮市苦楽園)。芦屋・西宮・神戸を営業エリアとする。累計200件以上の施工実績。地域不一致の可能性が高く親とtriageで要判断。",
+  "candidate_site": "http://l-u.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-7f073b73db/lead-7f073b73db-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-7f073b73db/lead-7f073b73db-top-mobile.png"
+  },
+  "sources": [
+   "http://l-u.jp/",
+   "https://www.houzz.jp/pro/link-up"
+  ]
+ },
+ {
+  "lead_id": "ida-homes-637bee837b",
+  "name": "株式会社伊田工務店(IDA HOMES)",
+  "region": "兵庫県神戸市",
+  "address": "〒657-0836 神戸市灘区城内通4-7-25",
+  "industry": "注文住宅・工務店",
+  "notes": "芦屋市外(神戸市灘区本社)。芦屋エリア向けページあり。地域不一致の可能性が高く親とtriageで要判断。",
+  "candidate_site": "https://www.idahomes.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/ida-homes-637bee837b/ida-homes-637bee837b-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/ida-homes-637bee837b/ida-homes-637bee837b-top-mobile.png"
+  },
+  "sources": [
+   "https://www.idahomes.co.jp/area_ashiya/",
+   "https://www.idahomes.co.jp/company/",
+   "https://www.idahomes.co.jp/area_ashiya/",
+   "https://www.idahomes.co.jp/company/about/"
+  ]
+ },
+ {
+  "lead_id": "lead-190ab40be0",
+  "name": "トレイルアーキテクツ一級建築士事務所",
+  "region": "兵庫県三田市",
+  "address": "〒669-1513 兵庫県三田市三輪1-10-6-2",
+  "industry": "建築設計事務所(住宅・別荘・店舗・リノベーション設計監理)",
+  "notes": "芦屋市外(三田市、大阪・京都・白馬にも拠点)。Houzzの芦屋市建築家一覧に掲載。地域不一致の可能性が高く親とtriageで要判断。",
+  "candidate_site": "https://trail-architects.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-190ab40be0/lead-190ab40be0-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-190ab40be0/lead-190ab40be0-top-mobile.png"
+  },
+  "sources": [
+   "https://trail-architects.jp/"
+  ]
+ },
+ {
+  "lead_id": "lead-0542378f78",
+  "name": "有限会社シンプレックス一級建築士事務所",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市(番地未確認。国道2号沿い、芦屋川西側のテナントビル2階と公式ページ要約に記載)",
+  "industry": "住宅設計事務所(RCデザイン住宅・リノベーション・インテリア)",
+  "notes": "個人・小規模設計事務所。芦屋・西宮・神戸で活動。",
+  "candidate_site": "https://www.simplex-arc.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-0542378f78/lead-0542378f78-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-0542378f78/lead-0542378f78-top-mobile.png"
+  },
+  "sources": [
+   "https://www.houzz.jp/pro/simplexarc",
+   "https://www.kenchikukenken.co.jp/category/0k28k%E8%8A%A6%E5%B1%8B%E5%B8%82k1.html",
+   "https://shokuba-design.jp/simplex-arc/"
+  ]
+ },
+ {
+  "lead_id": "rises-d4df3ed75a",
+  "name": "rises株式会社",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市(番地未確認)",
+  "industry": "リフォーム・リノベーション・インテリアデザイン・店舗設計施工(設計施工)",
+  "notes": "小規模の設計施工会社。建設業許可 兵庫県知事(般-4)第220318号と検索結果に記載。TOTOリモデルクラブ店。Instagram候補 https://www.instagram.com/rises_keiko/ 、ブログ候補 http://rises.ldblog.jp/ 。いずれも未訪問。",
+  "candidate_site": "https://www.rises-inc.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/rises-d4df3ed75a/rises-d4df3ed75a-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/rises-d4df3ed75a/rises-d4df3ed75a-top-mobile.png"
+  },
+  "sources": [
+   "https://www.houzz.jp/pro/rises-inc",
+   "https://jp.toto.com/reform/remodelclub/RCD30601/",
+   "https://rehome-navi.com/hyogo/ashiyashi/categories/renovation/shops"
+  ]
+ },
+ {
+  "lead_id": "lead-782ef27021",
+  "name": "株式会社藤本高志建築設計事務所",
+  "region": "芦屋市(要確認)",
+  "address": "Houzz掲載: 〒659-0021 兵庫県芦屋市春日町1番12号 MAIN STAGE The Base 1F",
+  "industry": "建築設計事務所(住宅・集合住宅・店舗・宿・新築/リノベーション)",
+  "notes": "所在地矛盾あり。公式サイト側の要約は〒531-0075 大阪市北区大淀南2-8-2 西梅田藤本ビル2階。芦屋に拠点があるか未確認。ただし芦屋市の媒体に掲載されているため発見事業者として保持。ほかのHouzz掲載事業者との統合はしない。",
+  "candidate_site": "https://www.fujimoto-archi.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-782ef27021/lead-782ef27021-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-782ef27021/lead-782ef27021-top-mobile.png"
+  },
+  "sources": [
+   "https://www.houzz.jp/professionals/architect/c/%E5%85%B5%E5%BA%AB%E7%9C%8C-%E8%8A%A6%E5%B1%8B%E5%B8%82/p/15"
+  ]
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "rivet-design-office-b5b4b9b6a3",
+  "page_type": "top",
+  "page_url": "https://rivet-d.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:51.546Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/rivet-design-office-b5b4b9b6a3/rivet-design-office-b5b4b9b6a3-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/rivet-design-office-b5b4b9b6a3/rivet-design-office-b5b4b9b6a3-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

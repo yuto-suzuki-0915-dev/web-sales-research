@@ -1,0 +1,271 @@
+[
+ {
+  "lead_id": "lead-e26ab1fb16",
+  "name": "有限会社エコ・ハウス芦屋",
+  "region": "芦屋市",
+  "address": "",
+  "industry": "リフォーム・増改築・リノベーション(小規模リフォーム会社)",
+  "notes": "2000年創業と検索結果にあり。公式サイト候補 https://ecohouse-ashiya.com/ (未確認)。",
+  "candidate_site": "https://ecohouse-ashiya.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-e26ab1fb16/lead-e26ab1fb16-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-e26ab1fb16/lead-e26ab1fb16-top-mobile.png"
+  },
+  "sources": [
+   "https://ecohouse-ashiya.com/"
+  ]
+ },
+ {
+  "lead_id": "lead-33af443513",
+  "name": "株式会社越智工務店",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市打出小槌町14-12",
+  "industry": "工務店(住宅新築・建築家設計住宅の施工・リフォーム)",
+  "notes": "1933年創業の地元工務店。小〜中規模(規模未確認)。法人番号5140001000237。宅建業登録あり。打出エリア",
+  "candidate_site": "https://ochi-k.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-33af443513/lead-33af443513-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-33af443513/lead-33af443513-top-mobile.png"
+  },
+  "sources": [
+   "https://ochi-k.co.jp/",
+   "https://www.mapion.co.jp/phonebook/M10022/28206/22830214506/",
+   "https://www.mapion.co.jp/phonebook/M10022/28206/22830214506/",
+   "https://www.hatomarksite-zentaku.com/hyogo/company_area/result_area28206/company9990/"
+  ]
+ },
+ {
+  "lead_id": "lead-79b73ce987",
+  "name": "株式会社川北工務店",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市竹園町3-23",
+  "industry": "工務店(新築・建築工事・内装仕上)",
+  "notes": "創業約80年の地域密着工務店。公式サイト候補 https://www.kawakitakoumuten.com/ (未確認)。",
+  "candidate_site": "https://www.kawakitakoumuten.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-79b73ce987/lead-79b73ce987-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-79b73ce987/lead-79b73ce987-top-mobile.png"
+  },
+  "sources": [
+   "https://www.kawakitakoumuten.com/",
+   "https://tsukulink.net/hyogo/city_282065/225884"
+  ]
+ },
+ {
+  "lead_id": "lead-44f2f96c4a",
+  "name": "株式会社スタジオ・コア",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市東芦屋町7-5 芦屋アーチストビラ1F",
+  "industry": "リフォーム・リノベーション(不動産仲介併営)",
+  "notes": "2003年設立、スタッフ全員女性のリフォーム会社。電話 0797-21-6375。公式サイト候補 https://www.studio-koa.jp/ (未確認)。",
+  "candidate_site": "https://www.studio-koa.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-44f2f96c4a/lead-44f2f96c4a-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-44f2f96c4a/lead-44f2f96c4a-top-mobile.png"
+  },
+  "sources": [
+   "https://www.studio-koa.jp/",
+   "https://www.ashiya-net.or.jp/shop_detail.php?id=348"
+  ]
+ },
+ {
+  "lead_id": "rises-cd28961efe",
+  "name": "rises株式会社",
+  "region": "芦屋市",
+  "address": "",
+  "industry": "リフォーム・リノベーション・インテリアデザイン・店舗設計施工",
+  "notes": "TOTOリモデルクラブ店。公式サイト候補 https://www.rises-inc.jp/ (未確認)。Houzz掲載の電話・メールは公式性未確認。",
+  "candidate_site": "https://www.rises-inc.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/rises-cd28961efe/rises-cd28961efe-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/rises-cd28961efe/rises-cd28961efe-top-mobile.png"
+  },
+  "sources": [
+   "https://www.houzz.jp/pro/rises-inc",
+   "https://www.rises-inc.jp/"
+  ]
+ },
+ {
+  "lead_id": "masaki-corporation-7d796c587b",
+  "name": "MASAKI Corporation株式会社",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市川西町4番2号 ヴィーヴォ芦屋201",
+  "industry": "ハイエンド注文住宅・中古住宅リフォーム・リノベーション",
+  "notes": "芦屋・神戸・西宮で展開。公式サイト候補 https://masaki-corporation.com/ (未確認)。規模未確認。",
+  "candidate_site": "https://masaki-corporation.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/masaki-corporation-7d796c587b/masaki-corporation-7d796c587b-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/masaki-corporation-7d796c587b/masaki-corporation-7d796c587b-top-mobile.png"
+  },
+  "sources": [
+   "https://masaki-corporation.com/",
+   "https://map.yahoo.co.jp/v3/place/h1K2B9PBW8o"
+  ]
+ },
+ {
+  "lead_id": "lead-7233319cfa",
+  "name": "株式会社アメニティ芦屋",
+  "region": "芦屋市",
+  "address": "",
+  "industry": "インテリアコーディネート事務所",
+  "notes": "30年以上の活動実績。公式サイト候補 https://amenityashiya.com/ (未確認)。",
+  "candidate_site": "https://amenityashiya.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-7233319cfa/lead-7233319cfa-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-7233319cfa/lead-7233319cfa-top-mobile.png"
+  },
+  "sources": [
+   "https://amenityashiya.com/"
+  ]
+ },
+ {
+  "lead_id": "lead-e33749eca3",
+  "name": "イーズスタイル",
+  "region": "芦屋市",
+  "address": "",
+  "industry": "インテリア商品販売・インテリアコーディネート・リフォーム・マンションリノベーション",
+  "notes": "芦屋市内所在は検索スニペットからの推定。公式サイト候補 https://www.easestyle.com/ (未確認)。",
+  "candidate_site": "https://www.easestyle.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-e33749eca3/lead-e33749eca3-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-e33749eca3/lead-e33749eca3-top-mobile.png"
+  },
+  "sources": [
+   "https://www.easestyle.com/"
+  ]
+ },
+ {
+  "lead_id": "decor-blanc-345b0928e7",
+  "name": "Decor blanc(デコールブラン)",
+  "region": "不明(大阪・神戸・西宮・芦屋・宝塚を対象エリアとする)",
+  "address": "",
+  "industry": "モデルルームコーディネート・インテリアコーディネート・ホームステージング",
+  "notes": "所在地が芦屋市内かは未確認。公式サイト候補 http://decorblanc.com/ (未確認)。",
+  "candidate_site": "http://decorblanc.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/decor-blanc-345b0928e7/decor-blanc-345b0928e7-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/decor-blanc-345b0928e7/decor-blanc-345b0928e7-top-mobile.png"
+  },
+  "sources": [
+   "http://decorblanc.com/"
+  ]
+ },
+ {
+  "lead_id": "lead-d64fb69de8",
+  "name": "建築工房 感 設計事務所",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市三条町17-21-B102",
+  "industry": "一級建築士事務所(自然素材の木造住宅、高断熱高気密住宅の設計・監理)",
+  "notes": "小規模。代表 多田寛史。Houzz・homify・住宅展示場ネット等に掲載",
+  "candidate_site": "https://www.as-kan-ap.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-d64fb69de8/lead-d64fb69de8-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-d64fb69de8/lead-d64fb69de8-top-mobile.png"
+  },
+  "sources": [
+   "https://www.houzz.jp/pro/as-kan",
+   "https://sumai-pro.com/pro/pro-3012",
+   "https://www.homify.jp/professionals/3955977",
+   "https://www.houzz.jp/pro/as-kan"
+  ]
+ },
+ {
+  "lead_id": "lead-6a6d9d6eb3",
+  "name": "株式会社アトリエフルタ建築研究所",
+  "region": "芦屋市",
+  "address": "兵庫県芦屋市東山町12番8号",
+  "industry": "住宅設計事務所(建築設計)",
+  "notes": "小規模の設計事務所。代表は古田義弘(JIA・登録建築家掲載)。Instagramあり(@atelier_furuta)",
+  "candidate_site": "https://atelier-furuta.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-6a6d9d6eb3/lead-6a6d9d6eb3-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-6a6d9d6eb3/lead-6a6d9d6eb3-top-mobile.png"
+  },
+  "sources": [
+   "https://atelier-furuta.com/",
+   "https://atelier-furuta.com/about/",
+   "https://atelier-furuta.com/",
+   "https://atelier-furuta.com/about/"
+  ]
+ },
+ {
+  "lead_id": "lead-2b54c8f797",
+  "name": "株式会社リンクアップ(リンクアップ建築デザイン設計事務所)",
+  "region": "西宮市(苦楽園)。営業エリアに芦屋を含む",
+  "address": "",
+  "industry": "建築デザイン設計事務所(住宅設計・店舗設計・リノベーション)",
+  "notes": "本社は西宮市苦楽園で芦屋市内の拠点は未確認。対象地域外の可能性が高い。公式サイト候補 http://l-u.jp/ (未確認)。",
+  "candidate_site": "http://l-u.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-2b54c8f797/lead-2b54c8f797-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/lead-2b54c8f797/lead-2b54c8f797-top-mobile.png"
+  },
+  "sources": [
+   "http://l-u.jp/",
+   "https://www.houzz.jp/pro/link-up"
+  ]
+ },
+ {
+  "lead_id": "g-craft-3a4218f90d",
+  "name": "工務店G.CRAFT(ジークラフト)",
+  "region": "不明(芦屋市向けページあり、所在地未確認)",
+  "address": "",
+  "industry": "工務店・建築設計事務所(自由設計の注文住宅)",
+  "notes": "芦屋市向けページ https://gcraft.co.jp/ashiya_city あり。本社所在地は未確認。",
+  "candidate_site": "https://gcraft.co.jp/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/g-craft-3a4218f90d/g-craft-3a4218f90d-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/g-craft-3a4218f90d/g-craft-3a4218f90d-top-mobile.png"
+  },
+  "sources": [
+   "https://gcraft.co.jp/ashiya_city"
+  ]
+ },
+ {
+  "lead_id": "process5-design-132059487d",
+  "name": "PROCESS5 DESIGN",
+  "region": "不明(芦屋のマンションリノベーション事例あり、所在地未確認)",
+  "address": "",
+  "industry": "マンションリノベーション設計デザイン",
+  "notes": "事例ページ https://process5.com/design/ashiya2021/ あり。本社は芦屋市外の可能性。",
+  "candidate_site": "https://process5.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/process5-design-132059487d/process5-design-132059487d-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/process5-design-132059487d/process5-design-132059487d-top-mobile.png"
+  },
+  "sources": [
+   "https://process5.com/design/ashiya2021/"
+  ]
+ },
+ {
+  "lead_id": "hamada-design-5e114b8f27",
+  "name": "HAMADA DESIGN(浜田設計事務所・住宅設計 建築家の設計事務所)",
+  "region": "不明(大阪の事務所とみられる)",
+  "address": "",
+  "industry": "住宅設計・建築家の設計事務所",
+  "notes": "タイトルに「大阪」とあり芦屋市外の可能性が高い。",
+  "candidate_site": "https://hamada-design.com/",
+  "visual": "verified",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual/hamada-design-5e114b8f27/hamada-design-5e114b8f27-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual/hamada-design-5e114b8f27/hamada-design-5e114b8f27-top-mobile.png"
+  },
+  "sources": [
+   "https://hamada-design.com/works/works_detail.php?id=14473"
+  ]
+ }
+]

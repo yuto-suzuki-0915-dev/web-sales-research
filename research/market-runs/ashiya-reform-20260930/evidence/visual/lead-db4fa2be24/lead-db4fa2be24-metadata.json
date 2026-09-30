@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-db4fa2be24",
+  "page_type": "top",
+  "page_url": "https://www.yasue.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:46:41.874Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-db4fa2be24/lead-db4fa2be24-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-db4fa2be24/lead-db4fa2be24-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

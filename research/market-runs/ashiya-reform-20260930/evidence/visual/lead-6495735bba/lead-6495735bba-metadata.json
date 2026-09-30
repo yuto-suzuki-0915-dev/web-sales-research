@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-6495735bba",
+  "page_type": "top",
+  "page_url": "https://minoshiro.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:46:20.395Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-6495735bba/lead-6495735bba-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-6495735bba/lead-6495735bba-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

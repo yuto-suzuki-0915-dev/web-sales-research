@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-bdb55e251f",
+  "page_type": "top",
+  "page_url": "https://uetake-ashiya.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:46:09.962Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-bdb55e251f/lead-bdb55e251f-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-bdb55e251f/lead-bdb55e251f-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

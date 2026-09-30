@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "thi-s-corporation-edff925fae",
+  "page_type": "top",
+  "page_url": "https://this-c.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:58.025Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/thi-s-corporation-edff925fae/thi-s-corporation-edff925fae-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/thi-s-corporation-edff925fae/thi-s-corporation-edff925fae-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

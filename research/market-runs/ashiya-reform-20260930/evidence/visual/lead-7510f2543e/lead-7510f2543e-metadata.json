@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-7510f2543e",
+  "page_type": "top",
+  "page_url": "http://l-u.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:09.039Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-7510f2543e/lead-7510f2543e-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-7510f2543e/lead-7510f2543e-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

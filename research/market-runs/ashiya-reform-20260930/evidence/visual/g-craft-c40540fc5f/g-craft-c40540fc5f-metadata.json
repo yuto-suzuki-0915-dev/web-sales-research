@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "g-craft-c40540fc5f",
+  "page_type": "top",
+  "page_url": "https://gcraft.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:21.485Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/g-craft-c40540fc5f/g-craft-c40540fc5f-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/g-craft-c40540fc5f/g-craft-c40540fc5f-top-mobile.png"
+  },
+  "visual_status": "verified"
+}
