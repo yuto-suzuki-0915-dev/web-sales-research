@@ -1,0 +1,602 @@
+[
+ {
+  "id": "lead-e26ab1fb16",
+  "name": "有限会社エコ・ハウス芦屋",
+  "decision": "advance",
+  "url": "https://ecohouse-ashiya.com/"
+ },
+ {
+  "id": "lead-33af443513",
+  "name": "株式会社越智工務店",
+  "decision": "defer",
+  "url": "https://ochi-k.co.jp/"
+ },
+ {
+  "id": "lead-79b73ce987",
+  "name": "株式会社川北工務店",
+  "decision": "defer",
+  "url": "https://www.kawakitakoumuten.com/"
+ },
+ {
+  "id": "lead-44f2f96c4a",
+  "name": "株式会社スタジオ・コア",
+  "decision": "advance",
+  "url": "https://www.studio-koa.jp/"
+ },
+ {
+  "id": "rises-cd28961efe",
+  "name": "rises株式会社",
+  "decision": "defer",
+  "url": "https://www.rises-inc.jp/"
+ },
+ {
+  "id": "masaki-corporation-7d796c587b",
+  "name": "MASAKI Corporation株式会社",
+  "decision": "defer",
+  "url": "https://masaki-corporation.com/"
+ },
+ {
+  "id": "lead-7233319cfa",
+  "name": "株式会社アメニティ芦屋",
+  "decision": "advance",
+  "url": "https://amenityashiya.com/"
+ },
+ {
+  "id": "lead-e33749eca3",
+  "name": "イーズスタイル",
+  "decision": "advance",
+  "url": "https://www.easestyle.com/"
+ },
+ {
+  "id": "lead-d64fb69de8",
+  "name": "建築工房 感 設計事務所",
+  "decision": "advance",
+  "url": "https://www.as-kan-ap.com/"
+ },
+ {
+  "id": "lead-6a6d9d6eb3",
+  "name": "株式会社アトリエフルタ建築研究所",
+  "decision": "advance",
+  "url": "https://atelier-furuta.com/"
+ },
+ {
+  "id": "lead-a0916c3c2c",
+  "name": "有限会社エコ・ハウス芦屋",
+  "decision": "advance",
+  "url": "https://ecohouse-ashiya.com/"
+ },
+ {
+  "id": "lead-9e3b07bd74",
+  "name": "有限会社スペースアート",
+  "decision": "advance",
+  "url": "https://www.ne.jp/asahi/space/art/"
+ },
+ {
+  "id": "lead-589b407173",
+  "name": "株式会社アメニティ芦屋",
+  "decision": "advance",
+  "url": "https://amenityashiya.com/"
+ },
+ {
+  "id": "itten-617c9580d7",
+  "name": "インテリアセレクト＆コーディネートショップ itten(イッテン)",
+  "decision": "defer",
+  "url": "https://www.ittena.com/"
+ },
+ {
+  "id": "lead-b582b2f70a",
+  "name": "株式会社竹内工務店(不動産部)",
+  "decision": "defer",
+  "url": "https://www.ashiya-takeuchi.com/"
+ },
+ {
+  "id": "lead-3e187b7781",
+  "name": "株式会社ラビングホーム",
+  "decision": "advance",
+  "url": "https://lovinghome.co.jp/"
+ },
+ {
+  "id": "lead-4594c2bfdd",
+  "name": "株式会社浜田建築設計事務所",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-18b55eefb0",
+  "name": "高山建築設計事務所",
+  "decision": "advance",
+  "url": "http://www.eonet.ne.jp/~tkym-a/"
+ },
+ {
+  "id": "lead-32aea0da3b",
+  "name": "マノアート株式会社",
+  "decision": "defer",
+  "url": "https://manoart.co.jp/"
+ },
+ {
+  "id": "lead-c5bc29db0d",
+  "name": "株式会社三福",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-cc9744cb44",
+  "name": "有限会社エコ・エネルギー",
+  "decision": "advance",
+  "url": "https://blr.jp/ecoenergie/"
+ },
+ {
+  "id": "arkas-ashiya-ed363c4623",
+  "name": "Arkas Ashiya(アルカス芦屋)",
+  "decision": "advance",
+  "url": "https://arkas-ashiya.co.jp/"
+ },
+ {
+  "id": "lead-234f98eaa7",
+  "name": "株式会社イーズスタイル",
+  "decision": "advance",
+  "url": "https://www.easestyle.com/"
+ },
+ {
+  "id": "lead-27eaa6d659",
+  "name": "なごみ建設株式会社",
+  "decision": "defer",
+  "url": "https://nagomi-kensetsu.com/"
+ },
+ {
+  "id": "lead-7d0f450224",
+  "name": "株式会社藤野工務店",
+  "decision": "advance",
+  "url": "http://www.fujino-house.co.jp/"
+ },
+ {
+  "id": "lead-3fbb8e7534",
+  "name": "株式会社光嶋裕介建築設計事務所",
+  "decision": "advance",
+  "url": "https://www.ykas.jp/"
+ },
+ {
+  "id": "lead-a855fe06ac",
+  "name": "芦屋サンクスホーム",
+  "decision": "defer",
+  "url": "https://thanks-home.co.jp/"
+ },
+ {
+  "id": "lead-a323c186b1",
+  "name": "高級注文住宅 建築設計デザイン事務所 参會堂",
+  "decision": "defer",
+  "url": "https://sankaido.com/"
+ },
+ {
+  "id": "cecela-66648e20b4",
+  "name": "セセラの家(cecela)",
+  "decision": "defer",
+  "url": "https://cecela-est.com/"
+ },
+ {
+  "id": "lead-3bae6022f9",
+  "name": "株式会社三福",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-741fc27af4",
+  "name": "有限会社エコ・エネルギー",
+  "decision": "advance",
+  "url": "https://blr.jp/ecoenergie/"
+ },
+ {
+  "id": "whale-house-3c7f3f51fe",
+  "name": "WHALE HOUSE(ホエールハウス)",
+  "decision": "defer",
+  "url": "https://www.whalehouse.co.jp/"
+ },
+ {
+  "id": "rises-c7fd1d4a94",
+  "name": "rises株式会社",
+  "decision": "defer",
+  "url": "https://www.rises-inc.jp/"
+ },
+ {
+  "id": "lead-f4a8bdc6d7",
+  "name": "有限会社シンプレックス一級建築士事務所",
+  "decision": "defer",
+  "url": "https://www.simplex-arc.com/"
+ },
+ {
+  "id": "lead-d8f54bff6b",
+  "name": "株式会社笠谷工務店",
+  "decision": "defer",
+  "url": "https://www.kasatani.jp/"
+ },
+ {
+  "id": "lead-6ad07907ed",
+  "name": "株式会社カサタニクリエート",
+  "decision": "defer",
+  "url": "https://www.kasatani.jp/"
+ },
+ {
+  "id": "lead-f4dd815ad4",
+  "name": "株式会社高翔",
+  "decision": "defer",
+  "url": "https://takasho.net/"
+ },
+ {
+  "id": "lead-c2c78aa918",
+  "name": "株式会社オフィスナウ",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-dd590eb8cb",
+  "name": "株式会社富士",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-4db1084159",
+  "name": "有限会社藤本工務店",
+  "decision": "defer",
+  "url": "https://fujimoto-ashiya.co.jp/"
+ },
+ {
+  "id": "anciel-ee6b01d26d",
+  "name": "アン・シェル株式会社(anciel)",
+  "decision": "defer",
+  "url": "https://www.an-en-ciel.com/"
+ },
+ {
+  "id": "g-craft-6de5daf078",
+  "name": "芦屋市のG.CRAFT(ジークラフト)",
+  "decision": "defer",
+  "url": "https://gcraft.co.jp/"
+ },
+ {
+  "id": "lead-4461cf9585",
+  "name": "株式会社三福",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-01d4668ae1",
+  "name": "株式会社えびす工務店",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-0542378f78",
+  "name": "有限会社シンプレックス一級建築士事務所",
+  "decision": "defer",
+  "url": "https://www.simplex-arc.com/"
+ },
+ {
+  "id": "rises-d4df3ed75a",
+  "name": "rises株式会社",
+  "decision": "defer",
+  "url": "https://www.rises-inc.jp/"
+ },
+ {
+  "id": "lead-1da9531142",
+  "name": "有本優史郎建築設計事務所",
+  "decision": "advance",
+  "url": "http://a-rim.net/"
+ },
+ {
+  "id": "lead-782ef27021",
+  "name": "株式会社藤本高志建築設計事務所",
+  "decision": "defer",
+  "url": "https://www.fujimoto-archi.com/"
+ },
+ {
+  "id": "casa-decoration-279cc88847",
+  "name": "CASA DECORATION(カーサデコラシオン芦屋)",
+  "decision": "defer",
+  "url": "https://casa-deco.theblog.me/"
+ },
+ {
+  "id": "lead-8cd1605013",
+  "name": "株式会社アルカス",
+  "decision": "defer",
+  "url": "https://www.arkas-ashiya.co.jp/"
+ },
+ {
+  "id": "simul-design-office-ced4bba111",
+  "name": "シームルデザインオフィス(SIMUL DESIGN OFFICE)",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-e26ab1fb16-2",
+  "name": "有限会社エコ・ハウス芦屋",
+  "decision": "defer",
+  "url": "https://ecohouse-ashiya.com/"
+ },
+ {
+  "id": "life-0e49792b52",
+  "name": "株式会社LIFE建築工房",
+  "decision": "defer",
+  "url": "https://life-kk.co.jp/"
+ },
+ {
+  "id": "lead-13f43f3db8",
+  "name": "株式会社三福",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-9ec895d110",
+  "name": "株式会社スタジオ・コア",
+  "decision": "advance",
+  "url": "https://www.studio-koa.jp/"
+ },
+ {
+  "id": "ecohouse-e65a9bebeb",
+  "name": "有限会社エコ・ハウス(エコ・ハウス芦屋 ECOHOUSE)",
+  "decision": "defer",
+  "url": "https://ecohouse-ashiya.com/"
+ },
+ {
+  "id": "masaki-1b19d38f2c",
+  "name": "MASAKIコーポレーション株式会社",
+  "decision": "defer",
+  "url": "https://masaki-corporation.com/"
+ },
+ {
+  "id": "lead-2b7902b287",
+  "name": "参會堂(高級注文住宅 建築設計デザイン事務所)",
+  "decision": "defer",
+  "url": "https://sankaido.com/"
+ },
+ {
+  "id": "rivet-design-office-b5b4b9b6a3",
+  "name": "rivet design office 株式会社",
+  "decision": "defer",
+  "url": "https://rivet-d.jp/"
+ },
+ {
+  "id": "three-threedesign-7053097fa7",
+  "name": "株式会社THREE(ThreeDesign)",
+  "decision": "defer",
+  "url": "https://www.three-design.net/"
+ },
+ {
+  "id": "re-loop-6e1b9cfa66",
+  "name": "株式会社Re Loop(リループ)",
+  "decision": "defer",
+  "url": "https://re-loop.jp/"
+ },
+ {
+  "id": "simul-design-office-0d4c06f67e",
+  "name": "SIMUL DESIGN OFFICE(シームルデザインオフィス)",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-0b1d230ac5",
+  "name": "シンプルアンドスタイル",
+  "decision": "defer",
+  "url": "https://simpleandstyle.com/"
+ },
+ {
+  "id": "lead-5dfb55b13c",
+  "name": "有限会社ミサオケンチクラボ",
+  "decision": "defer",
+  "url": "https://misaoarc.com"
+ },
+ {
+  "id": "lead-0940c59491",
+  "name": "株式会社三福",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-557965f9fb",
+  "name": "コバヤシルーフ株式会社",
+  "decision": "advance",
+  "url": null
+ },
+ {
+  "id": "lead-f18cd9860e",
+  "name": "一級建築士事務所 ソツカ建築アトリエ",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "r-187381c31a",
+  "name": "株式会社インテリアR(西口理恵子/整理収納アドバイザー)",
+  "decision": "defer",
+  "url": "https://interior-r.com/"
+ },
+ {
+  "id": "lead-6a520e277f",
+  "name": "芦屋カーテン・石(カーテン館石)",
+  "decision": "defer",
+  "url": "https://ashiyacurtain.com/"
+ },
+ {
+  "id": "lead-9470f658c8",
+  "name": "有限会社きくや家具店",
+  "decision": "defer",
+  "url": "https://www.kikuya-kagu.co.jp/"
+ },
+ {
+  "id": "j-46e5c97c62",
+  "name": "木と工房家具 Jクオリア(松下木材株式会社)",
+  "decision": "defer",
+  "url": "https://www.j-qualia.jp/"
+ },
+ {
+  "id": "lead-48396c0fde",
+  "name": "為岡緑地建設株式会社",
+  "decision": "defer",
+  "url": "http://www.tameoka.co.jp/"
+ },
+ {
+  "id": "lead-d548cd98d1",
+  "name": "ペイントウォール(株式会社モリエン) 芦屋ショールーム",
+  "decision": "defer",
+  "url": "https://paint-wall.com/"
+ },
+ {
+  "id": "lead-2f26daf53b",
+  "name": "株式会社西田順紀アトリエ",
+  "decision": "defer",
+  "url": "https://www.nishida-junki.com/"
+ },
+ {
+  "id": "lead-46297c4d21",
+  "name": "一級建築士事務所 ソツカ建築アトリエ",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "renodesignashiya-1808c19c2f",
+  "name": "RenoDesignAshiya(リノデザイン芦屋)",
+  "decision": "defer",
+  "url": "https://renodesign-ashiya.com/"
+ },
+ {
+  "id": "lead-6495735bba",
+  "name": "有限会社蓑代工務店",
+  "decision": "defer",
+  "url": "https://minoshiro.com/"
+ },
+ {
+  "id": "lead-5c9bd4269f",
+  "name": "有限会社森岡工務店",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-18cab70a83",
+  "name": "株式会社近藤建設",
+  "decision": "defer",
+  "url": "http://www.kondokensetsu.com/"
+ },
+ {
+  "id": "lead-17f3e92b9e",
+  "name": "株式会社改善工房",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-9478916e9c",
+  "name": "株式会社ぷらす・あるふぁ",
+  "decision": "defer",
+  "url": "https://kouji-plus.com/"
+ },
+ {
+  "id": "lead-208680595d",
+  "name": "株式会社ジェーデザイン社",
+  "decision": "defer",
+  "url": "https://www.jllll-design.co.jp/"
+ },
+ {
+  "id": "lead-6d514185bd",
+  "name": "株式会社タイド",
+  "decision": "defer",
+  "url": "https://tidestyle.co.jp/"
+ },
+ {
+  "id": "lead-b6fa9d1e77",
+  "name": "株式会社ヴィーコ",
+  "decision": "defer",
+  "url": "https://vico-co.jp/"
+ },
+ {
+  "id": "lead-0800e053ff",
+  "name": "株式会社インテルコーポレーション",
+  "decision": "defer",
+  "url": "https://intelcorp.jp/"
+ },
+ {
+  "id": "lead-105b1dcffd",
+  "name": "株式会社サロンドシックデザインワークス",
+  "decision": "advance",
+  "url": null
+ },
+ {
+  "id": "io-5aa922ed83",
+  "name": "株式会社io設計事務所",
+  "decision": "advance",
+  "url": "https://io-arch.co.jp/"
+ },
+ {
+  "id": "uo-a-87c70db3d8",
+  "name": "Uo.A 一級建築士事務所",
+  "decision": "advance",
+  "url": "http://uo-a.info/"
+ },
+ {
+  "id": "lead-b4287888b9",
+  "name": "大庭徹建築計画",
+  "decision": "advance",
+  "url": "https://www.oba-archi.com/"
+ },
+ {
+  "id": "lead-0338f75aa1",
+  "name": "キアラ建築研究機関(芦屋アトリエ)",
+  "decision": "defer",
+  "url": "https://kyara-arc.com/"
+ },
+ {
+  "id": "r-design-49079fcafb",
+  "name": "R-design",
+  "decision": "advance",
+  "url": "https://r-dsgn.net/"
+ },
+ {
+  "id": "lead-6a2e5e54e1",
+  "name": "福嶋忠嗣建築設計室",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-70027c4852",
+  "name": "信光住機株式会社",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-da0dd83a89",
+  "name": "速水塗装店",
+  "decision": "defer",
+  "url": null
+ },
+ {
+  "id": "lead-01880805c5",
+  "name": "有限会社婆佐羅建築工房",
+  "decision": "advance",
+  "url": null
+ },
+ {
+  "id": "lead-f743b1ce64",
+  "name": "辻建築設計室",
+  "decision": "advance",
+  "url": "https://tsuji-ad.jp/"
+ },
+ {
+  "id": "renodesignashiya-d7b9659953",
+  "name": "RenoDesignAshiya(リノデザイン芦屋)",
+  "decision": "advance",
+  "url": "https://renodesign-ashiya.com/"
+ },
+ {
+  "id": "io-4c2dc6793c",
+  "name": "株式会社io設計事務所",
+  "decision": "defer",
+  "url": "https://io-arch.co.jp/"
+ },
+ {
+  "id": "lead-2ee713514c",
+  "name": "有限会社未来設計",
+  "decision": "defer",
+  "url": "https://miraisekkei.com/"
+ },
+ {
+  "id": "blanca-b97dd556a1",
+  "name": "株式会社blanca(ブランカ)",
+  "decision": "advance",
+  "url": "https://www.e-blanca.co.jp/"
+ }
+]
