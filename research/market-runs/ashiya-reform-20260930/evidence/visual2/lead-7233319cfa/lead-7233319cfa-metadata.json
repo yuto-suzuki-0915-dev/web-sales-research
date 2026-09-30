@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-7233319cfa",
+  "page_type": "top",
+  "page_url": "https://amenityashiya.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:53:49.311Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-7233319cfa/lead-7233319cfa-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-7233319cfa/lead-7233319cfa-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

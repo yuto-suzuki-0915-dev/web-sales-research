@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-a855fe06ac",
+  "page_type": "top",
+  "page_url": "https://thanks-home.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:54:51.703Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-a855fe06ac/lead-a855fe06ac-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-a855fe06ac/lead-a855fe06ac-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-b582b2f70a",
+  "page_type": "top",
+  "page_url": "https://www.ashiya-takeuchi.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:05.563Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-b582b2f70a/lead-b582b2f70a-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-b582b2f70a/lead-b582b2f70a-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

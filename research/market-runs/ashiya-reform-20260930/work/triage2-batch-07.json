@@ -1,0 +1,114 @@
+[
+ {
+  "lead_id": "uo-a-87c70db3d8",
+  "name": "Uo.A 一級建築士事務所",
+  "address": "兵庫県芦屋市西山町3-13 H201 丸善ハイツ",
+  "industry": "一級建築士事務所(個人設計事務所)",
+  "notes": "",
+  "site": "http://uo-a.info/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市内の個人一級建築士事務所でSegment該当。トップ画面は空白で観察できていないため、QUALIFYで公式サイトの状態と提案余地を確認する価値がある",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/uo-a-87c70db3d8/uo-a-87c70db3d8-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/uo-a-87c70db3d8/uo-a-87c70db3d8-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-0338f75aa1",
+  "name": "キアラ建築研究機関(芦屋アトリエ)",
+  "address": "兵庫県芦屋市月若町3-5",
+  "industry": "一級建築士事務所(本社は京都、芦屋に事務所)",
+  "notes": "",
+  "site": "https://kyara-arc.com/",
+  "pass1_decision": "defer",
+  "pass1_reason": "発見時メタデータで本社は京都、芦屋はアトリエ(事務所)。芦屋が主拠点か・規模が小規模かの確認が必要。サイト未観察のため後日確認",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-0338f75aa1/lead-0338f75aa1-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-0338f75aa1/lead-0338f75aa1-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "r-design-49079fcafb",
+  "name": "R-design",
+  "address": "兵庫県芦屋市公光町7-10 芦屋石川ビル",
+  "industry": "設計・リノベーション(詳細未確認)",
+  "notes": "",
+  "site": "https://r-dsgn.net/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市内の設計・リノベーション事業者の可能性があるが、業種詳細・規模が未確認。QUALIFYで事業内容とサイト状態を確認する価値がある",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/r-design-49079fcafb/r-design-49079fcafb-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/r-design-49079fcafb/r-design-49079fcafb-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-f743b1ce64",
+  "name": "辻建築設計室",
+  "address": "兵庫県芦屋市西蔵町5-7 芦屋三木マンション201",
+  "industry": "住宅設計・リノベーション設計(一級建築士事務所、個人)",
+  "notes": "",
+  "site": "https://tsuji-ad.jp/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市内の個人一級建築士事務所(住宅設計・リノベ設計)でSegment該当。サイト未観察のため、QUALIFYで公式性・更新状況・提案余地を確認する価値がある",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-f743b1ce64/lead-f743b1ce64-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-f743b1ce64/lead-f743b1ce64-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "renodesignashiya-d7b9659953",
+  "name": "RenoDesignAshiya(リノデザイン芦屋)",
+  "address": "",
+  "industry": "マンション・戸建て・店舗のリノベーション・リフォーム",
+  "notes": "",
+  "site": "https://renodesign-ashiya.com/",
+  "pass1_decision": "advance",
+  "pass1_reason": "マンション・戸建て・店舗のリノベーション事業者でSegment該当の可能性。所在地が未取得で芦屋市内拠点・規模の確認が必要なため、QUALIFYで住所と事業実態を確認する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/renodesignashiya-d7b9659953/renodesignashiya-d7b9659953-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/renodesignashiya-d7b9659953/renodesignashiya-d7b9659953-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "io-4c2dc6793c",
+  "name": "株式会社io設計事務所",
+  "address": "兵庫県芦屋市宮川町5-9-307",
+  "industry": "構造設計事務所(住宅新築・増築の構造設計、耐震診断・補強設計)。住宅設計の直接受託かは未確認",
+  "notes": "",
+  "site": "https://io-arch.co.jp/",
+  "pass1_decision": "defer",
+  "pass1_reason": "io-5aa922ed83と名称・公式サイトURL・住所(宮川町5-9、フォルム芦屋アヴァンセ307)が一致する同一事業者の可能性が高い。統合判断(merge-duplicates)をparentに委ね、統合までは深掘りしない。業種は構造設計で住宅設計の直接受託かは未確認",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/io-4c2dc6793c/io-4c2dc6793c-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/io-4c2dc6793c/io-4c2dc6793c-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-2ee713514c",
+  "name": "有限会社未来設計",
+  "address": "兵庫県芦屋市東山町5-8",
+  "industry": "商業不動産仲介・店舗開発・商業内装設計施工(住宅リフォーム・設計が主か未確認)",
+  "notes": "",
+  "site": "https://miraisekkei.com/",
+  "pass1_decision": "defer",
+  "pass1_reason": "発見時メタデータで商業不動産仲介・店舗開発・商業内装設計施工が中心。住宅リフォーム・設計・インテリアが主力か未確認のため、サイト取得後にSegment適合を確認する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-2ee713514c/lead-2ee713514c-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-2ee713514c/lead-2ee713514c-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "blanca-b97dd556a1",
+  "name": "株式会社blanca(ブランカ)",
+  "address": "",
+  "industry": "インテリア・空間デザイン",
+  "notes": "",
+  "site": "https://www.e-blanca.co.jp/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市川西町所在の空間デザイン・高級リフォーム会社でSegmentに合致(検索結果でe-blanca.co.jpと名称・所在地・業種が一致)。トップ画面は証明書エラーで未観察のため、QUALIFYでサイト表示の再確認が必要",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/blanca-b97dd556a1/blanca-b97dd556a1-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/blanca-b97dd556a1/blanca-b97dd556a1-top-mobile.png"
+  }
+ }
+]

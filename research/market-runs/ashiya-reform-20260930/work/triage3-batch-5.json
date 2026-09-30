@@ -1,0 +1,131 @@
+[
+ {
+  "lead_id": "lead-48396c0fde",
+  "name": "為岡緑地建設株式会社",
+  "site": "http://www.tameoka.co.jp/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "社名はmobileで確認でき公式サイトと同定。エクステリア・造園の設計施工でSegment境界、番地未確認で芦屋市内拠点か不明。desktopは白紙でweb_gap判定不能。拠点と事業範囲を確認してから再判定",
+  "pass2_web_observation": "desktop(1440px幅)トップが全面白紙で構成・導線を観察できない。mobileは縦書き社名と庭門の写真のみで、メニュー・連絡先は最初の画面に見えない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-48396c0fde/lead-48396c0fde-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-48396c0fde-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "renodesignashiya-1808c19c2f",
+  "name": "RenoDesignAshiya(リノデザイン芦屋)",
+  "site": "https://renodesign-ashiya.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイトと同定しSegment(中古住宅・マンション再生)に合致。運営主体・所在地・事例の有無が未確認で、mobileトップに文字切れがあり、QUALIFYで会社概要と事例を確認する価値あり。スライダー描画途中の可能性あり",
+  "pass2_web_observation": "mobile(390px幅)でスライダーの英語見出し'A house should age with g'が途中で切れ、見出し下の説明文('中古住宅・マンションの資産価値を美しく再生する…')が右端で切れている。desktop(1440px幅)は全面写真ヒーローで、見出し・事例・CTAが最初の画面に見えない。メニューは住まいの本質/サービス/会社概要/ご相談の流れ/よくある質問/お問い合わせ。スライダー描画途中の可能性があり確度は低い",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/renodesignashiya-1808c19c2f/renodesignashiya-1808c19c2f-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/renodesignashiya-1808c19c2f-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-6495735bba",
+  "name": "有限会社蓑代工務店",
+  "site": "https://minoshiro.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "strong",
+  "pass2_reason": "公式サイトと同定(有限会社蓑代工務店、兵庫県芦屋市、建設業許可表記、Segment合致)。mobileで内容が画面幅からはみ出し、メニュー・電話が最初の画面に見えないなど構造面の差を観察。QUALIFYで施工事例・更新状況・既存導線を確認する",
+  "pass2_web_observation": "mobile(390px幅)で上部の所在・許可番号表記('兵庫県知事 許…')とコンセプト本文が右端で切れて画面幅からはみ出し、メニュー・電話番号・Facebookが最初の画面に見えない。desktop(1440px幅)にはメニュー7項目(トップ/コンセプト/新築施工/リノベーション/店舗設計/会社紹介/お問合せ)と電話・Facebookがあるがmobileに引き継がれていない。見た目の古さではなくmobileの導線・幅の観察",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-6495735bba/lead-6495735bba-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-6495735bba-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-18cab70a83",
+  "name": "株式会社近藤建設",
+  "site": "http://www.kondokensetsu.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "公式サイトと同定(株式会社近藤建設、ashiya-style表記、住宅設計施工でSegment合致)。トップ画像だけではWeb提案余地を判断できず、規模・施工事例・更新状況をQUALIFYで確認する価値あり",
+  "pass2_web_observation": "desktop(1440px幅)は施工写真モザイクと中央のashiya-styleコピー、メニュー(TOPPAGE/HOUSING/FUNDING CONSULTATION/WORKS/COMPANY)とCONTACTボタンあり。mobile(390px幅)はロゴと写真モザイクのみで、メニュー・連絡導線が最初の画面に見えない(読込途中の可能性)。SNSは旧Twitterの鳥アイコン。明確な不備と断定できる観察なし",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-18cab70a83/lead-18cab70a83-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-18cab70a83-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-208680595d",
+  "name": "株式会社ジェーデザイン社",
+  "site": "https://www.jllll-design.co.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイトと同定(Jllll design inc.、コピーライト2013-2026、奥池南町の一級建築士事務所)。mobileで左余白と大きな空の暗色ブロックがあり、トップの情報量が少ない。QUALIFYでPortfolioとBusinessを確認する価値あり。描画途中の可能性あり",
+  "pass2_web_observation": "desktop(1440px幅)はメニュー(Home/Ideology/Concept/Business/Process/About us/Portfolio/Recruit)が淡く読みにくく、螺旋階段写真と英語の企業理念のみ。mobile(390px幅)は左に約90pxの空白帯、写真、英語理念、Copyright下に大きな空の暗色ブロックで、メニューはハンバーガーの中。事例・連絡導線は最初の画面に見えない。描画途中の可能性あり",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-208680595d/lead-208680595d-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-208680595d-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "uo-a-87c70db3d8",
+  "name": "Uo.A 一級建築士事務所",
+  "site": null,
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "uo-a.infoは売り出し中の失効ドメインページ(Expired Domains、$100 buy-it-now)で事業者の公式サイトではない。公式サイト未確認のため今回は深掘りせず、別の公式サイト・名称での再探索を後日確認する。閉業の根拠はなくcandidate維持",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/uo-a-87c70db3d8/uo-a-87c70db3d8-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/uo-a-87c70db3d8-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-0338f75aa1",
+  "name": "キアラ建築研究機関(芦屋アトリエ)",
+  "site": "https://kyara-arc.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイトと見られる建築事務所サイト(Kyara Partners and Associates)を確認。芦屋が主拠点か・規模の確認は必要だが、導線に観察可能な差があり下層(About/Service)確認でQUALIFY判断が変わり得る。最新更新日は未観察",
+  "pass2_web_observation": "desktop: トップは9枚の施工写真グリッドのみで事業内容・所在・相談導線の文言がなく、ナビ(Home/About/Service/Works/Staff/Topics/Contact)が細い灰色バー。mobile: グリッドが幅に収まらずナビが途中で切れる(キャプチャ起因の可能性あり、補助扱い)。問い合わせはナビ内のContactのみ",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-0338f75aa1/lead-0338f75aa1-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-0338f75aa1-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-f743b1ce64",
+  "name": "辻建築設計室",
+  "site": "https://tsuji-ad.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "『兵庫県で住宅の新築・リフォーム 設計なら辻建築設計室』と明記され、住宅設計・リフォームのSegmentに合致する個人事務所の公式サイトと判断。トップでは明確な差が見えないため、施工事例・ブログの更新と導線をQUALIFYで確認する価値がある",
+  "pass2_web_observation": "desktop: ナビにコンセプト/施工事例/建築士プロフィール/設計から完成までの流れ/お客様の声/FAQ/お役立ち情報/ブログと右上メールアイコン。mobile: 『無料相談・問い合わせはこちら』の固定ボタンあり。トップ範囲では大きな欠落は見えずgapは判断保留",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-f743b1ce64/lead-f743b1ce64-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-f743b1ce64-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "renodesignashiya-d7b9659953",
+  "name": "RenoDesignAshiya(リノデザイン芦屋)",
+  "site": "https://renodesign-ashiya.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "『Reno Design ASHIYA』のリノベ事業者サイトで『中古住宅・マンションの資産価値を美しく再生する』と記載されSegmentに合致。所在地(芦屋市内か)・規模は未確認で、ナビに施工事例がない点の確認がQUALIFYで判断を変え得る",
+  "pass2_web_observation": "desktop: ナビは住まいの本質/サービス/会社概要/ご相談の流れ/よくある質問/お問い合わせで、施工事例・実績の項目がない。ファーストビューは全面スライダー写真と英語見出し『A house should』(途中表示)で、所在・事例・電話等の情報は見えない(確認範囲: トップ画面のみ。下層に事例がある可能性あり)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/renodesignashiya-d7b9659953/renodesignashiya-d7b9659953-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/renodesignashiya-d7b9659953-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "blanca-b97dd556a1",
+  "name": "株式会社blanca(ブランカ)",
+  "site": "https://www.e-blanca.co.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "blancaのCONCEPT『上質な普段着のように、永く愛されつづける空間演出』、DESIGNで商空間・住宅の空間デザインと記載。インテリア・空間デザインのSegmentに合致。会社規模(採用・家具取扱あり)と事例更新をQUALIFYで確認する価値がある",
+  "pass2_web_observation": "desktop: ナビCONCEPT/DESIGN/INTERIOR/HOME GOODS/OUTLINE/RECRUIT/CONTACTと外部リンクDePadova。ファーストビューは家具写真のスライダーで、施工事例の項目名はナビにない(DESIGN内にある可能性あり)。表示は正常で明確な欠落は未確認のため判断保留",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/blanca-b97dd556a1/blanca-b97dd556a1-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/blanca-b97dd556a1-top-mobile.png"
+  }
+ }
+]

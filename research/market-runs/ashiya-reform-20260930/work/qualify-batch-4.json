@@ -1,0 +1,35 @@
+[
+ {
+  "lead_id": "lead-208680595d",
+  "name": "株式会社ジェーデザイン社",
+  "site": "https://www.jllll-design.co.jp/",
+  "address": "兵庫県芦屋市奥池南町19-10",
+  "triage_reason": "スマホ表示自体は正常。ただしトップは英語の理念文のみで事業内容の日本語説明・事例・問い合わせ導線が見えず、メニュー内にしかない情報整理上の差を観察(desktopもメニューが淡い)。所在は奥池南町の一級建築士事務所。QUALIFYでPortfolio/Businessを確認。観察はトップのみで確度は中程度",
+  "web_gap": "moderate",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-208680595d",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-208680595d-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-208680595d/lead-208680595d-top-desktop.png"
+ },
+ {
+  "lead_id": "lead-b4287888b9",
+  "name": "大庭徹建築計画",
+  "site": "https://www.oba-archi.com/",
+  "address": "兵庫県芦屋市春日町8-4 プランタン芦屋ビル202号",
+  "triage_reason": "芦屋市内の一級建築士事務所(住宅・リノベ・店舗設計)でSegment該当。サイト未観察のため、QUALIFYで公式性・更新状況・提案余地を確認する価値がある",
+  "web_gap": "unknown",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-b4287888b9",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-b4287888b9-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-b4287888b9/lead-b4287888b9-top-desktop.png"
+ },
+ {
+  "lead_id": "lead-0338f75aa1",
+  "name": "キアラ建築研究機関(芦屋アトリエ)",
+  "site": "https://kyara-arc.com/",
+  "address": "兵庫県芦屋市月若町3-5",
+  "triage_reason": "スマホで文字・ナビが極小でタップ・閲読が難しく、レスポンシブ非対応という具体的な手段の差を観察(主観的な古さではない)。ただし芦屋が主拠点か・規模は未確認でpass2の理由を維持。QUALIFYでAbout/Service/Worksと更新状況を確認",
+  "web_gap": "moderate",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-0338f75aa1",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-0338f75aa1-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-0338f75aa1/lead-0338f75aa1-top-desktop.png"
+ }
+]

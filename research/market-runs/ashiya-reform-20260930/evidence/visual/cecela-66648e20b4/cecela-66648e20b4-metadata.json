@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "cecela-66648e20b4",
+  "page_type": "top",
+  "page_url": "https://cecela-est.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:20.023Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/cecela-66648e20b4/cecela-66648e20b4-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/cecela-66648e20b4/cecela-66648e20b4-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

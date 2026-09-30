@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-48396c0fde",
+  "page_type": "top",
+  "page_url": "http://www.tameoka.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:46:16.298Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-48396c0fde/lead-48396c0fde-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-48396c0fde/lead-48396c0fde-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

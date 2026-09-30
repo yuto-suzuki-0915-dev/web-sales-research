@@ -1,0 +1,142 @@
+[
+ {
+  "lead_id": "lead-27eaa6d659",
+  "name": "なごみ建設株式会社",
+  "address": "兵庫県芦屋市大東町10-12 フロンテージ芦屋115号室",
+  "industry": "リフォーム・リノベーション・新築",
+  "notes": "中小規模。従業員40名、資本金500万円、代表は兼上雅宏と紹介。TOTOリモデルクラブ掲載。個人・小規模の範囲を超える可能性があるが発見として保持",
+  "site": "https://nagomi-kensetsu.com/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋市大東町の拠点はあるが、従業員40名・TOTOリモデルクラブ掲載と紹介されており、個人・小規模のSegmentを超える可能性がある。トップ画面も未観察。規模とSegment適合を確認してから進めるか判断する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-27eaa6d659/lead-27eaa6d659-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-27eaa6d659/lead-27eaa6d659-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-7d0f450224",
+  "name": "株式会社藤野工務店",
+  "address": "兵庫県芦屋市前田町4-11",
+  "industry": "工務店(新築・戸建・マンションリフォーム・外装・防水)",
+  "notes": "小規模〜中小規模(規模未確認)。出典はハピすむ掲載の検索結果",
+  "site": "http://www.fujino-house.co.jp/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市前田町の地域工務店(昭和39年設立・資本金2,000万円)で、新築と戸建・マンションのリフォームを扱う。公式サイトと会社概要ページがあり、更新状況と施工事例の構成をQUALIFYで確認する価値がある。規模は中小のため、個人・小規模との適合もQUALIFYで確認する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-7d0f450224/lead-7d0f450224-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-7d0f450224/lead-7d0f450224-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-3fbb8e7534",
+  "name": "株式会社光嶋裕介建築設計事務所",
+  "address": "兵庫県芦屋市大桝町3丁目4番地",
+  "industry": "建築設計事務所",
+  "notes": "小規模の設計事務所。東京事務所もあると紹介。住宅以外の公共・文化施設の比重は未確認。法人番号6140001113418。芦屋市商工会会員ページあり",
+  "site": "https://www.ykas.jp/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市大桝町に所在し、芦屋市商工会会員ページもある小規模の建築設計事務所で、Segmentに合致する。住宅以外の比重とトップ画面は未観察のため、QUALIFYで住宅設計の比重と活動・Web提案余地を確認する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-3fbb8e7534/lead-3fbb8e7534-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-3fbb8e7534/lead-3fbb8e7534-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-a855fe06ac",
+  "name": "芦屋サンクスホーム",
+  "address": "兵庫県芦屋市打出小町14-10",
+  "industry": "不動産会社(リノベーション事業・インテリアコーディネーター在籍)",
+  "notes": "不動産が主業。リノベーション事業もあるため境界事例として保持",
+  "site": "https://thanks-home.co.jp/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋市打出小町の不動産会社で主業が不動産、リノベ事業は副業の可能性がある境界事例。トップ画面も未観察。リノベ事業の比重を確認してからSegment適合を判断する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-a855fe06ac/lead-a855fe06ac-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-a855fe06ac/lead-a855fe06ac-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-a323c186b1",
+  "name": "高級注文住宅 建築設計デザイン事務所 参會堂",
+  "address": "",
+  "industry": "建築設計デザイン事務所(高級注文住宅)",
+  "notes": "1992年創業と自称。所在地は未取得で、芦屋に所在するかは未確認。芦屋向けコンテンツあり",
+  "site": "https://sankaido.com/",
+  "pass1_decision": "defer",
+  "pass1_reason": "所在地が未取得で、芦屋市に拠点があるか未確認(対応エリアとして芦屋向けコンテンツがあるのみ)。トップ画面も未観察。所在地を確認できればadvanceを検討する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-a323c186b1/lead-a323c186b1-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-a323c186b1/lead-a323c186b1-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-741fc27af4",
+  "name": "有限会社エコ・エネルギー",
+  "address": "",
+  "industry": "リフォーム",
+  "notes": "リフォーム評価ナビの芦屋市一覧に掲載。所在地と同定は未取得。同名の他社と取り違えない",
+  "site": "https://blr.jp/ecoenergie/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市一覧に掲載の同名法人で、会社情報ページを持つサイト候補(blr.jp/ecoenergie)を発見。所在地と事業者同定をQUALIFYで確認する価値がある。lead-cc9744cb44と同一の可能性が高いが確実でなく統合しない(親が同定できた場合はmerge-duplicatesを検討)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-741fc27af4/lead-741fc27af4-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-741fc27af4/lead-741fc27af4-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "rises-c7fd1d4a94",
+  "name": "rises株式会社",
+  "address": "兵庫県芦屋市前田町7-12",
+  "industry": "リフォーム・リノベーション・インテリアデザイン・店舗設計施工",
+  "notes": "建設業許可 兵庫県知事(般-4)第220318号(検索要約)。TOTOリモデルクラブ店掲載。小規模。阪神芦屋/JR芦屋周辺(前田町)。",
+  "site": "https://www.rises-inc.jp/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋市前田町・小規模のリフォーム設計施工でSegment適合の見込み(探索メモ・芦屋市の媒体掲載)。ただしトップ画面を確認できず公式性・活動・Web提案余地が未確認。再取得後に判断。rises-d4df3ed75aと同一事業者の可能性あり(統合は未確定)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/rises-c7fd1d4a94/rises-c7fd1d4a94-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/rises-c7fd1d4a94/rises-c7fd1d4a94-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-f4a8bdc6d7",
+  "name": "有限会社シンプレックス一級建築士事務所",
+  "address": "兵庫県芦屋市前田町5-8 西崎ビル2F",
+  "industry": "住宅設計事務所(RC住宅・リノベーション)",
+  "notes": "法人番号2140002026853。小規模設計事務所。Instagram: https://www.instagram.com/simplex_arc/ 。阪神芦屋/JR芦屋周辺。",
+  "site": "https://www.simplex-arc.com/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋市前田町の小規模住宅設計事務所でSegment適合の見込み(探索メモ・法人番号あり)。ただしトップ画面を確認できず公式性・活動・Web提案余地が未確認。再取得後に判断。lead-0542378f78と同一事業者の可能性あり(統合は未確定)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-f4a8bdc6d7/lead-f4a8bdc6d7-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-f4a8bdc6d7/lead-f4a8bdc6d7-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-d8f54bff6b",
+  "name": "株式会社笠谷工務店",
+  "address": "兵庫県芦屋市業平町4-1",
+  "industry": "工務店・建築設計施工・リフォーム",
+  "notes": "1906年創業、従業員29名(媒体記載)。関連会社の株式会社カサタニクリエート(同住所、リフォーム・メンテナンス)は別候補として扱う。Instagram: https://www.instagram.com/kasatani_komuten/ 。JR芦屋/阪神芦屋周辺(業平町)。中小規模。",
+  "site": "https://www.kasatani.jp/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋市業平町の工務店・リフォーム。従業員29名(媒体記載)で中小規模、Segment適合は要確認。トップ画面を確認できず公式性・活動・Web提案余地が未確認。再取得後に判断。lead-6ad07907edとは同住所・同サイトだが別法人として別候補を維持",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-d8f54bff6b/lead-d8f54bff6b-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-d8f54bff6b/lead-d8f54bff6b-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-4db1084159",
+  "name": "有限会社藤本工務店",
+  "address": "〒659-0091 兵庫県芦屋市東山町14-21",
+  "industry": "工務店・リフォーム・リノベーション・不動産管理",
+  "notes": "小規模。阪急芦屋川駅周辺(東山町)。",
+  "site": "https://fujimoto-ashiya.co.jp/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋市東山町の小規模な工務店・リフォーム・リノベーションでSegment適合の見込み(探索メモ・住所記載)。ただしトップ画面を確認できず公式性・活動・Web提案余地が未確認。再取得後に判断",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-4db1084159/lead-4db1084159-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-4db1084159/lead-4db1084159-top-mobile.png"
+  }
+ }
+]

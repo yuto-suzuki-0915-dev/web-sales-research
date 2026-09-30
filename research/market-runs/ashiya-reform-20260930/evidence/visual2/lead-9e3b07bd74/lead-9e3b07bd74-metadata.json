@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-9e3b07bd74",
+  "page_type": "top",
+  "page_url": "https://www.ne.jp/asahi/space/art/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:53:56.077Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-9e3b07bd74/lead-9e3b07bd74-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-9e3b07bd74/lead-9e3b07bd74-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

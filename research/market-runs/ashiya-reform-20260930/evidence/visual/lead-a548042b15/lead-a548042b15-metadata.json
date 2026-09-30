@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-a548042b15",
+  "page_type": "top",
+  "page_url": "https://8984.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:13.987Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-a548042b15/lead-a548042b15-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-a548042b15/lead-a548042b15-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

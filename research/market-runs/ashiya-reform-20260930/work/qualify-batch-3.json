@@ -1,0 +1,35 @@
+[
+ {
+  "lead_id": "anciel-ee6b01d26d",
+  "name": "アン・シェル株式会社(anciel)",
+  "site": "https://www.an-en-ciel.com/",
+  "address": "兵庫県芦屋市茶屋之町7-12-2 anciel芦屋201",
+  "triage_reason": "正しい390px幅の画像で、スマホ向けレイアウトへの切替がなく縮小表示になっていることを具体的に観察できた。スマホの可読性と操作性に差がある。電話とメールの導線は見える。店舗設計中心で業種は境界のため、QUALIFYで住宅・リフォーム比重を確認する。ヘッダーは神戸市表記、TELは芦屋局番のため、所在地も確認する。",
+  "web_gap": "moderate",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/anciel-ee6b01d26d",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/anciel-ee6b01d26d-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/anciel-ee6b01d26d/anciel-ee6b01d26d-top-desktop.png"
+ },
+ {
+  "lead_id": "casa-decoration-279cc88847",
+  "name": "CASA DECORATION(カーサデコラシオン芦屋)",
+  "site": "https://casa-deco.theblog.me/",
+  "address": "兵庫県芦屋市 〒659-0037(番地非公開の自宅サロン)",
+  "triage_reason": "スマホ・PCとも最上部に無料プラットフォーム(Ameba Ownd)の宣伝バナーが出ており、独自性の面で具体的な差が観察できる。更新日は未確認で、QUALIFYで更新状況と問い合わせ導線を確認する。",
+  "web_gap": "moderate",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/casa-decoration-279cc88847",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/casa-decoration-279cc88847-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/casa-decoration-279cc88847/casa-decoration-279cc88847-top-desktop.png"
+ },
+ {
+  "lead_id": "lead-18cab70a83",
+  "name": "株式会社近藤建設",
+  "site": "https://www.kondokensetsu.com/",
+  "address": "兵庫県芦屋市若宮町6-5",
+  "triage_reason": "pass2のdesktop根拠(ashiya-style表記、住宅設計施工でSegment合致、メニューとCONTACTあり、明確な不備なし)は維持。スマホ由来の根拠は不使用でweb_gapは不明のまま。規模・施工事例・更新状況はQUALIFYで確認。スマホは再撮影が望ましい",
+  "web_gap": "unknown",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-18cab70a83",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-18cab70a83-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-18cab70a83/lead-18cab70a83-top-desktop.png"
+ }
+]

@@ -1,0 +1,37 @@
+{
+  "schema_version": 4,
+  "qualification_rules_version": 1,
+  "run_id": "ashiya-reform-20260930",
+  "region": "芦屋市",
+  "industry": "リフォーム・リノベーション・インテリア・住宅設計事務所",
+  "segment": "個人・小規模のリフォーム／リノベーション／インテリア／住宅設計事務所",
+  "state": "complete",
+  "workflow_stage": "discovered",
+  "started_at": "2026-09-30T08:23:47.016Z",
+  "updated_at": "2026-09-30T09:24:18.640Z",
+  "stop_reason": "technical_limit",
+  "limits": {
+    "user_business_limit": null,
+    "technical": {
+      "max_additional_routes": 20,
+      "max_run_minutes": 180
+    }
+  },
+  "discovery": {
+    "basic_routes_required": [
+      "web",
+      "map",
+      "industry_media",
+      "region_variant",
+      "station_area",
+      "industry_synonym"
+    ],
+    "basic_discovery_completed": true,
+    "low_yield_streak": 0,
+    "saturated": false,
+    "saturation_threshold": 1,
+    "saturation_streak_required": 3
+  },
+  "observed_unique_businesses": 184,
+  "resumed_at": "2026-09-30T08:43:54.380Z"
+}

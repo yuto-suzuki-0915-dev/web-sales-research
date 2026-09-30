@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-a73ed16d00",
+  "page_type": "top",
+  "page_url": "https://www.hikarikoumuten.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:11.171Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-a73ed16d00/lead-a73ed16d00-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-a73ed16d00/lead-a73ed16d00-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

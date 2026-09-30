@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-27eaa6d659",
+  "page_type": "top",
+  "page_url": "https://nagomi-kensetsu.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:54:53.537Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-27eaa6d659/lead-27eaa6d659-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-27eaa6d659/lead-27eaa6d659-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

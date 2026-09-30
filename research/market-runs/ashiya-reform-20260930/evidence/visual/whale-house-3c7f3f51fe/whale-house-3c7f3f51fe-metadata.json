@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "whale-house-3c7f3f51fe",
+  "page_type": "top",
+  "page_url": "https://www.whalehouse.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:21.569Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/whale-house-3c7f3f51fe/whale-house-3c7f3f51fe-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/whale-house-3c7f3f51fe/whale-house-3c7f3f51fe-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

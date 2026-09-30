@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-b14fe1aa48",
+  "page_type": "top",
+  "page_url": "https://www.greenterior.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:46:12.290Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-b14fe1aa48/lead-b14fe1aa48-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-b14fe1aa48/lead-b14fe1aa48-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

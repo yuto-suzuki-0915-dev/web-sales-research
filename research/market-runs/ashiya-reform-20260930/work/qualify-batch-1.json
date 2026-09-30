@@ -1,0 +1,35 @@
+[
+ {
+  "lead_id": "lead-44f2f96c4a",
+  "name": "株式会社スタジオ・コア",
+  "site": "https://www.studio-koa.jp/",
+  "address": "兵庫県芦屋市東芦屋町7-5 芦屋アーチストビラ1F",
+  "triage_reason": "前回の『導線が見切れる』は無効。実際は縮小表示で導線は見える。一方でスマホ向けの再構成がなく、文字・ナビ・電話が小さい点は具体的な差(moderate)。お知らせは令和7年で更新されており、strongにはしない。施工事例・お客様の声の更新状況は要確認",
+  "web_gap": "moderate",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-44f2f96c4a",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-44f2f96c4a-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-44f2f96c4a/lead-44f2f96c4a-top-desktop.png"
+ },
+ {
+  "lead_id": "lead-a0916c3c2c",
+  "name": "有限会社エコ・ハウス芦屋",
+  "site": "https://ecohouse-ashiya.com/",
+  "address": "兵庫県芦屋市伊勢町5-7",
+  "triage_reason": "lead-e26ab1fb16と同一サイト・同一名称で、判断も同じ。スマホは正常で、残る差はdesktopのナビに施工事例がなく、CTAが1ボタンである点のみ。所在地(住所)は未確認のまま。merge-duplicates対象",
+  "web_gap": "moderate",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-a0916c3c2c",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-a0916c3c2c-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-a0916c3c2c/lead-a0916c3c2c-top-desktop.png"
+ },
+ {
+  "lead_id": "lead-18b55eefb0",
+  "name": "高山建築設計事務所",
+  "site": "https://www.eonet.ne.jp/~tkym-a/",
+  "address": "兵庫県芦屋市宮川町5-7",
+  "triage_reason": "desktopでは、左メニュー(TOP/実績/プロフィール/地図/問合せ)とフッターの住所(芦屋市宮川町5-7)・電話・メールが確認できる。本文は短文と小写真のみで日付表示はなく、活動は未確定。主観的な古さだけでstrongにはできず、mobile未取得のためgapはunknown。HTTP接続で画像が取れなかっただけなので、別環境でスマホ表示と実績ページ・更新状況を再確認する価値がある。",
+  "web_gap": "unknown",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-18b55eefb0",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-18b55eefb0-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-18b55eefb0/lead-18b55eefb0-top-desktop.png"
+ }
+]

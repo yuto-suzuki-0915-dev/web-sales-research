@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-0800e053ff",
+  "page_type": "top",
+  "page_url": "https://intelcorp.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:46:26.309Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-0800e053ff/lead-0800e053ff-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-0800e053ff/lead-0800e053ff-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

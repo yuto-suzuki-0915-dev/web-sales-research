@@ -1,0 +1,9 @@
+p0.txt https://www.kondokensetsu.com/
+p1.txt https://www.kondokensetsu.com/contact/
+p2.txt https://www.kondokensetsu.com/works/
+p3.txt https://www.kondokensetsu.com/company/
+p4.txt https://www.kondokensetsu.com/works/41.html
+p5.txt https://www.kondokensetsu.com/works/39.html
+p6.txt https://www.kondokensetsu.com/works/40.html
+p7.txt https://www.kondokensetsu.com/works/38.html
+p8.txt https://www.kondokensetsu.com/works/37.html

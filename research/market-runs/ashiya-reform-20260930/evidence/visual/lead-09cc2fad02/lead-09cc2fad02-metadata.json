@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-09cc2fad02",
+  "page_type": "top",
+  "page_url": "https://www.maniera.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:09.232Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-09cc2fad02/lead-09cc2fad02-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-09cc2fad02/lead-09cc2fad02-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

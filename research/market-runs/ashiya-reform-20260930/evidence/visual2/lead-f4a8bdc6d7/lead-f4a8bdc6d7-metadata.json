@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-f4a8bdc6d7",
+  "page_type": "top",
+  "page_url": "https://www.simplex-arc.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:55:27.263Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-f4a8bdc6d7/lead-f4a8bdc6d7-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-f4a8bdc6d7/lead-f4a8bdc6d7-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

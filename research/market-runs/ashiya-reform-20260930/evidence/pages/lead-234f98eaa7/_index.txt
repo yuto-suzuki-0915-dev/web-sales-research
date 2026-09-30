@@ -1,0 +1,9 @@
+p0.txt https://www.easestyle.com/
+p1.txt https://www.easestyle.com/contact/
+p2.txt https://www.easestyle.com/service/
+p3.txt https://www.easestyle.com/reform/
+p4.txt https://www.easestyle.com/works/
+p5.txt https://www.easestyle.com/company/
+p6.txt https://www.easestyle.com/service/62.html
+p7.txt https://www.easestyle.com/service/64.html
+p8.txt https://www.easestyle.com/service/66.html

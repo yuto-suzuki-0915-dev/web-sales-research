@@ -1,0 +1,183 @@
+# 連絡先の追加確認が必要な営業候補
+
+- 株式会社越智工務店 (lead-33af443513) — contact_unverified / pending
+- 株式会社川北工務店 (lead-79b73ce987) — contact_unverified / pending
+- MASAKI Corporation株式会社 (masaki-corporation-7d796c587b) — contact_unverified / pending
+- Decor blanc(デコールブラン) (decor-blanc-345b0928e7) — contact_unverified / pending
+- 建築工房 感 設計事務所 (lead-d64fb69de8) — contact_unverified / pending
+- 株式会社アトリエフルタ建築研究所 (lead-6a6d9d6eb3) — contact_unverified / pending
+- 近藤晃弘建築都市設計事務所 (lead-ce63a514d3) — contact_unverified / pending
+- 株式会社リンクアップ(リンクアップ建築デザイン設計事務所) (lead-2b54c8f797) — contact_unverified / pending
+- 工務店G.CRAFT(ジークラフト) (g-craft-3a4218f90d) — contact_unverified / pending
+- Lixy(リクシー) (lixy-e9fdc235ae) — contact_unverified / pending
+- PROCESS5 DESIGN (process5-design-132059487d) — contact_unverified / pending
+- HAMADA DESIGN(浜田設計事務所・住宅設計 建築家の設計事務所) (hamada-design-5e114b8f27) — contact_unverified / pending
+- 株式会社エディトデザイン(芦屋リフォーム) (lead-ad33988779) — contact_unverified / pending
+- マノアート株式会社 (lead-6e09906d6f) — contact_unverified / pending
+- 株式会社岸研一建築設計事務所 (lead-d5ba361834) — contact_unverified / pending
+- 株式会社グランデザイン一級建築士事務所 (lead-6e3bcc12e7) — contact_unverified / pending
+- 有限会社エコ・ハウス芦屋 (lead-a0916c3c2c) — contact_unverified / pending
+- 有限会社スペースアート (lead-9e3b07bd74) — contact_unverified / pending
+- 株式会社アメニティ芦屋 (lead-589b407173) — contact_unverified / pending
+- インテリアセレクト＆コーディネートショップ itten(イッテン) (itten-617c9580d7) — contact_unverified / pending
+- 株式会社竹内工務店(不動産部) (lead-b582b2f70a) — contact_unverified / pending
+- 株式会社ラビングホーム (lead-3e187b7781) — contact_unverified / pending
+- 株式会社浜田建築設計事務所 (lead-4594c2bfdd) — contact_unverified / pending
+- 高山建築設計事務所 (lead-18b55eefb0) — contact_unverified / pending
+- 西宮・芦屋の建築デザイン設計事務所 リンクアップ (lead-7510f2543e) — contact_unverified / pending
+- 株式会社マニエラ建築設計事務所 (lead-09cc2fad02) — contact_unverified / pending
+- 株式会社LIFE建築工房 (life-a88aba7de2) — contact_unverified / pending
+- 芦屋リフォーム(modern-reform) (modern-reform-203c8de206) — contact_unverified / pending
+- 一級建築士事務所 上野工務店 (lead-3a858d4410) — contact_unverified / pending
+- 一級建築士事務所 ひかり工務店 (lead-a73ed16d00) — contact_unverified / pending
+- 株式会社グラティス・デザイン (lead-cda7d58a66) — contact_unverified / pending
+- 株式会社三福 (lead-c5bc29db0d) — contact_unverified / pending
+- 有限会社エコ・エネルギー (lead-cc9744cb44) — contact_unverified / pending
+- SHOあさひリフォーム株式会社 (sho-6344ef2bbe) — contact_unverified / pending
+- 住友林業ホームテック株式会社 (lead-9c62967c68) — contact_unverified / pending
+- 阪急阪神不動産(阪急阪神のリフォーム・リノベーション) (lead-a548042b15) — contact_unverified / pending
+- Arkas Ashiya(アルカス芦屋) (arkas-ashiya-ed363c4623) — contact_unverified / pending
+- なごみ建設株式会社 (lead-27eaa6d659) — contact_unverified / pending
+- 株式会社藤野工務店 (lead-7d0f450224) — contact_unverified / pending
+- 株式会社光嶋裕介建築設計事務所 (lead-3fbb8e7534) — contact_unverified / pending
+- 芦屋サンクスホーム (lead-a855fe06ac) — contact_unverified / pending
+- 高級注文住宅 建築設計デザイン事務所 参會堂 (lead-a323c186b1) — contact_unverified / pending
+- セセラの家(cecela) (cecela-66648e20b4) — contact_unverified / pending
+- 株式会社三福 (lead-3bae6022f9) — contact_unverified / pending
+- 株式会社ナサホーム(みずらぼ) (lead-34ffc578b1) — contact_unverified / pending
+- スペースアップ・リフォーる(株式会社CONY JAPAN) (cony-japan-b7bc2f6fa9) — contact_unverified / pending
+- 住友林業ホームテック株式会社 (lead-5d359ed639) — contact_unverified / pending
+- 株式会社上野工務店(キューブデザインリフォーム) (lead-3208275d97) — contact_unverified / pending
+- WHALE HOUSE(ホエールハウス) (whale-house-3c7f3f51fe) — contact_unverified / pending
+- 株式会社戎工務店 (lead-95a0ad8274) — contact_unverified / pending
+- リンクアップ(西宮・芦屋の建築デザイン設計事務所) (lead-03e1ed7ef4) — contact_unverified / pending
+- 福田建築工房 (lead-7db748f9db) — contact_unverified / pending
+- アトリエツバキ 一級建築士事務所(株式会社椿工務店) (lead-1b42d63612) — contact_unverified / pending
+- rises株式会社 (rises-c7fd1d4a94) — contact_unverified / pending
+- 有限会社シンプレックス一級建築士事務所 (lead-f4a8bdc6d7) — contact_unverified / pending
+- 株式会社笠谷工務店 (lead-d8f54bff6b) — contact_unverified / pending
+- 株式会社カサタニクリエート (lead-6ad07907ed) — contact_unverified / pending
+- 株式会社高翔 (lead-f4dd815ad4) — contact_unverified / pending
+- 株式会社オフィスナウ (lead-c2c78aa918) — contact_unverified / pending
+- 株式会社富士 (lead-dd590eb8cb) — contact_unverified / pending
+- 有限会社藤本工務店 (lead-4db1084159) — contact_unverified / pending
+- 芦屋市のG.CRAFT(ジークラフト) (g-craft-6de5daf078) — contact_unverified / pending
+- 株式会社三福 (lead-4461cf9585) — contact_unverified / pending
+- 株式会社えびす工務店 (lead-01d4668ae1) — contact_unverified / pending
+- 吾妻工務店 (lead-dc7c26506c) — contact_unverified / pending
+- ミサワリフォーム近畿株式会社 (lead-7026f1b223) — contact_unverified / pending
+- ハウスドクター株式会社 (lead-e85f326133) — contact_unverified / pending
+- 株式会社リンクアップ 一級建築士事務所 (lead-7f073b73db) — contact_unverified / pending
+- 株式会社伊田工務店(IDA HOMES) (ida-homes-637bee837b) — contact_unverified / pending
+- トレイルアーキテクツ一級建築士事務所 (lead-190ab40be0) — contact_unverified / pending
+- 株式会社宮木博和建築設計事務所 (lead-0810ac596f) — contact_unverified / pending
+- 有本優史郎建築設計事務所 (lead-1da9531142) — contact_unverified / pending
+- 株式会社藤本高志建築設計事務所 (lead-782ef27021) — contact_unverified / pending
+- CASA DECORATION(カーサデコラシオン芦屋) (casa-decoration-279cc88847) — contact_unverified / pending
+- 株式会社アルカス (lead-8cd1605013) — contact_unverified / pending
+- シームルデザインオフィス(SIMUL DESIGN OFFICE) (simul-design-office-ced4bba111) — contact_unverified / pending
+- ペイントはなまる (lead-8443fc43bd) — contact_unverified / pending
+- 有限会社エコ・エネルギー (lead-5900bc98f5) — contact_unverified / pending
+- 株式会社三福 (lead-13f43f3db8) — contact_unverified / pending
+- あんじゅホーム (lead-75846fc0e6) — contact_unverified / pending
+- 株式会社ケーソウ (lead-86b211018c) — contact_unverified / pending
+- リニューホーム株式会社 (lead-123913f1a7) — contact_unverified / pending
+- 株式会社リンクアップ (lead-5c85604a5a) — contact_unverified / pending
+- G.CRAFT(ジークラフト) (g-craft-63d0b17911) — contact_unverified / pending
+- マノアート株式会社 (lead-5a85183948) — contact_unverified / pending
+- 株式会社PGSホーム (pgs-13b6b48a29) — contact_unverified / pending
+- SHOあさひリフォーム株式会社 (sho-c0b1cb976f) — contact_unverified / pending
+- ハウスドクター株式会社 (lead-e53f7c09f2) — contact_unverified / pending
+- rivet design office 株式会社 (rivet-design-office-b5b4b9b6a3) — contact_unverified / pending
+- 株式会社THREE(ThreeDesign) (three-threedesign-7053097fa7) — contact_unverified / pending
+- 株式会社Re Loop(リループ) (re-loop-6e1b9cfa66) — contact_unverified / pending
+- シンプルアンドスタイル (lead-0b1d230ac5) — contact_unverified / pending
+- アトリエツバキ 一級建築士事務所 椿工務店 (lead-ef26466204) — contact_unverified / pending
+- 樋口章建築アトリエ (lead-cf355913c0) — contact_unverified / pending
+- リスのリフォーム(株式会社Thi's Corporation) (thi-s-corporation-edff925fae) — contact_unverified / pending
+- 株式会社Artisan(アルチザン) (artisan-e3a8a32f25) — contact_unverified / pending
+- ARK STUDIO一級建築士事務所 (ark-studio-97aad7a91d) — contact_unverified / pending
+- 有限会社ミサオケンチクラボ (lead-5dfb55b13c) — contact_unverified / pending
+- 株式会社三福 (lead-0940c59491) — contact_unverified / pending
+- SHOあさひリフォーム株式会社 (sho-a677bff69e) — contact_unverified / pending
+- ミサワリフォーム近畿株式会社 営業部 (lead-73a5c3404f) — contact_unverified / pending
+- コバヤシルーフ株式会社 (lead-557965f9fb) — contact_unverified / pending
+- 株式会社えびす工務店 (lead-bf3e17e584) — contact_unverified / pending
+- 吾妻工務店 (lead-2519491251) — contact_unverified / pending
+- 株式会社トーヨー建設 (lead-ef0ca3958c) — contact_unverified / pending
+- 株式会社ホームテック (lead-02d8fc2184) — contact_unverified / pending
+- アルホームサービス (lead-e644b3c781) — contact_unverified / pending
+- ANRISTYLE / リノベ図書館 (anristyle-9403375526) — contact_unverified / pending
+- サンリフォーム (lead-fe90514829) — contact_unverified / pending
+- 株式会社住まい工房大栄 (lead-2dd67c4511) — contact_unverified / pending
+- アーネストスクエア株式会社 (lead-18f831fa92) — contact_unverified / pending
+- みずらぼ(ナサホーム 水まわり工事専門店) (lead-81d22d0a90) — contact_unverified / pending
+- 一級建築士事務所 ソツカ建築アトリエ (lead-f18cd9860e) — contact_unverified / pending
+- 株式会社インテリアR(西口理恵子/整理収納アドバイザー) (r-187381c31a) — contact_unverified / pending
+- 真銅祥一朗建築設計事務所(SHO SHINDO ARCHITECTS) (sho-shindo-architects-30665c74e9) — contact_unverified / pending
+- COMMAGRAM.(カンマグラム) (commagram-b318092b1f) — contact_unverified / pending
+- 芦屋カーテン・石(カーテン館石) (lead-6a520e277f) — contact_unverified / pending
+- 有限会社きくや家具店 (lead-9470f658c8) — contact_unverified / pending
+- 木と工房家具 Jクオリア(松下木材株式会社) (j-46e5c97c62) — contact_unverified / pending
+- 株式会社グリーンテリア (lead-b14fe1aa48) — contact_unverified / pending
+- the ROOTs design studio (the-roots-design-studio-edd6c19834) — contact_unverified / pending
+- 有限会社植武 (lead-bdb55e251f) — contact_unverified / pending
+- 有限会社阪上撰樹園 (lead-cd33ed9acb) — contact_unverified / pending
+- 宏苑 (lead-0180e1b3fa) — contact_unverified / pending
+- 芦屋造園 (lead-3a5633209b) — contact_unverified / pending
+- 芦屋造園協同組合 (lead-8f15c018b7) — contact_unverified / pending
+- 株式会社松浦造園土木 (lead-2678d4af77) — contact_unverified / pending
+- 為岡緑地建設株式会社 (lead-48396c0fde) — contact_unverified / pending
+- ペイントウォール(株式会社モリエン) 芦屋ショールーム (lead-d548cd98d1) — contact_unverified / pending
+- 株式会社西田順紀アトリエ (lead-2f26daf53b) — contact_unverified / pending
+- 株式会社芦屋住宅販売 (lead-d7db207e75) — contact_unverified / pending
+- RenoDesignAshiya(リノデザイン芦屋) (renodesignashiya-1808c19c2f) — contact_unverified / pending
+- 有限会社スキルアート (lead-edeb9eb489) — contact_unverified / pending
+- 株式会社中岡工務店 (lead-98ed737ff3) — contact_unverified / pending
+- 有限会社蓑代工務店 (lead-6495735bba) — contact_unverified / pending
+- 有限会社森岡工務店 (lead-5c9bd4269f) — contact_unverified / pending
+- 株式会社近藤建設 (lead-18cab70a83) — contact_unverified / pending
+- 株式会社改善工房 (lead-17f3e92b9e) — contact_unverified / pending
+- 株式会社ぷらす・あるふぁ (lead-9478916e9c) — contact_unverified / pending
+- 株式会社ジェーデザイン社 (lead-208680595d) — contact_unverified / pending
+- 株式会社タイド (lead-6d514185bd) — contact_unverified / pending
+- 株式会社ヴィーコ (lead-b6fa9d1e77) — contact_unverified / pending
+- 株式会社インテルコーポレーション (lead-0800e053ff) — contact_unverified / pending
+- クラシード・芦屋株式会社 (lead-567e301fcf) — contact_unverified / pending
+- 株式会社アーバンサポート (lead-ea989e1929) — contact_unverified / pending
+- 株式会社サロンドシックデザインワークス (lead-105b1dcffd) — contact_unverified / pending
+- 株式会社io設計事務所 (io-5aa922ed83) — contact_unverified / pending
+- Uo.A 一級建築士事務所 (uo-a-87c70db3d8) — contact_unverified / pending
+- 大庭徹建築計画 (lead-b4287888b9) — contact_unverified / pending
+- キアラ建築研究機関(芦屋アトリエ) (lead-0338f75aa1) — contact_unverified / pending
+- アドヴァンスアーキテクツ株式会社 芦屋事務所 (lead-56b4894e96) — contact_unverified / pending
+- R-design (r-design-49079fcafb) — contact_unverified / pending
+- 福嶋忠嗣建築設計室 (lead-6a2e5e54e1) — contact_unverified / pending
+- アーチ工房(芦屋店) (lead-d3a824b8df) — contact_unverified / pending
+- 信光住機株式会社 (lead-70027c4852) — contact_unverified / pending
+- 速水塗装店 (lead-da0dd83a89) — contact_unverified / pending
+- 有限会社デザインステーションキキ (lead-b2523502c4) — contact_unverified / pending
+- 有限会社婆佐羅建築工房 (lead-01880805c5) — contact_unverified / pending
+- 有限会社花田設計事務所 (lead-d161875439) — contact_unverified / pending
+- 株式会社長野建設 (lead-fc7167ef4f) — contact_unverified / pending
+- 池本健建設株式会社 (lead-c6a77b2895) — contact_unverified / pending
+- Sieg Design(ジークデザイン) (sieg-design-d6d0c6926f) — contact_unverified / pending
+- DAF株式会社 (daf-9cd72d302a) — contact_unverified / pending
+- クロスベリタス(芦屋) (lead-0c1633309f) — contact_unverified / pending
+- デグチ企画事務所 (lead-31de6b0468) — contact_unverified / pending
+- 芦屋綜合開発株式会社 (lead-cf09bdef09) — contact_unverified / pending
+- 辻建築設計室 (lead-f743b1ce64) — contact_unverified / pending
+- 有限会社未来設計 (lead-2ee713514c) — contact_unverified / pending
+- 株式会社長野建設 (lead-5e5b6bc3aa) — contact_unverified / pending
+- 株式会社blanca(ブランカ) (blanca-b97dd556a1) — contact_unverified / pending
+- 篠原伯母野山デザイン (lead-e0039308c2) — contact_unverified / pending
+- りとるらっく (lead-9315a9197a) — contact_unverified / pending
+- スタイルハウス(STYLEHOUSE) (stylehouse-96ecee3dea) — contact_unverified / pending
+- JTホーム株式会社 (jt-462151271a) — contact_unverified / pending
+- あいじょう株式会社 (lead-85ae573ba4) — contact_unverified / pending
+- 株式会社安江工務店 (lead-db4fa2be24) — contact_unverified / pending
+- 株式会社ウィル空間デザイン (lead-3992648ebe) — contact_unverified / pending
+- 中西正佳建築設計事務所(MASA Architects) (masa-architects-46464c7aa8) — contact_unverified / pending
+- 藤原・室建築設計事務所 (lead-a7a83a1723) — contact_unverified / pending
+- muura inc. (muura-inc-8c4ce05572) — contact_unverified / pending
+- with be株式会社 (with-be-f68dd04c9e) — contact_unverified / pending

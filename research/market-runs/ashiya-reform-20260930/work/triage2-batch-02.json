@@ -1,0 +1,142 @@
+[
+ {
+  "lead_id": "lead-9e3b07bd74",
+  "name": "有限会社スペースアート",
+  "address": "兵庫県芦屋市東山町27番9号",
+  "industry": "リフォーム・リノベーション(トータルリフォーム)",
+  "notes": "小規模。Houzz・TOTOリモデルクラブ・エキテン掲載。全員女性スタッフとの紹介あり(媒体要約)",
+  "site": "https://www.ne.jp/asahi/space/art/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市東山町の小規模リフォーム・リノベ会社で対象Segmentに合致。候補URL(www.ne.jp)は誤りで、検索結果から公式サイトをne.jp/asahi/space/art/に訂正。トップ画面は未観察のためQUALIFYで実サイトを確認する価値あり",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-9e3b07bd74/lead-9e3b07bd74-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-9e3b07bd74/lead-9e3b07bd74-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-589b407173",
+  "name": "株式会社アメニティ芦屋",
+  "address": "兵庫県芦屋市朝日ケ丘町19番6-503号",
+  "industry": "インテリアコーディネート事務所(コーディネート・デザイン・販売・施工・教育)",
+  "notes": "小規模(インテリアコーディネーター2名体制と記載)。30年以上の活動と記載。芦屋市商工会名簿にも掲載",
+  "site": "https://amenityashiya.com/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市朝日ケ丘町のインテリアコーディネート事務所(2名体制・商工会名簿掲載)で対象Segmentに合致し、公式サイトも一致。トップ画面は取得失敗で未観察のため、QUALIFYで実サイトを確認する価値あり",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-589b407173/lead-589b407173-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-589b407173/lead-589b407173-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "itten-617c9580d7",
+  "name": "インテリアセレクト＆コーディネートショップ itten(イッテン)",
+  "address": "兵庫県芦屋市船戸町3-6 ヴァンテージ芦屋106",
+  "industry": "インテリアセレクト・コーディネートショップ(家具販売・椅子張り替え)",
+  "notes": "JR芦屋駅近く。家具販売寄り。現営業状況は未確認。同名のITTEN(Web制作)とは別物の可能性が高く統合しない。",
+  "site": "https://www.ittena.com/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋駅近くのインテリアセレクト・コーディネート店で所在地は対象内だが、家具販売寄りで対象業種が境界的。開店年と最新更新が未確認で営業状況も不明。取得画像は接続失敗画面のため、サイトを閲覧できる環境で営業状況と業態を確認する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/itten-617c9580d7/itten-617c9580d7-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/itten-617c9580d7/itten-617c9580d7-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-b582b2f70a",
+  "name": "株式会社竹内工務店(不動産部)",
+  "address": "兵庫県芦屋市大原町5-4",
+  "industry": "不動産仲介・管理が主、リフォーム・増改築も対応",
+  "notes": "1972年創業。主業は不動産で対象適合は要判断。京都・横浜の同名『竹内工務店』とは別法人で統合しない。",
+  "site": "https://www.ashiya-takeuchi.com/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋市大原町の1972年創業の小規模事業者だが、主業は不動産仲介・管理でリフォームは併営のため対象Segment適合が境界的。リフォーム事業の比重と施工事例の有無を実サイトで確認してから判断する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-b582b2f70a/lead-b582b2f70a-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-b582b2f70a/lead-b582b2f70a-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-3e187b7781",
+  "name": "株式会社ラビングホーム",
+  "address": "兵庫県芦屋市呉川町2-17",
+  "industry": "リフォーム",
+  "notes": "小規模の可能性(規模未確認)。出典は検索結果要約",
+  "site": "https://lovinghome.co.jp/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市呉川町のリフォーム会社(2016年設立、芦屋本店)で対象Segmentに合致し、公式サイトも一致。規模は未確認だが除外理由はない。トップ画面は取得失敗で未観察のため、QUALIFYで実サイトと規模を確認する価値あり",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-3e187b7781/lead-3e187b7781-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-3e187b7781/lead-3e187b7781-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-18b55eefb0",
+  "name": "高山建築設計事務所",
+  "address": "兵庫県芦屋市宮川町5-7",
+  "industry": "建築設計事務所",
+  "notes": "Yahoo!マップ掲載のみ。住宅設計を扱うか、規模、公式サイトは未確認。",
+  "site": "http://www.eonet.ne.jp/~tkym-a/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市宮川町の小規模設計事務所で、小規模改修〜全面リフォームの設計を掲げる。プロバイダ提供領域(eonet)の公式サイトがあり、更新状況と情報構成を視覚確認とQUALIFYで確認する価値がある",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-18b55eefb0/lead-18b55eefb0-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-18b55eefb0/lead-18b55eefb0-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-32aea0da3b",
+  "name": "マノアート株式会社",
+  "address": "",
+  "industry": "塗り替え・建物改修・内装リフォーム",
+  "notes": "芦屋市向けページのみ確認。拠点所在地と規模は未確認。",
+  "site": "https://manoart.co.jp/",
+  "pass1_decision": "defer",
+  "pass1_reason": "拠点所在地と規模が未確認で、芦屋向けページのみ確認済み。トップ画面を確認できていない。取得環境で再確認後に芦屋市内拠点かどうかを判定する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-32aea0da3b/lead-32aea0da3b-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-32aea0da3b/lead-32aea0da3b-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-cc9744cb44",
+  "name": "有限会社エコ・エネルギー",
+  "address": "",
+  "industry": "リフォーム",
+  "notes": "評価ナビに名称のみ出現。有限会社エコ・ハウス芦屋とは別事業者として統合しない。",
+  "site": "https://blr.jp/ecoenergie/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市一覧に掲載の同名法人で、会社情報ページを持つサイト候補(blr.jp/ecoenergie)を発見。所在地と事業者同定をQUALIFYで確認する価値がある。エコ・ハウス芦屋とは別事業者。lead-741fc27af4と同一の可能性があるが確実でなく統合しない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-cc9744cb44/lead-cc9744cb44-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-cc9744cb44/lead-cc9744cb44-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "arkas-ashiya-ed363c4623",
+  "name": "Arkas Ashiya(アルカス芦屋)",
+  "address": "兵庫県芦屋市翠ヶ丘町7-6",
+  "industry": "リフォーム・リノベーション・インテリアコーディネート・外構・家具販売",
+  "notes": "小規模〜中小規模(規模未確認)。法人名は株式会社アルカスと紹介されるが、同名他社が多く法人同定は未確認",
+  "site": "https://arkas-ashiya.co.jp/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市翠ヶ丘町の住所を持つ小規模〜中小規模のリフォーム・インテリア事業者で、Segmentに合致する。今回はトップ画面を確認できていないため、QUALIFYで活動とWeb提案余地を実観察する。法人同定(同名他社あり)も同時に確認する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/arkas-ashiya-ed363c4623/arkas-ashiya-ed363c4623-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/arkas-ashiya-ed363c4623/arkas-ashiya-ed363c4623-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-234f98eaa7",
+  "name": "株式会社イーズスタイル",
+  "address": "兵庫県芦屋市大原町28-1 パルティ芦屋1階",
+  "industry": "インテリア・リフォーム提案(インテリアコーディネート起点のリフォーム)",
+  "notes": "小規模。エキテンでは茶屋之町表記があり、所在地表記に揺れ(移転または表記差の可能性、要確認)",
+  "site": "https://www.easestyle.com/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市大原町の住所を持つ小規模のインテリア起点リフォーム事業者で、Segmentに合致する。トップ画面は未観察のため、QUALIFYで活動・Web提案余地を確認する。エキテンの茶屋之町表記との所在地の揺れも併せて確認する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-234f98eaa7/lead-234f98eaa7-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-234f98eaa7/lead-234f98eaa7-top-mobile.png"
+  }
+ }
+]

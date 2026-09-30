@@ -1,0 +1,33 @@
+Home→./
+About→./about/
+Service→./service/
+Works→./works/
+Staff→./staff/
+Topics→./topics/
+Contact→./contact/
+→./
+東寺のホテル 
+ 201906 
+ 所在地:京都市→./works/details.php?id=110
+洛北の長屋門 
+ 2014年3月 
+ 所在地:京都→./works/details.php?id=79
+はかた愛育保育園 
+ 201903 
+ 所在地:福→./works/details.php?id=111
+S office 内装工事 
+ 2017年2月 
+→./works/details.php?id=91
+高野川保育園 
+ 2016年3月 
+ 所在地:京都→./works/details.php?id=88
+島原のホテル 
+ 201806 
+ 所在地:京都市→./works/details.php?id=99
+ツジオートセンター 
+ 2021年12月 
+ 所在→./works/details.php?id=113
+KANSHUJI 
+ 2020年10月 
+ 所在地→./works/details.php?id=112
+Briant（ブリアン）上海新世界大丸百貨 内装工→./works/details.php?id=107

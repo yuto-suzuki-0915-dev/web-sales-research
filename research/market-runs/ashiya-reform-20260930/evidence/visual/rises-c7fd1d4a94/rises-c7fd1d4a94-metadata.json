@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "rises-c7fd1d4a94",
+  "page_type": "top",
+  "page_url": "https://www.rises-inc.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:45:26.785Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/rises-c7fd1d4a94/rises-c7fd1d4a94-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/rises-c7fd1d4a94/rises-c7fd1d4a94-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

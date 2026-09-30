@@ -1,0 +1,132 @@
+[
+ {
+  "lead_id": "lead-e26ab1fb16",
+  "name": "有限会社エコ・ハウス芦屋",
+  "site": "https://ecohouse-ashiya.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイトで名称・増改築リフォーム業・芦屋を確認。ナビに施工事例がなく問い合わせ導線が1ボタンのみでWeb提案余地あり。lead-a0916c3c2cと同一サイトの重複の可能性が高くmerge-duplicates対象",
+  "pass2_web_observation": "デスクトップのナビはMESSAGE/PHILOSOPHY/SERVICES/PROFILE/ACCESSの5項目で施工事例・実績への入口がない。CTAは『お問い合わせお電話』の1ボタン。モバイルのトップ画面にはメニュー操作部が見えない(確認範囲: トップ画面のみ)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-e26ab1fb16/lead-e26ab1fb16-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-e26ab1fb16-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-33af443513",
+  "name": "株式会社越智工務店",
+  "site": "https://ochi-k.co.jp/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "公式サイトは一致するが、建築家と協働する新築主体に見え、Recruit・Media/Awardもあり小規模・リフォーム比重が未確認でSegment適合が不明。トップ画面は本文が描画されずWeb提案余地も判断不能。会社概要・施工事例で規模と業務範囲を確認できた場合のみ再検討",
+  "pass2_web_observation": "デスクトップではヒーロー画像とナビ(Home/Works/About Us/Information/For Architects/Contact/Recruit/Media/Award)以下が暗い空白、モバイルでも『WELCOME』見出し以下が空白で本文が描画されていない。ヒーロー画像は低解像度に見える。ナビは両viewportとも機能している(確認範囲: トップ画面のみ)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-33af443513/lead-33af443513-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-33af443513-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-79b73ce987",
+  "name": "株式会社川北工務店",
+  "site": "https://www.kawakitakoumuten.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイトで名称・新築/増改築・設計施工・芦屋を確認。固定幅レイアウトがモバイルで右側に見切れる点にWeb提案余地あり。リフォーム比重と規模は施工事例で要確認",
+  "pass2_web_observation": "デスクトップは約1150px幅の固定レイアウトで左右がグレー余白。モバイルはPC用レイアウトのままでロゴ右端・ナビ(施工事例、ご相談の流れ)・ZEHの文言が右で見切れ、左にグレー帯が出る。ナビに施工事例と問い合わせフォームはある(確認範囲: トップ画面のみ)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-79b73ce987/lead-79b73ce987-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-79b73ce987-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-44f2f96c4a",
+  "name": "株式会社スタジオ・コア",
+  "site": "https://www.studio-koa.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "strong",
+  "pass2_reason": "公式サイトで名称・2003年1月芦屋誕生・リフォームを確認。約800px固定幅でモバイル非対応となり、電話・問い合わせ導線が見切れるという機能面の差あり。施工事例・お客様の声の更新状況は要確認",
+  "pass2_web_observation": "デスクトップは約800px幅の固定レイアウトで右側が空白。モバイルはそのレイアウトが縮小されず、ヘッダーの電話番号・お客様の声・お問い合わせナビ・キャッチ文・ヒーロー文が右で見切れ、6項目中3項目しか見えない(確認範囲: トップ画面のみ)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-44f2f96c4a/lead-44f2f96c4a-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-44f2f96c4a-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "rises-cd28961efe",
+  "name": "rises株式会社",
+  "site": "https://www.rises-inc.jp/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "none",
+  "pass2_reason": "公式サイトで名称・インテリアデザインを確認したが、所在地(芦屋市内か)が未確認。トップ画面の範囲ではレスポンシブで事例・サービス料金・ブログ・問い合わせのナビが揃い明確なWeb提案余地は見えない。会社概要で芦屋市内拠点と判明し、ブログ更新が止まっていれば再検討",
+  "pass2_web_observation": "デスクトップのナビにHOME/CONCEPT/WORKS/SERVICE・料金/COMPANY/CONTACT/BLOGがあり、施工写真スライダーも表示。モバイルはハンバーガーメニューと写真ギャラリーで崩れなし。明確な導線欠落は見えない(確認範囲: トップ画面のみ)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/rises-cd28961efe/rises-cd28961efe-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/rises-cd28961efe-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-7233319cfa",
+  "name": "株式会社アメニティ芦屋",
+  "site": "https://amenityashiya.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイトで名称・インテリアコーディネート事務所・30年以上の経験を確認(所在地はトップ画面外)。少人数の対象Segmentで、モバイルのトップ画面に空白領域とメニュー不在があり提案余地の確認価値あり(描画タイミングによる可能性は要確認)",
+  "pass2_web_observation": "モバイルのトップ画面はヘッダー直下に約390pxの空白領域が続き、ヒーロー画像・紹介文・メニュー操作部が見えない。続くカード画像は右寄りで幅が合っていない。デスクトップは正常でナビ(事業内容/仕事の流れ/事例紹介/ブログ/お問い合わせ)あり(確認範囲: トップ画面のみ。遅延読込による表示漏れの可能性あり)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-7233319cfa/lead-7233319cfa-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-7233319cfa-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-e33749eca3",
+  "name": "イーズスタイル",
+  "site": "https://www.easestyle.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "strong",
+  "pass2_reason": "公式サイトで名称・兵庫県芦屋市・インテリアコーディネート/リフォームを確認。固定幅のPC用レイアウトがモバイルで見切れるという機能面の差あり。施工実績・ブログの更新状況は要確認",
+  "pass2_web_observation": "デスクトップは約880px幅の固定レイアウトで左サイドメニュー型。モバイルは縮小されないPC用レイアウトのままで、上部ナビ(6項目中2項目強しか見えない)と本文・ヘッダーが右で見切れる。電話番号はモバイルのトップ画面に見えない(確認範囲: トップ画面のみ)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-e33749eca3/lead-e33749eca3-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-e33749eca3-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-d64fb69de8",
+  "name": "建築工房 感 設計事務所",
+  "site": "https://www.as-kan-ap.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイトで名称・芦屋・自然素材の木造住宅設計監理を確認。小規模な設計事務所で対象Segment内。モバイルで本文が右に見切れる点と、施工事例・お問い合わせの更新/導線確認に価値あり",
+  "pass2_web_observation": "デスクトップは約950px幅の狭い固定レイアウトで左にメニュー8項目(top/works/私たちの家づくり/高断熱高気密住宅とは/業務の流れ/about/お問い合わせ/新住協について)。モバイルは専用表示が出るが、本文が右端で切れ、画面上部は『あなたにピッタ…』と見出しが省略され、トップ画面にメニューと問い合わせが見えない(確認範囲: トップ画面のみ)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-d64fb69de8/lead-d64fb69de8-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-d64fb69de8-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-6a6d9d6eb3",
+  "name": "株式会社アトリエフルタ建築研究所",
+  "site": "https://atelier-furuta.com/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "none",
+  "pass2_reason": "公式サイトで名称・アトリエフルタ建築研究所(SINCE 1977)を確認。トップ画面の範囲ではレスポンシブでWorks/Service/Blog/問い合わせの導線が揃い明確なWeb提案余地は見えない。ヒーロー事例は非住宅(MTビル)も含み住宅専門の規模感も未確認。ブログ・Works更新が止まっているなど別の観察が得られた場合のみ再検討",
+  "pass2_web_observation": "デスクトップのナビはAbout us/Service/Works/Blogと『お問い合わせ』ボタン、3枚のスライダー。モバイルはハンバーガーメニューがあり『建築は楽しい、とりわけ住宅は。』の本文も表示される。デスクトップのスライダー下は白い空白(遅延読込の可能性)(確認範囲: トップ画面のみ)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-6a6d9d6eb3/lead-6a6d9d6eb3-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-6a6d9d6eb3-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-a0916c3c2c",
+  "name": "有限会社エコ・ハウス芦屋",
+  "site": "https://ecohouse-ashiya.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイトで名称・増改築リフォーム・地元芦屋を確認(住所はトップ画面外、リードの住所は検索要約による)。ナビに施工事例がなく問い合わせ導線が1ボタンのみでWeb提案余地あり。lead-e26ab1fb16と同一サイト・同一名称の重複の可能性が高くmerge-duplicates対象",
+  "pass2_web_observation": "デスクトップのナビはMESSAGE/PHILOSOPHY/SERVICES/PROFILE/ACCESSの5項目で施工事例・実績への入口がない。CTAは『お問い合わせお電話』の1ボタン。モバイルのトップ画面にはメニュー操作部が見えない(確認範囲: トップ画面のみ)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-a0916c3c2c/lead-a0916c3c2c-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-a0916c3c2c-top-mobile.png"
+  }
+ }
+]

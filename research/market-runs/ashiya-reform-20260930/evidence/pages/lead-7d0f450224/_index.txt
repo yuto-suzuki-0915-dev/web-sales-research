@@ -1,0 +1,5 @@
+p0.txt https://www.fujino-house.co.jp/
+p1.txt https://www.fujino-house.co.jp/concept.html
+p2.txt https://www.fujino-house.co.jp/work.html
+p3.txt https://www.fujino-house.co.jp/outline.html
+p4.txt https://www.fujino-house.co.jp/mail.html

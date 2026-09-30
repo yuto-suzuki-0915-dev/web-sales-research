@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-6d514185bd",
+  "page_type": "top",
+  "page_url": "https://tidestyle.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:46:22.654Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-6d514185bd/lead-6d514185bd-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/lead-6d514185bd/lead-6d514185bd-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

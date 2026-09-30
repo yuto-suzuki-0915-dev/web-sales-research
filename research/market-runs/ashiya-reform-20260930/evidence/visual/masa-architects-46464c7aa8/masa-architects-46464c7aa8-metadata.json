@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "masa-architects-46464c7aa8",
+  "page_type": "top",
+  "page_url": "https://www.naka-masa.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:46:42.776Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out/masa-architects-46464c7aa8/masa-architects-46464c7aa8-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out/masa-architects-46464c7aa8/masa-architects-46464c7aa8-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

@@ -1,0 +1,35 @@
+[
+ {
+  "lead_id": "lead-cc9744cb44",
+  "name": "有限会社エコ・エネルギー",
+  "site": "https://blr.jp/ecoenergie/",
+  "address": "",
+  "triage_reason": "pass2の理由を維持する。名称は一致するが所在地(芦屋か)は未確認で事業者同定が未了。メニューに別の「企業サイト」リンクがあるため、QUALIFYで同定し自社サイトを確認する。スマホ表示は問題なく、ポータル上のページなので自社サイトのgapは判定しない。エコ・ハウス芦屋・lead-741fc27af4とは統合しない。",
+  "web_gap": "unknown",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-cc9744cb44",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-cc9744cb44-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-cc9744cb44/lead-cc9744cb44-top-desktop.png"
+ },
+ {
+  "lead_id": "lead-234f98eaa7",
+  "name": "株式会社イーズスタイル",
+  "site": "https://www.easestyle.com/",
+  "address": "兵庫県芦屋市大原町28-1 パルティ芦屋1階",
+  "triage_reason": "スマホがPC幅の縮小表示で可読性が低いという具体的な差と、トップのお知らせが2018年4月止まりという観察がある。サービス・流れ・FAQ・施工実績・ブログのメニューは揃う。活動状況は未確定で、QUALIFYでブログ・施工実績の更新と所在地表記の揺れ(大原町/茶屋之町)を確認する。",
+  "web_gap": "moderate",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-234f98eaa7",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-234f98eaa7-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-234f98eaa7/lead-234f98eaa7-top-desktop.png"
+ },
+ {
+  "lead_id": "lead-7d0f450224",
+  "name": "株式会社藤野工務店",
+  "site": "https://www.fujino-house.co.jp/",
+  "address": "兵庫県芦屋市前田町4-11",
+  "triage_reason": "mobile由来の根拠は使わず、desktopの観察だけで判断する。News & Topics の最新が「2024年4月27日 創立60周年」で、観察時点の2026-09-30まで約2年5か月更新が見えない。問い合わせ導線はメール問合せボタンとナビの「お問い合わせ」のみ。幅約850px固定の見た目と小さい画像ナビも確認されるが、古さだけではstrongにしない。そのためpass2のstrongをmoderateへ下げる。所在地・規模はQUALIFYで確認し、スマホ表示は別環境で再確認する。",
+  "web_gap": "moderate",
+  "pages_dir": "research/market-runs/ashiya-reform-20260930/evidence/pages/lead-7d0f450224",
+  "mobile_image": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-7d0f450224-top-mobile.png",
+  "desktop_image": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-7d0f450224/lead-7d0f450224-top-desktop.png"
+ }
+]
