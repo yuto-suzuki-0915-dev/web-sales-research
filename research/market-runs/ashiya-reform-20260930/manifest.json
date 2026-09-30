@@ -8,7 +8,7 @@
   "state": "running",
   "workflow_stage": "discovered",
   "started_at": "2026-09-30T08:23:47.016Z",
-  "updated_at": "2026-09-30T09:09:14.340Z",
+  "updated_at": "2026-09-30T09:21:17.737Z",
   "stop_reason": null,
   "limits": {
     "user_business_limit": null,
