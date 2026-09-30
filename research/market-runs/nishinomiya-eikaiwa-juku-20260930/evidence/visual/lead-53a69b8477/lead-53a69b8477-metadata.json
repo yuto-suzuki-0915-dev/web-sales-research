@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-53a69b8477",
+  "page_type": "top",
+  "page_url": "https://www.tohmonjuku.net/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:39:12.485Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-53a69b8477\\lead-53a69b8477-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-53a69b8477\\lead-53a69b8477-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

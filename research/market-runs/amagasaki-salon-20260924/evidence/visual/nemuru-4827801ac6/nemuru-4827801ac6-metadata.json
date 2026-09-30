@@ -1,0 +1,20 @@
+{
+  "schema_version": 2,
+  "lead_id": "nemuru-4827801ac6",
+  "page_type": "top",
+  "page_url": "https://nemuru-headspa.jp/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:22:48.111Z",
+  "desktop": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\nemuru-4827801ac6\\nemuru-4827801ac6-top-desktop.png",
+    "error": "[34468:28248:0925/052141.353:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[34468:28248:0925/052142.225:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n"
+  },
+  "mobile": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\nemuru-4827801ac6\\nemuru-4827801ac6-top-mobile.png",
+    "error": "[34448:27048:0925/052217.887:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[34448:27048:0925/052218.957:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[34448:27048:0925/052219.669:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n"
+  },
+  "visual_status": "unverified"
+}

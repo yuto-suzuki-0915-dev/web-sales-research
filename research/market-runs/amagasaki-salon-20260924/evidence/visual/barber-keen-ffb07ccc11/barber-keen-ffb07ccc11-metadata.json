@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "barber-keen-ffb07ccc11",
+  "page_type": "top",
+  "page_url": "https://barber-keen.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:20:21.850Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\barber-keen-ffb07ccc11\\barber-keen-ffb07ccc11-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\barber-keen-ffb07ccc11\\barber-keen-ffb07ccc11-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

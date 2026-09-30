@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "mode-k-s-bbde218c9c",
+  "page_type": "top",
+  "page_url": "https://www.modeks.jp/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:20:15.712Z",
+  "desktop": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\mode-k-s-bbde218c9c\\mode-k-s-bbde218c9c-top-desktop.png",
+    "error": "[13848:29736:0925/051939.701:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[13848:29736:0925/051940.125:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[13848:29736:0925/051940.961:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\mode-k-s-bbde218c9c\\mode-k-s-bbde218c9c-top-mobile.png"
+  },
+  "visual_status": "unverified"
+}

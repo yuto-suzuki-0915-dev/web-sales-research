@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-1c3790a9aa",
+  "page_type": "top",
+  "page_url": "https://pilates.avenir-training.com/stores-2/mukonoso/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:11:12.228Z",
+  "desktop": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\lead-1c3790a9aa\\lead-1c3790a9aa-top-desktop.png",
+    "error": "[6964:27432:0925/051023.788:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[6964:27432:0925/051023.808:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[6964:27432:0925/051024.257:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[6964:27432:0925/051024.865:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\lead-1c3790a9aa\\lead-1c3790a9aa-top-mobile.png"
+  },
+  "visual_status": "unverified"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "one-eighty-pilates-1c3ea8a05a",
+  "page_type": "top",
+  "page_url": "https://www.one-eighty-pilates.jp/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T03:21:27.715Z",
+  "desktop": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\ashiya-pilates-20260924\\evidence\\visual\\one-eighty-pilates-1c3ea8a05a\\one-eighty-pilates-1c3ea8a05a-top-desktop.png",
+    "error": "Screenshot was not created: C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\ashiya-pilates-20260924\\evidence\\visual\\one-eighty-pilates-1c3ea8a05a\\one-eighty-pilates-1c3ea8a05a-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\ashiya-pilates-20260924\\evidence\\visual\\one-eighty-pilates-1c3ea8a05a\\one-eighty-pilates-1c3ea8a05a-top-mobile.png"
+  },
+  "visual_status": "unverified"
+}

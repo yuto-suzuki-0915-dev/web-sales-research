@@ -1,0 +1,184 @@
+[
+ {
+  "lead_id": "clap-2cba5557d9",
+  "name": "clap",
+  "aliases": [
+   "クラップバイテトテ",
+   "Clap by tetote",
+   "Clap by Tetote"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1丁目10-22",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s5000017898/",
+   "https://search.yahoo.co.jp/search?p=尼崎市+武庫之荘+美容室",
+   "https://mapfan.com/genres/450/28/202?page=2"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-3117603b36",
+  "name": "グランス",
+  "aliases": [],
+  "address": "兵庫県尼崎市浜2丁目1-20",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202?page=2"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-6259434f75",
+  "name": "グリームヘアー",
+  "aliases": [],
+  "address": "兵庫県尼崎市武庫之荘1丁目30-7",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202?page=2"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-17cd9f753f",
+  "name": "ギュゼル・バヤン",
+  "aliases": [],
+  "address": "兵庫県尼崎市潮江1丁目11-1",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202?page=2"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-21208a38c7",
+  "name": "アロマリラクゼーションサロン沙羅",
+  "aliases": [
+   "沙羅"
+  ],
+  "address": "尼崎市（阪神尼崎駅徒歩5分・国道2号線沿い）",
+  "industry": "アロマ・リラクゼーションサロン",
+  "website_presence": "confirmed",
+  "website_url": "http://sara.qcweb.jp/",
+  "priority": "high",
+  "sources": [
+   "http://sara.qcweb.jp/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "mint-cdbddf5578",
+  "name": "Mint（ミント）女性専用リラクゼーションサロン",
+  "aliases": [
+   "mint-salon",
+   "Mint",
+   "ミント 尼崎"
+  ],
+  "address": "兵庫県尼崎市浜3-2-4 ラリック樟栄Ⅰ 2F",
+  "industry": "リラクゼーションサロン（完全個室・女性専用）",
+  "website_presence": "confirmed",
+  "website_url": "https://mint-salon.com/",
+  "priority": "medium",
+  "sources": [
+   "https://mint-salon.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "080-9279-4503"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@mint_amagasaki"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://mint-salon.com/contact/"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "jr-e2b98d2046",
+  "name": "こりとる JR尼崎店",
+  "aliases": [
+   "リラクゼーションサロンこりとる"
+  ],
+  "address": "尼崎市（JR尼崎駅近く）",
+  "industry": "リラクゼーションサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://koritoru-relax.com/amagasaki/",
+  "priority": "low",
+  "sources": [
+   "https://koritoru-relax.com/amagasaki/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lead-332b46f68a",
+  "name": "メナードフェイシャルサロン 尼崎道意",
+  "aliases": [],
+  "address": "兵庫県尼崎市道意町",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.menard.co.jp/shop/00620416s"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "emelu-532a292d2e",
+  "name": "emelu",
+  "aliases": [
+   "エメル"
+  ],
+  "address": "兵庫県尼崎市塚口町1-10-24 K-grande2A",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s3000050141/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "terrace-code-9027b0e534",
+  "name": "TERRACE CODE 武庫之荘",
+  "aliases": [
+   "TERRACE 武庫之荘"
+  ],
+  "address": "兵庫県尼崎市武庫之荘",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s0000045433/",
+   "https://search.yahoo.co.jp/search?p=尼崎市+武庫之荘+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

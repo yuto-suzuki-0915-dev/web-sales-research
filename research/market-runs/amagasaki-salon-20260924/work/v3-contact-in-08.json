@@ -1,0 +1,212 @@
+[
+ {
+  "lead_id": "sherin-8f98908480",
+  "name": "Sherin(シェリン)",
+  "aliases": [
+   "SHERIN"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1-14-20 ジミーズマーケット2F",
+  "industry": "エステサロン(顔脱毛等)",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6423-8863"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "your-corner-2057c158ef",
+  "name": "Your Corner",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口本町2-17-11",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "090-3650-1568"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-c0662f8e1b",
+  "name": "脱毛サロン ルチアーノ 尼崎店",
+  "aliases": [
+   "Luciano"
+  ],
+  "address": "兵庫県尼崎市昭和通4-118 ダイヤパレス尼崎501",
+  "industry": "エステサロン(脱毛)",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "070-1765-9082"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-5fa43a4cb7",
+  "name": "ヘアーステーションコープ 園田店",
+  "aliases": [],
+  "address": "兵庫県尼崎市東園田町5丁目46-13 1F",
+  "industry": "理容室",
+  "website_presence": "confirmed",
+  "website_url": "http://www.hsc1978.jp/",
+  "priority": "medium",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu",
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6494-2337"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "crescent-hair-362420f486",
+  "name": "クレセントヘアー CRESCENT HAIR",
+  "aliases": [],
+  "address": "兵庫県尼崎市東園田町5-46-12",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://www.crescent-hair.jp/",
+  "priority": "medium",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6493-2211"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "rise-hair-9be189d17d",
+  "name": "Rise Hair",
+  "aliases": [],
+  "address": "尼崎市（阪急園田駅徒歩1分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "high",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu",
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6492-0031"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "sheets-02c445c01f",
+  "name": "SHEETS 園田店",
+  "aliases": [],
+  "address": "兵庫県尼崎市東園田町9-17-14 園田駅前ビル2F",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-4960-7125"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "alles-d0f069d6f0",
+  "name": "ALLES 園田店",
+  "aliases": [],
+  "address": "兵庫県尼崎市東園田町4-104-1",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6491-0456"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-make-gorge-e3ced07d7b",
+  "name": "hair make Gorge'",
+  "aliases": [
+   "ヘアメイク ゴージュ"
+  ],
+  "address": "兵庫県尼崎市東園田町6-104 VOX 1F",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6498-0281"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "reset-1d6f0490d6",
+  "name": "ReSET 阪急園田店",
+  "aliases": [
+   "リセット"
+  ],
+  "address": "兵庫県尼崎市東園田町5-56-1 プレアデス1F",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://www.re-set.tv/index.html",
+  "priority": "medium",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6494-8711"
+   }
+  ],
+  "has_visual": false
+ }
+]

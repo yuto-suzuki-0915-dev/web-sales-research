@@ -1,0 +1,162 @@
+[
+ {
+  "lead_id": "shoji-39119a496a",
+  "name": "ヘアースタジオSHOJI",
+  "aliases": [],
+  "address": "兵庫県尼崎市次屋1丁目14-7",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1071149/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-768f36340b",
+  "name": "いずみ美容室",
+  "aliases": [
+   "Izumi Beauty Salon"
+  ],
+  "address": "尼崎市（JR尼崎駅から940m）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/tLftl8p2M-o",
+   "https://www.ekiten.jp/g0201/st0347/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-a565b7e553",
+  "name": "ロリ",
+  "aliases": [
+   "Loli"
+  ],
+  "address": "兵庫県尼崎市水堂町2丁目23番20号",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "high",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000767762/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-41f966e39d",
+  "name": "光美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市水堂町2丁目2-13",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+水堂町+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "office-chouchou-cea11bff20",
+  "name": "office.chouchou",
+  "aliases": [],
+  "address": "兵庫県尼崎市立花町1丁目15-7",
+  "industry": "美容室・サロン（業態未確認）",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/8Z8TBPN8lRw"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-da65b84f0f",
+  "name": "ヘアーサロンリーベ",
+  "aliases": [
+   "Hair Salon Liebe"
+  ],
+  "address": "兵庫県尼崎市猪名寺1丁目21-40",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://liebe-hairsalon.com/",
+  "priority": "medium",
+  "sources": [
+   "https://liebe-hairsalon.com/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "hair-mode-kt-40d081f25d",
+  "name": "Hair Mode KT 尼崎本店",
+  "aliases": [
+   "ヘアーモードケーティー 尼崎本店"
+  ],
+  "address": "尼崎市",
+  "industry": "美容室（ヘッドスパ専門店をうたう）",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+大庄+美容室",
+   "https://beauty.hotpepper.jp/keyword/ヘッドスパ専門店 尼崎/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-f004963c90",
+  "name": "パーミング",
+  "aliases": [],
+  "address": "兵庫県尼崎市大庄西町4丁目20-8",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+大庄+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hot-lip-hair-3f17b5cd9c",
+  "name": "Hot Lip hair",
+  "aliases": [],
+  "address": "兵庫県尼崎市大庄西町1-9-15",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://hotlip-hair.com/",
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/00000366355/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-b67ed18984",
+  "name": "パール美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市大庄北4丁目9-3",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+大庄+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

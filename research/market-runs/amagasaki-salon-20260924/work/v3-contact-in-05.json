@@ -1,0 +1,176 @@
+[
+ {
+  "lead_id": "barber-shop-goo-20e994b175",
+  "name": "BARBER SHOP -Goo-",
+  "aliases": [
+   "Goo"
+  ],
+  "address": "兵庫県尼崎市武庫町2丁目26-13",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "barbershop-hairs-9d2bda7792",
+  "name": "BarberShop・Hairs",
+  "aliases": [
+   "バーバーショップ ヘアーズ"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1丁目6-3",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "2-98767ca785",
+  "name": "カットハウスロンダ2",
+  "aliases": [],
+  "address": "兵庫県尼崎市昭和通1丁目21-1",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "off-2f3af40df9",
+  "name": "髪きり屋off",
+  "aliases": [
+   "髪きり屋 off"
+  ],
+  "address": "兵庫県尼崎市瓦宮1-7-5",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/",
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-bf80733fe5",
+  "name": "内藤理容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市西難波町6丁目13-17",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "barber-ka-z-5bac745370",
+  "name": "Barber Ka'z",
+  "aliases": [
+   "バーバー カズ",
+   "バーバーカズ",
+   "カズ(Ka'z)"
+  ],
+  "address": "兵庫県尼崎市七松町1丁目3番1-111 フェスタ立花南館",
+  "industry": "理容室（メンズ・マンツーマン）",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/",
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "barber-bolt-381bbaa31d",
+  "name": "barber bolt（ボルト）",
+  "aliases": [
+   "バーバーボルト",
+   "Barber Bolt",
+   "メンズカットのボルト"
+  ],
+  "address": "尼崎市（武庫之荘駅北）",
+  "industry": "理容室・バーバー",
+  "website_presence": "confirmed",
+  "website_url": "https://www.bolt-mukonosou.com/",
+  "priority": "high",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/",
+   "https://beauty.hotpepper.jp/slnH000497958/",
+   "https://www.bolt-mukonosou.com/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "hair-studio-monaco-27f5d90197",
+  "name": "Hair Studio Monaco",
+  "aliases": [
+   "ヘアスタジオ モナコ",
+   "ヘアスタジオモナコ"
+  ],
+  "address": "兵庫県尼崎市三反田町2-9-12",
+  "industry": "理容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/",
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "barber-1-1-inichi-17e561b1e7",
+  "name": "barber 1×1 inichi",
+  "aliases": [
+   "バーバー イニチ"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1-6-13",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-14a3a15a77",
+  "name": "理容大串",
+  "aliases": [],
+  "address": "兵庫県尼崎市七松町1丁目18-12",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

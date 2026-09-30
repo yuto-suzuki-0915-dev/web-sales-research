@@ -1,0 +1,162 @@
+[
+ {
+  "lead_id": "iwasaki-6431ba501c",
+  "name": "IWASAKI 兵庫立花店",
+  "aliases": [],
+  "address": "兵庫県尼崎市立花町1-15-1",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "iwasaki-e9e0b5b492",
+  "name": "IWASAKI 尼崎店",
+  "aliases": [],
+  "address": "兵庫県尼崎市東難波町5-2-24",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "iwasaki-c1f6d4342b",
+  "name": "IWASAKI 尼崎大物店",
+  "aliases": [],
+  "address": "兵庫県尼崎市東大物町1-2-1",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "iwasaki-2-8aadd2af46",
+  "name": "IWASAKI 兵庫園田2号店",
+  "aliases": [],
+  "address": "兵庫県尼崎市東園田町4-72-1",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "iwasaki-7197ad649f",
+  "name": "IWASAKI 尼崎下坂部店",
+  "aliases": [],
+  "address": "兵庫県尼崎市上坂部3-16-2",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "bar-ber-shop-big-papa-86f8b15003",
+  "name": "BAR BER SHOP BIG PAPA",
+  "aliases": [
+   "BIG PAPA",
+   "ビッグパパ"
+  ],
+  "address": "兵庫県尼崎市長洲本通1丁目7-7-103",
+  "industry": "理容室・バーバー",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-284200f24e",
+  "name": "ヘアーサロン イシダ",
+  "aliases": [],
+  "address": "兵庫県尼崎市東園田町5丁目105-6",
+  "industry": "理容室・ヘアーサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "since-c9236065ad",
+  "name": "Since とこまゆ",
+  "aliases": [
+   "とこまゆ"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1丁目22-10",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-salon-hope-af014a68a6",
+  "name": "Hair Salon HOPE",
+  "aliases": [
+   "ヘアサロン ホープ"
+  ],
+  "address": "兵庫県尼崎市御園1丁目23-12",
+  "industry": "理容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "barber-shop-b110d83d0b",
+  "name": "barber shop 一（ワン）",
+  "aliases": [
+   "ワン(一)",
+   "barber shop 一"
+  ],
+  "address": "尼崎市（阪神尼崎駅近く）",
+  "industry": "理容室・メンズバーバー",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000688098/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

@@ -1,0 +1,229 @@
+[
+ {
+  "lead_id": "barber-shop-zon-d1109184b6",
+  "name": "barber shop ZoN",
+  "aliases": [
+   "ZoN"
+  ],
+  "address": "尼崎市（JR猪名寺駅徒歩15分）",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "cut-and-spa-misono-4783b694f1",
+  "name": "cut and spa MISONO",
+  "aliases": [
+   "MISONO"
+  ],
+  "address": "尼崎市（JR塚口駅から690m）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "sen-6069feee8c",
+  "name": "sen",
+  "aliases": [],
+  "address": "尼崎市（JR塚口駅徒歩15分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "field-loco-873ac8b4ba",
+  "name": "field loco（フィールドロコ）",
+  "aliases": [
+   "ヘアーズフィールドロコ"
+  ],
+  "address": "兵庫県尼崎市北大物町19-25",
+  "industry": "理容室",
+  "website_presence": "confirmed",
+  "website_url": "https://field65.com/",
+  "priority": "high",
+  "sources": [
+   "https://field65.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6489-5551"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "https://www.instagram.com/field65/"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "nemuru-4827801ac6",
+  "name": "ヘッドスパサロンnemuru",
+  "aliases": [
+   "nemuru",
+   "nemuru-headspa"
+  ],
+  "address": "兵庫県尼崎市長洲西通1丁目1-22 藤川ビル3F",
+  "industry": "ヘッドスパ専門サロン",
+  "website_presence": "confirmed",
+  "website_url": "https://nemuru-headspa.jp/",
+  "priority": "medium",
+  "sources": [
+   "https://nemuru-headspa.jp/"
+  ],
+  "known_channels": [
+   {
+    "type": "official_line",
+    "value": "LINE登録（公式サイト記載）"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "relight-ebbd92773b",
+  "name": "美容室リライト(relight)",
+  "aliases": [
+   "リライト",
+   "relight"
+  ],
+  "address": "兵庫県尼崎市昭和南通3丁目17",
+  "industry": "美容室（担当制マンツーマン）",
+  "website_presence": "confirmed",
+  "website_url": "https://hair-relight.com/",
+  "priority": "medium",
+  "sources": [
+   "https://hair-relight.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6415-6828"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@relight.takizawa"
+   },
+   {
+    "type": "other",
+    "value": "公式サイト予約フォーム・LINE"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "g-o-a-t-upper-side-45665ad50d",
+  "name": "g.o.a.t UPPER SIDE",
+  "aliases": [
+   "ゴートアッパーサイド",
+   "goat upper side"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1-14-20",
+  "industry": "理容室・バーバーショップ",
+  "website_presence": "confirmed",
+  "website_url": "https://goatupperside.wixsite.com/goatupperside",
+  "priority": "medium",
+  "sources": [
+   "https://goatupperside.wixsite.com/goatupperside"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-7174-0912"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@g.o.a.t.upper_side"
+   },
+   {
+    "type": "official_line",
+    "value": "https://lin.ee/upuqOQY"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "flow-men-s-hair-salon-37f7c5516a",
+  "name": "Flow Men's Hair Salon（フロウ）",
+  "aliases": [
+   "フロウ",
+   "フロウ(Flow)",
+   "Flow",
+   "Flow Men's Hair Salon"
+  ],
+  "address": "兵庫県尼崎市立花町2丁目8-2 グットライフビル2F",
+  "industry": "理容室・メンズヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000783599/",
+   "https://beauty.hotpepper.jp/svcSB/stc3240876/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "barbershop-101-0619e7353b",
+  "name": "BARBERSHOP 101（ワンノウワン）",
+  "aliases": [
+   "BARBERSHOP101",
+   "バーバーショップ101"
+  ],
+  "address": "兵庫県尼崎市塚口町2丁目2-5 メゾン塚口1F",
+  "industry": "理容室・バーバー",
+  "website_presence": "confirmed",
+  "website_url": "https://bbs101.net/",
+  "priority": "medium",
+  "sources": [
+   "https://bbs101.net/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-4950-0236"
+   },
+   {
+    "type": "official_line",
+    "value": "公式LINE"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "men-s-salon-avance-3993881479",
+  "name": "men's salon AVANCE. 尼崎（メンズサロン アヴァンス 尼崎）",
+  "aliases": [
+   "AVANCE. 尼崎",
+   "アヴァンス尼崎",
+   "men's salon AVANCE. 尼崎"
+  ],
+  "address": "兵庫県尼崎市長洲本通1丁目2-1 エトワール尼崎1F",
+  "industry": "メンズサロン（美容室）",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000788129/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

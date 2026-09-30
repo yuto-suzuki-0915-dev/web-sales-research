@@ -1,0 +1,178 @@
+[
+ {
+  "lead_id": "hair-esthete-japs-5ca084d7b6",
+  "name": "Hair & Esthete JAPS",
+  "aliases": [],
+  "address": "兵庫県尼崎市神田北通4丁目61-2",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202/SCH,J,6UR"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "cococolor-b00a036b4e",
+  "name": "COCOCOLOR尼崎中央店",
+  "aliases": [
+   "COCOCOLOR Amagasaki Central"
+  ],
+  "address": "兵庫県尼崎市神田中通4丁目87-5",
+  "industry": "美容室・ヘアカラー専門店",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-fe41fca458",
+  "name": "マロン美容室 ホテル前店",
+  "aliases": [
+   "Marron Beauty Salon Hotel Branch"
+  ],
+  "address": "兵庫県尼崎市昭和通2丁目7-1",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202/SCH,J,6UR"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-3b8407554f",
+  "name": "マロン美容室 西難波店",
+  "aliases": [
+   "marron beauty",
+   "マロン美容室"
+  ],
+  "address": "兵庫県尼崎市西難波町2丁目25-11",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://www.marronbeauty.com/nishinanba.html",
+  "priority": "medium",
+  "sources": [
+   "http://www.marronbeauty.com/tachibana.html",
+   "http://www.marronbeauty.com/nanamatsu.html",
+   "http://www.marronbeauty.com/nishinanba.html"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "will-e97918d8ae",
+  "name": "ヘアースタジオWill",
+  "aliases": [
+   "ヘアースタジオｗｉｌｌ"
+  ],
+  "address": "兵庫県尼崎市常光寺1丁目24-21",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1071150/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "grado-707afb9289",
+  "name": "GRADO",
+  "aliases": [
+   "グラード"
+  ],
+  "address": "尼崎市（JR尼崎駅から440m）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_2932305/",
+   "https://www.ekiten.jp/g0201/st0347/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "a-z-hair-c579cacad5",
+  "name": "a-z.hair",
+  "aliases": [
+   "A-Z Hair",
+   "アズヘアー",
+   "アズ．ヘアー"
+  ],
+  "address": "兵庫県尼崎市武庫元町2丁目20-1",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://a-zhair.jp/",
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/shop_6559321/",
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "macherie-mukonosou-0743294a80",
+  "name": "macherie mukonosou",
+  "aliases": [
+   "マシェリ ムコノソウ"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1-19-9",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://www.macherie-mukonosou.com/info",
+  "priority": "low",
+  "sources": [
+   "https://www.macherie-mukonosou.com/info",
+   "https://www.ekiten.jp/shop_18015309/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-225a74e7e2",
+  "name": "ヘアーサロン・アンジュ",
+  "aliases": [
+   "ange"
+  ],
+  "address": "尼崎市武庫之荘",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "http://ange-hairsalon.net/",
+  "priority": "medium",
+  "sources": [
+   "http://ange-hairsalon.net/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "nim-hair-4fda1621c6",
+  "name": "Nim hair 武庫之荘",
+  "aliases": [
+   "ニムヘアー"
+  ],
+  "address": "尼崎市武庫之荘",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://nimhair.pwa.1cs.jp/",
+  "priority": "medium",
+  "sources": [
+   "https://nimhair.pwa.1cs.jp/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ }
+]

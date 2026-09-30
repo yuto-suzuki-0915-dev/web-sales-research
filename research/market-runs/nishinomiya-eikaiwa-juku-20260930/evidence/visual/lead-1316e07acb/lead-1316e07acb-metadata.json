@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-1316e07acb",
+  "page_type": "top",
+  "page_url": "https://www.misorajyuku.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:38:48.606Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-1316e07acb\\lead-1316e07acb-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-1316e07acb\\lead-1316e07acb-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

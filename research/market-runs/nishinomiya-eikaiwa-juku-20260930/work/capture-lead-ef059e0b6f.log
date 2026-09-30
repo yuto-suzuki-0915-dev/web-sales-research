@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-ef059e0b6f",
+  "page_type": "top",
+  "page_url": "https://www.kaishinkan.net/school/nishinomiya/nishikita/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:39:59.019Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-ef059e0b6f\\lead-ef059e0b6f-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-ef059e0b6f\\lead-ef059e0b6f-top-mobile.png"
+  },
+  "visual_status": "verified",
+  "metadata_path": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-ef059e0b6f\\lead-ef059e0b6f-metadata.json"
+}

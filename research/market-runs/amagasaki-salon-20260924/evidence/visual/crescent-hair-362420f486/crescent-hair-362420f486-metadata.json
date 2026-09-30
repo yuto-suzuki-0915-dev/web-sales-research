@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "crescent-hair-362420f486",
+  "page_type": "top",
+  "page_url": "http://www.crescent-hair.jp/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:17:53.649Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\crescent-hair-362420f486\\crescent-hair-362420f486-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\crescent-hair-362420f486\\crescent-hair-362420f486-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

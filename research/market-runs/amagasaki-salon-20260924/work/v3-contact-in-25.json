@@ -1,0 +1,166 @@
+[
+ {
+  "lead_id": "lead-6a7de40b57",
+  "name": "ほぐしの楽田 阪神尼崎駅前",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩2分）",
+  "industry": "リラクゼーションサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s8000040198/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-be31c2a201",
+  "name": "リラクゼーション&エステ ユナ",
+  "aliases": [
+   "Yuna"
+  ],
+  "address": "兵庫県尼崎市（阪神尼崎センタープール前駅徒歩7分）",
+  "industry": "リラクゼーション・エステ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s9000042910/",
+   "https://search.yahoo.co.jp/search?p=尼崎市+エステサロン+リラクゼーション"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-fb65e70501",
+  "name": "美容室コラソン",
+  "aliases": [],
+  "address": "兵庫県尼崎市東難波町3丁目21-35",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/0e_A2U11QU2"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-81ab99cd2b",
+  "name": "ジェニー",
+  "aliases": [],
+  "address": "兵庫県尼崎市東難波町3丁目7-7",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+東難波町+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-c0f65bf31a",
+  "name": "松浦理容店",
+  "aliases": [],
+  "address": "兵庫県尼崎市東難波町5丁目6-24",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+東難波町+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-8461c948d4",
+  "name": "サロン・モーブ",
+  "aliases": [],
+  "address": "兵庫県尼崎市東難波町3-9-16",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+東難波町+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-79fed2c8e2",
+  "name": "ヘアー&フェイスこーむ",
+  "aliases": [],
+  "address": "兵庫県尼崎市東難波町4丁目17-21",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/qlWhMr1Y-ZM"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "ulu-41c82ecc18",
+  "name": "ulu",
+  "aliases": [
+   "ウル"
+  ],
+  "address": "兵庫県尼崎市（南塚口町）",
+  "industry": "美容室・ネイル",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+南塚口町+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "su-r-eb8de6cbe7",
+  "name": "sûr",
+  "aliases": [
+   "シュル"
+  ],
+  "address": "〒661-0035 兵庫県尼崎市武庫之荘1-6-14 R.e.B 2F",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://sur.cx/",
+  "priority": "medium",
+  "sources": [
+   "https://sur.cx/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-6b0ccb2b2b",
+  "name": "ホットナップス 尼崎店",
+  "aliases": [
+   "Hot Naps 尼崎店",
+   "HotNaps",
+   "HotNaps 尼崎",
+   "Men'sヘアーサロン Hot Naps 尼崎店"
+  ],
+  "address": "兵庫県尼崎市次屋1-11-2",
+  "industry": "理容室（ヘアサロン）",
+  "website_presence": "confirmed",
+  "website_url": "https://hotnapsamagasaki.com/",
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/",
+   "https://www.ekiten.jp/g0202/a28202/",
+   "https://hotnapsamagasaki.com/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ }
+]

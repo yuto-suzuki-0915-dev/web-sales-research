@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "ipset-7227873694",
+  "page_type": "top",
+  "page_url": "https://ipset.jp/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T03:07:38.281Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\営業素材\\work\\web-sales-research-v2\\research\\market-runs\\ashiya-pilates-20260924-b\\evidence\\visual\\ipset-7227873694\\ipset-7227873694-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\営業素材\\work\\web-sales-research-v2\\research\\market-runs\\ashiya-pilates-20260924-b\\evidence\\visual\\ipset-7227873694\\ipset-7227873694-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

@@ -1,0 +1,167 @@
+[
+ {
+  "lead_id": "violetta-hair-space-0f7db36b19",
+  "name": "VIOLETTA Hair & Space",
+  "aliases": [
+   "ヴィオレッタ"
+  ],
+  "address": "兵庫県尼崎市南塚口町8-4-6 1階",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://hair-violetta.com/",
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6560656/",
+   "http://hair-violetta.com/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lead-b0b1121de7",
+  "name": "ゆらゆら美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市上ノ島町1-15-22",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6757666/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-3945be24fb",
+  "name": "ラ・ミューゼリゾート",
+  "aliases": [
+   "La Muse Resort"
+  ],
+  "address": "兵庫県尼崎市南塚口町3丁目12-3",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6560603/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-98d09b768d",
+  "name": "リルーク.ヘアー",
+  "aliases": [],
+  "address": "兵庫県尼崎市南塚口町1丁目8-15",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6019783/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "chloe-hair-1284d1b28e",
+  "name": "Chloe hair",
+  "aliases": [
+   "Chloe hair",
+   "Chloe hair【クロエ ヘアー】"
+  ],
+  "address": "兵庫県尼崎市東園田町3丁目27-2",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/",
+   "https://www.ekiten.jp/shop_86511973/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "freyatotalbeautysalon-e48555186a",
+  "name": "FreyaTotalBeautySalon",
+  "aliases": [
+   "FreyaHair&Spa TotalBeautySalon"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1-4-3",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_54612525/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "grace-hair-smilism-931e7b574a",
+  "name": "grace hair SMILism",
+  "aliases": [],
+  "address": "兵庫県尼崎市南武庫之荘1-12-17",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1067976/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-relax-snug-bf87eabd60",
+  "name": "hair & relax Snug",
+  "aliases": [],
+  "address": "兵庫県尼崎市南武庫之荘2-9-13",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1067817/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "refine-c854ebc669",
+  "name": "Refine.尼崎店",
+  "aliases": [
+   "Refine 尼崎"
+  ],
+  "address": "兵庫県尼崎市潮江1-8-1",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/shop_6032817/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "refine-jr-264ea650ed",
+  "name": "Refine.JR立花店",
+  "aliases": [
+   "Refine JR立花"
+  ],
+  "address": "兵庫県尼崎市七松町1丁目8-2",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/shop_6032877/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

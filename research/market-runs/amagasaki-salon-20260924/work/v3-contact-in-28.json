@@ -1,0 +1,170 @@
+[
+ {
+  "lead_id": "lead-decd48340d",
+  "name": "シバ美容室",
+  "aliases": [
+   "Shiba Beauty Salon"
+  ],
+  "address": "兵庫県尼崎市若王寺2丁目3-27",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+若王寺+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "petite-etoile-5fde81a466",
+  "name": "Petite Etoile",
+  "aliases": [
+   "プティエトワール"
+  ],
+  "address": "兵庫県尼崎市若王寺",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://petite-etoile.my.canva.site/",
+  "priority": "high",
+  "sources": [
+   "https://petite-etoile.my.canva.site/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "bois-hair-98a6d70281",
+  "name": "BOIS HAIR",
+  "aliases": [
+   "ボイスヘアー"
+  ],
+  "address": "兵庫県尼崎市若王寺",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://bois-hair.com/",
+  "priority": "high",
+  "sources": [
+   "https://bois-hair.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6491-7049"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lead-5da38752b9",
+  "name": "カトレヤ美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市若王寺",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1069649/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "qilala-f0e0fdceb8",
+  "name": "Qilala",
+  "aliases": [
+   "キララ"
+  ],
+  "address": "兵庫県尼崎市若王寺",
+  "industry": "まつげ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.instagram.com/qilala_mayumi/"
+  ],
+  "known_channels": [
+   {
+    "type": "instagram_dm",
+    "value": "https://www.instagram.com/qilala_mayumi/"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-design-dimple-2aeb3e86c6",
+  "name": "hair design DIMPLE",
+  "aliases": [],
+  "address": "兵庫県尼崎市杭瀬",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240966/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-6c58f29e87",
+  "name": "ロン美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市杭瀬南新町1丁目8-16",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+杭瀬+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-0d990758ae",
+  "name": "ヴェール&みどり美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市杭瀬本町2丁目2-1",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+杭瀬+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-d60cbfc564",
+  "name": "ぱぴるす美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市杭瀬本町2-23-1",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+杭瀬+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-594dfd71b8",
+  "name": "かつら美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市常光寺2丁目5-60",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/J3RI3EgF4l2"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

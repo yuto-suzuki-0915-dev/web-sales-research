@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-4ef37e350d",
+  "page_type": "top",
+  "page_url": "https://yoshimoto-juku.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:50:04.298Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-4ef37e350d\\lead-4ef37e350d-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-4ef37e350d\\lead-4ef37e350d-top-mobile.png"
+  },
+  "visual_status": "verified",
+  "metadata_path": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-4ef37e350d\\lead-4ef37e350d-metadata.json"
+}

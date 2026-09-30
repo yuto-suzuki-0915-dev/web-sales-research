@@ -1,0 +1,160 @@
+[
+ {
+  "lead_id": "sakura-spa-eyelash-esthethic-82d19d7673",
+  "name": "SAKURA Spa eyelash&esthethics",
+  "aliases": [
+   "SAKURA SPA",
+   "SAKURA Spa",
+   "SAKURA Spa eyelash＆esthetics"
+  ],
+  "address": "兵庫県尼崎市昭和通4-125-1",
+  "industry": "エステ・まつげサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6031938/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "mi-rror-beautyrepro-3f8fef9ab6",
+  "name": "Mi RROR Beautyrepro",
+  "aliases": [],
+  "address": "兵庫県尼崎市南塚口町2-19-2",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6014607/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "yosapark-jr-poco-8726d7de4e",
+  "name": "YOSAPARK JR尼崎南店 POCO",
+  "aliases": [
+   "ヨサパーク"
+  ],
+  "address": "兵庫県尼崎市長洲本通1-10-18",
+  "industry": "エステ・よもぎ蒸しサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/shop_6035362/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "yosapark-lily-dbc4224040",
+  "name": "YOSAPARK LILY",
+  "aliases": [],
+  "address": "兵庫県尼崎市久々知1丁目12-12",
+  "industry": "エステ・よもぎ蒸しサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/shop_7072329/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-57ec4c98ea",
+  "name": "メナードフェイシャルサロン ノオラ",
+  "aliases": [],
+  "address": "兵庫県尼崎市武庫之荘東1丁目25-1",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1071552/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "siro-53ce878df5",
+  "name": "フェイシャルケアSIRO",
+  "aliases": [],
+  "address": "兵庫県尼崎市浜3-1-34",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_98673776/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "salon-miwa-c5e0fd12ae",
+  "name": "Salon MIWA",
+  "aliases": [],
+  "address": "兵庫県尼崎市武庫之荘1丁目2-3",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1069493/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "kanon-fd3754b7a6",
+  "name": "アロマとほぐしのお店〜香音。〜kanon",
+  "aliases": [
+   "香音"
+  ],
+  "address": "兵庫県尼崎市立花町1-16-13",
+  "industry": "リラクゼーションサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_28493190/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "plage-772f8653a7",
+  "name": "よもぎ蒸しサロンplage",
+  "aliases": [],
+  "address": "兵庫県尼崎市南塚口町1-3-21",
+  "industry": "リラクゼーション・よもぎ蒸しサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_38607380/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "beauty-salon-kleopatra-1212edb1fc",
+  "name": "Beauty salon KleoPatra",
+  "aliases": [],
+  "address": "兵庫県尼崎市七松町3-3-13",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_85153719/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

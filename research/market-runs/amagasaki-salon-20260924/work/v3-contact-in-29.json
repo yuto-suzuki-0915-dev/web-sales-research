@@ -1,0 +1,165 @@
+[
+ {
+  "lead_id": "casta-e41e1a47dc",
+  "name": "CASTA",
+  "aliases": [
+   "CASTA",
+   "カスタ",
+   "CASTA HAIR",
+   "CASTA【カスタ】"
+  ],
+  "address": "兵庫県尼崎市下坂部3丁目1-39",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/",
+   "https://beauty.hotpepper.jp/slnH000250610/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-6dea1398df",
+  "name": "ヘアークリエイティブサロンナカミズ",
+  "aliases": [
+   "Hair Creative Salon Nakamizu"
+  ],
+  "address": "兵庫県尼崎市下坂部4-13-3",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+下坂部+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hana-80e356a386",
+  "name": "美容室Hana",
+  "aliases": [],
+  "address": "兵庫県尼崎市富松町2丁目27-22 第3タカオハイツ1F",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/Uw1nIqkhLpU"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-83e162cef5",
+  "name": "田能理容所",
+  "aliases": [],
+  "address": "兵庫県尼崎市田能3-24-7",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+田能+富松+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-7168f1897f",
+  "name": "雄二美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市富松町1丁目8-32",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+田能+富松+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lands-f7b6cccb83",
+  "name": "LANDS",
+  "aliases": [],
+  "address": "尼崎市（阪急武庫之荘駅北側）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://minimodel.jp/r/xmX13dR",
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-25de5bec94",
+  "name": "アイ・アム美容室",
+  "aliases": [
+   "I Am"
+  ],
+  "address": "兵庫県尼崎市久々知1丁目5-5",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/IDxystAGef2"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "greenly-1c71caf997",
+  "name": "greenly",
+  "aliases": [],
+  "address": "兵庫県尼崎市久々知1丁目19-6",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/yHTdYYdGgrs"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "pola-0c25ad5bc7",
+  "name": "POLA 東尼崎店",
+  "aliases": [
+   "ポーラ"
+  ],
+  "address": "兵庫県尼崎市久々知1-12-17",
+  "industry": "エステ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+久々知+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-ed1c799d5b",
+  "name": "フラッシュネイル 塚口駅前店",
+  "aliases": [],
+  "address": "兵庫県尼崎市（塚口駅前）",
+  "industry": "ネイル",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+ネイルサロン"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

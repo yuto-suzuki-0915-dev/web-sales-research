@@ -1,0 +1,836 @@
+{
+ "batch": 1,
+ "created_at": "2026-09-30",
+ "run": "amagasaki-salon-20260924-v4",
+ "selection_rule": "triage.decision=pending & lead.status=candidate & 送信済み/過去送信/営業見送りを除外した全件(616件)から、業種カテゴリ(hair/barber/nail/lash/esthe)ごとにプール比率で按分(quota)し、各カテゴリ内はmd5(\"batch001:\"+lead_id)昇順で先頭から採用。qualification状態は条件にしない。",
+ "pool_size": 616,
+ "quota": {
+  "hair": 57,
+  "lash": 4,
+  "esthe": 10,
+  "nail": 11,
+  "barber": 18
+ },
+ "ordering": "カテゴリ順(quota記載順)→カテゴリ内md5昇順",
+ "lead_ids": [
+  "fufu-6aa987d9c0",
+  "lead-17cd9f753f",
+  "infinity-3cc364a75b",
+  "lead-4c18d6d815",
+  "lead-b0b1121de7",
+  "chainon-ec2e52af24",
+  "atre-35e59900a5",
+  "chloe-hair-1284d1b28e",
+  "lead-3cd03d3b11",
+  "hana-80e356a386",
+  "hair-esthete-japs-5ca084d7b6",
+  "melmo-aroma-hair-cf0a522c13",
+  "ekolu-by-clap-b5fd12a005",
+  "lead-d825565f51",
+  "salon-d-avenue-8741dfa4b4",
+  "lead-713ee68569",
+  "luxu-hair-spa-58ec478512",
+  "village-f-4e1993e3d9",
+  "lead-1ce2fb9d13",
+  "salon-de-beaute-e-lite-2148266755",
+  "lulu-2ee2e38126",
+  "lead-d6e10e7bda",
+  "hair-091d6f230a",
+  "lead-0559085f14",
+  "lead-082c2be0aa",
+  "art-ifact-42c0027c36",
+  "the-light-1e1d2998c7",
+  "lead-dc4852b42d",
+  "rooms-eb00c6b187",
+  "healing-beauty-nana-c89c853651",
+  "gunsn-hair-a729ad84d1",
+  "lead-7aa129a714",
+  "hair-make-sutela-2e85c4a5c4",
+  "lead-3117603b36",
+  "hair-s-beconnect-1081dba5b1",
+  "hair-relax-snug-bf87eabd60",
+  "lead-3945be24fb",
+  "sinba-7e5983df71",
+  "kafuu-8827db70b9",
+  "sen-6069feee8c",
+  "rond-f937e73c2e",
+  "hair-gallery-avant-18fe3028c7",
+  "re-born-d155a3ede7",
+  "men-s-salon-avance-3993881479",
+  "shoji-39119a496a",
+  "lead-153932ceb5",
+  "lead-cb5af7932d",
+  "lead-2fcee0bb15",
+  "code-line-b7978ad6f1",
+  "lead-aebb62e89a",
+  "lead-aca136c2ab",
+  "hairsalon-elite-3e5ee97862",
+  "lead-12f0683b9f",
+  "ciel-for-hair-3c51b45808",
+  "lead-abdf6875ee",
+  "lead-b6a4c45067",
+  "amoroso-d59522c545",
+  "lead-34d9bc9283",
+  "miin-by-lands-a983c5df2d",
+  "lead-d09bb65b06",
+  "cachette-88389b9e28",
+  "nurse-skin-ff1c9b5b17",
+  "siro-53ce878df5",
+  "yosapark-jr-poco-8726d7de4e",
+  "men-s-dione-9ce176cf90",
+  "lead-48f98a9099",
+  "private-salon-coco-clair-6f928806e5",
+  "private-salon-days-2748c37aa8",
+  "yosapark-hiruras-b3df71ae02",
+  "bodysh-8f22bb2ddc",
+  "kanon-fd3754b7a6",
+  "nail-salon-neige-51a2a99f3f",
+  "kyou-nail-f7f228e12c",
+  "ailes-nail-a9efd74f62",
+  "private-nail-salon-re-noa-5c1c8a8b80",
+  "nail-salon-berry-e6ff5e3430",
+  "bell-flower-e776d1b944",
+  "beauty-labo-e044f30c8e",
+  "nailsalon-linne-72bfa28645",
+  "calm-nail-2b698ad12d",
+  "jyu-jyu-nail-67f44d36c8",
+  "nail-salon-me-9f99e65826",
+  "lead-5a1d906a4e",
+  "anteros-03678030d1",
+  "lead-a950bfb36d",
+  "barbershop-hairs-9d2bda7792",
+  "iwasaki-c1f6d4342b",
+  "lead-5e9d17fe4f",
+  "lead-22c89ecfdb",
+  "kkcut-8d2d6df6e3",
+  "lead-1391b12611",
+  "mens-salon-sou-by-luau-ae9b1573ed",
+  "lead-2a0678b195",
+  "lead-de40f00596",
+  "lead-1c5c7525cf",
+  "barber-shatore-dd8701918c",
+  "lead-356e6e83c5",
+  "iwasaki-7197ad649f",
+  "lead-afd88d25fb",
+  "lead-a9b635116c"
+ ],
+ "items": [
+  {
+   "lead_id": "fufu-6aa987d9c0",
+   "name": "ヘアカラー専門店fufu 立花店",
+   "category": "hair",
+   "rank_in_category": 1,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-17cd9f753f",
+   "name": "ギュゼル・バヤン",
+   "category": "hair",
+   "rank_in_category": 2,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "infinity-3cc364a75b",
+   "name": "INFINITY",
+   "category": "hair",
+   "rank_in_category": 3,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-4c18d6d815",
+   "name": "エンゼル",
+   "category": "hair",
+   "rank_in_category": 4,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-b0b1121de7",
+   "name": "ゆらゆら美容室",
+   "category": "hair",
+   "rank_in_category": 5,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "chainon-ec2e52af24",
+   "name": "CHAINON 武庫之荘【シェノン】",
+   "category": "hair",
+   "rank_in_category": 6,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "atre-35e59900a5",
+   "name": "髪質改善 Atre. 武庫之荘",
+   "category": "hair",
+   "rank_in_category": 7,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "chloe-hair-1284d1b28e",
+   "name": "Chloe hair",
+   "category": "hair",
+   "rank_in_category": 8,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-3cd03d3b11",
+   "name": "サロン・ドエクラ",
+   "category": "hair",
+   "rank_in_category": 9,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "hana-80e356a386",
+   "name": "美容室Hana",
+   "category": "hair",
+   "rank_in_category": 10,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "hair-esthete-japs-5ca084d7b6",
+   "name": "Hair & Esthete JAPS",
+   "category": "hair",
+   "rank_in_category": 11,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "melmo-aroma-hair-cf0a522c13",
+   "name": "melmo aroma hair",
+   "category": "hair",
+   "rank_in_category": 12,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "ekolu-by-clap-b5fd12a005",
+   "name": "ekolu by clap",
+   "category": "hair",
+   "rank_in_category": 13,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-d825565f51",
+   "name": "ブロンサービス株式会社 本店",
+   "category": "hair",
+   "rank_in_category": 14,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "salon-d-avenue-8741dfa4b4",
+   "name": "Salon d'Avenue",
+   "category": "hair",
+   "rank_in_category": 15,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-713ee68569",
+   "name": "エアージュ",
+   "category": "hair",
+   "rank_in_category": 16,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "luxu-hair-spa-58ec478512",
+   "name": "LUXU hair&spa",
+   "category": "hair",
+   "rank_in_category": 17,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "village-f-4e1993e3d9",
+   "name": "village-f",
+   "category": "hair",
+   "rank_in_category": 18,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-1ce2fb9d13",
+   "name": "フォレスタ",
+   "category": "hair",
+   "rank_in_category": 19,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "salon-de-beaute-e-lite-2148266755",
+   "name": "salon de beauté Élite（サロンドボーテ エリート）",
+   "category": "hair",
+   "rank_in_category": 20,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lulu-2ee2e38126",
+   "name": "ルル(lulu)",
+   "category": "hair",
+   "rank_in_category": 21,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-d6e10e7bda",
+   "name": "ノーヴァ",
+   "category": "hair",
+   "rank_in_category": 22,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "hair-091d6f230a",
+   "name": "Hair-花時計",
+   "category": "hair",
+   "rank_in_category": 23,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-0559085f14",
+   "name": "亜樹ビューティサロン",
+   "category": "hair",
+   "rank_in_category": 24,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-082c2be0aa",
+   "name": "ビューティーサロン・ファイブ",
+   "category": "hair",
+   "rank_in_category": 25,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "art-ifact-42c0027c36",
+   "name": "art-ifact",
+   "category": "hair",
+   "rank_in_category": 26,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "the-light-1e1d2998c7",
+   "name": "The Light",
+   "category": "hair",
+   "rank_in_category": 27,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-dc4852b42d",
+   "name": "グリタモード",
+   "category": "hair",
+   "rank_in_category": 28,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "rooms-eb00c6b187",
+   "name": "ROOMS つかしん店",
+   "category": "hair",
+   "rank_in_category": 29,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "healing-beauty-nana-c89c853651",
+   "name": "Healing & Beauty nana（ヒーリング アンド ビューティー ナナ）",
+   "category": "hair",
+   "rank_in_category": 30,
+   "contactability": "contact_not_found"
+  },
+  {
+   "lead_id": "gunsn-hair-a729ad84d1",
+   "name": "GUNSN'hair",
+   "category": "hair",
+   "rank_in_category": 31,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-7aa129a714",
+   "name": "エンジョブ塚口店",
+   "category": "hair",
+   "rank_in_category": 32,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "hair-make-sutela-2e85c4a5c4",
+   "name": "hair make SUTELA",
+   "category": "hair",
+   "rank_in_category": 33,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-3117603b36",
+   "name": "グランス",
+   "category": "hair",
+   "rank_in_category": 34,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "hair-s-beconnect-1081dba5b1",
+   "name": "hair's beconnect",
+   "category": "hair",
+   "rank_in_category": 35,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "hair-relax-snug-bf87eabd60",
+   "name": "hair & relax Snug",
+   "category": "hair",
+   "rank_in_category": 36,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-3945be24fb",
+   "name": "ラ・ミューゼリゾート",
+   "category": "hair",
+   "rank_in_category": 37,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "sinba-7e5983df71",
+   "name": "株式会社SINBA",
+   "category": "hair",
+   "rank_in_category": 38,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "kafuu-8827db70b9",
+   "name": "kafuu",
+   "category": "hair",
+   "rank_in_category": 39,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "sen-6069feee8c",
+   "name": "sen",
+   "category": "hair",
+   "rank_in_category": 40,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "rond-f937e73c2e",
+   "name": "Rond",
+   "category": "hair",
+   "rank_in_category": 41,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "hair-gallery-avant-18fe3028c7",
+   "name": "HAIR GALLERY Avant",
+   "category": "hair",
+   "rank_in_category": 42,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "re-born-d155a3ede7",
+   "name": "Re・Born",
+   "category": "hair",
+   "rank_in_category": 43,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "men-s-salon-avance-3993881479",
+   "name": "men's salon AVANCE. 尼崎（メンズサロン アヴァンス 尼崎）",
+   "category": "hair",
+   "rank_in_category": 44,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "shoji-39119a496a",
+   "name": "ヘアースタジオSHOJI",
+   "category": "hair",
+   "rank_in_category": 45,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-153932ceb5",
+   "name": "ツタヤ美容院",
+   "category": "hair",
+   "rank_in_category": 46,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-cb5af7932d",
+   "name": "アトリエヨネダ",
+   "category": "hair",
+   "rank_in_category": 47,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-2fcee0bb15",
+   "name": "アズヘアー・アイビス",
+   "category": "hair",
+   "rank_in_category": 48,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "code-line-b7978ad6f1",
+   "name": "CODE.LINE 立花店",
+   "category": "hair",
+   "rank_in_category": 49,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-aebb62e89a",
+   "name": "チャーリーブラウン",
+   "category": "hair",
+   "rank_in_category": 50,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-aca136c2ab",
+   "name": "ホーダビューティーサロン",
+   "category": "hair",
+   "rank_in_category": 51,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "hairsalon-elite-3e5ee97862",
+   "name": "hairsalon elite",
+   "category": "hair",
+   "rank_in_category": 52,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-12f0683b9f",
+   "name": "アイリー美容室",
+   "category": "hair",
+   "rank_in_category": 53,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "ciel-for-hair-3c51b45808",
+   "name": "CIEL FOR HAIR",
+   "category": "hair",
+   "rank_in_category": 54,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-abdf6875ee",
+   "name": "ハヤセ発毛倶楽部",
+   "category": "hair",
+   "rank_in_category": 55,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-b6a4c45067",
+   "name": "カットサロンラ・モード",
+   "category": "hair",
+   "rank_in_category": 56,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "amoroso-d59522c545",
+   "name": "amoroso",
+   "category": "hair",
+   "rank_in_category": 57,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-34d9bc9283",
+   "name": "ビューティーアイラッシュ つかしん店",
+   "category": "lash",
+   "rank_in_category": 1,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "miin-by-lands-a983c5df2d",
+   "name": "MIIN by lands",
+   "category": "lash",
+   "rank_in_category": 2,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-d09bb65b06",
+   "name": "オトナチック",
+   "category": "lash",
+   "rank_in_category": 3,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "cachette-88389b9e28",
+   "name": "cachette...",
+   "category": "lash",
+   "rank_in_category": 4,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "nurse-skin-ff1c9b5b17",
+   "name": "nurse skin（ナーススキン）",
+   "category": "esthe",
+   "rank_in_category": 1,
+   "contactability": "contact_not_found"
+  },
+  {
+   "lead_id": "siro-53ce878df5",
+   "name": "フェイシャルケアSIRO",
+   "category": "esthe",
+   "rank_in_category": 2,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "yosapark-jr-poco-8726d7de4e",
+   "name": "YOSAPARK JR尼崎南店 POCO",
+   "category": "esthe",
+   "rank_in_category": 3,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "men-s-dione-9ce176cf90",
+   "name": "Men's Dione（メンズディオーネ）尼崎店",
+   "category": "esthe",
+   "rank_in_category": 4,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-48f98a9099",
+   "name": "尼崎エーサロン",
+   "category": "esthe",
+   "rank_in_category": 5,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "private-salon-coco-clair-6f928806e5",
+   "name": "Private Salon Coco Clair（ココクレール）",
+   "category": "esthe",
+   "rank_in_category": 6,
+   "contactability": "contact_not_found"
+  },
+  {
+   "lead_id": "private-salon-days-2748c37aa8",
+   "name": "Private Salon Days.（プライベートサロン デイズ）",
+   "category": "esthe",
+   "rank_in_category": 7,
+   "contactability": "contact_not_found"
+  },
+  {
+   "lead_id": "yosapark-hiruras-b3df71ae02",
+   "name": "YOSAPARK Hiruras 武庫之荘（ヨサパーク ヒルラス）",
+   "category": "esthe",
+   "rank_in_category": 8,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "bodysh-8f22bb2ddc",
+   "name": "Bodysh(ボディッシュ) 阪急塚口駅前店",
+   "category": "esthe",
+   "rank_in_category": 9,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "kanon-fd3754b7a6",
+   "name": "アロマとほぐしのお店〜香音。〜kanon",
+   "category": "esthe",
+   "rank_in_category": 10,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "nail-salon-neige-51a2a99f3f",
+   "name": "nail salon neige",
+   "category": "nail",
+   "rank_in_category": 1,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "kyou-nail-f7f228e12c",
+   "name": "kyou_nail",
+   "category": "nail",
+   "rank_in_category": 2,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "ailes-nail-a9efd74f62",
+   "name": "ailes nail.",
+   "category": "nail",
+   "rank_in_category": 3,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "private-nail-salon-re-noa-5c1c8a8b80",
+   "name": "Private Nail Salon Re:NoA",
+   "category": "nail",
+   "rank_in_category": 4,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "nail-salon-berry-e6ff5e3430",
+   "name": "nail salon Berry",
+   "category": "nail",
+   "rank_in_category": 5,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "bell-flower-e776d1b944",
+   "name": "Bell Flower",
+   "category": "nail",
+   "rank_in_category": 6,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "beauty-labo-e044f30c8e",
+   "name": "Beauty labo 塚口店",
+   "category": "nail",
+   "rank_in_category": 7,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "nailsalon-linne-72bfa28645",
+   "name": "nailsalon linne",
+   "category": "nail",
+   "rank_in_category": 8,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "calm-nail-2b698ad12d",
+   "name": "Calm nail",
+   "category": "nail",
+   "rank_in_category": 9,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "jyu-jyu-nail-67f44d36c8",
+   "name": "JYU-JYU NAIL（ジュジュネイル）",
+   "category": "nail",
+   "rank_in_category": 10,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "nail-salon-me-9f99e65826",
+   "name": "nail salon +me",
+   "category": "nail",
+   "rank_in_category": 11,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-5a1d906a4e",
+   "name": "ゼニス",
+   "category": "barber",
+   "rank_in_category": 1,
+   "contactability": "phone_only"
+  },
+  {
+   "lead_id": "anteros-03678030d1",
+   "name": "Anteros",
+   "category": "barber",
+   "rank_in_category": 2,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-a950bfb36d",
+   "name": "ヘアーサロンムラタニ",
+   "category": "barber",
+   "rank_in_category": 3,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "barbershop-hairs-9d2bda7792",
+   "name": "BarberShop・Hairs",
+   "category": "barber",
+   "rank_in_category": 4,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "iwasaki-c1f6d4342b",
+   "name": "IWASAKI 尼崎大物店",
+   "category": "barber",
+   "rank_in_category": 5,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-5e9d17fe4f",
+   "name": "シノミヤ",
+   "category": "barber",
+   "rank_in_category": 6,
+   "contactability": "phone_only"
+  },
+  {
+   "lead_id": "lead-22c89ecfdb",
+   "name": "ウエダ",
+   "category": "barber",
+   "rank_in_category": 7,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "kkcut-8d2d6df6e3",
+   "name": "KKcut（キングスカット）尼崎西店",
+   "category": "barber",
+   "rank_in_category": 8,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-1391b12611",
+   "name": "グリーンルーム",
+   "category": "barber",
+   "rank_in_category": 9,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "mens-salon-sou-by-luau-ae9b1573ed",
+   "name": "MENS salon SOU by LUAU",
+   "category": "barber",
+   "rank_in_category": 10,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-2a0678b195",
+   "name": "フジサキ",
+   "category": "barber",
+   "rank_in_category": 11,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-de40f00596",
+   "name": "カットサロンたくみ",
+   "category": "barber",
+   "rank_in_category": 12,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-1c5c7525cf",
+   "name": "ヘアーサロンイワシタ",
+   "category": "barber",
+   "rank_in_category": 13,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "barber-shatore-dd8701918c",
+   "name": "BARBER SHATORE 立花店",
+   "category": "barber",
+   "rank_in_category": 14,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-356e6e83c5",
+   "name": "イレブンカット つかしん店",
+   "category": "barber",
+   "rank_in_category": 15,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "iwasaki-7197ad649f",
+   "name": "IWASAKI 尼崎下坂部店",
+   "category": "barber",
+   "rank_in_category": 16,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-afd88d25fb",
+   "name": "理容マロ",
+   "category": "barber",
+   "rank_in_category": 17,
+   "contactability": "contact_unverified"
+  },
+  {
+   "lead_id": "lead-a9b635116c",
+   "name": "エッツ理髪",
+   "category": "barber",
+   "rank_in_category": 18,
+   "contactability": "contact_unverified"
+  }
+ ],
+ "result": {
+  "completed_at": "2026-09-30",
+  "decisions": {
+   "defer": 67,
+   "stop": 33
+  },
+  "search_limited_ids_count": 25,
+  "qualify": {
+   "advance_after_review": 0,
+   "pursue": 0,
+   "watch": 0,
+   "drop": 0
+  },
+  "drafts_reviewed": 0,
+  "next_pool_remaining": 516,
+  "note": "WebSearch上限(200)に到達したため公式サイト検索を実施できなかった件が多数。該当はdeferとして保存(再開時に再探索)。"
+ }
+}

@@ -1,0 +1,164 @@
+[
+ {
+  "lead_id": "lead-73352ec258",
+  "name": "青木理容店",
+  "aliases": [
+   "Aoki Barbershop"
+  ],
+  "address": "兵庫県尼崎市浜田町4丁目20",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-1b69187acf",
+  "name": "大月",
+  "aliases": [
+   "大月",
+   "Otsuki",
+   "理容大月"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1丁目2-5",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/",
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-a5b44b699f",
+  "name": "ヘアーサロンステーション",
+  "aliases": [
+   "Hair Salon Station"
+  ],
+  "address": "兵庫県尼崎市立花町1丁目4-11",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-66cd85e828",
+  "name": "おしゃれ床屋べーやん",
+  "aliases": [
+   "Osharena Tokoya Be-yan",
+   "Osharē Bed'ya Beyan"
+  ],
+  "address": "兵庫県尼崎市武庫元町2丁目18-19",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-a2c3953677",
+  "name": "サロンドアベニュー",
+  "aliases": [],
+  "address": "兵庫県尼崎市潮江1丁目4-5",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-22c89ecfdb",
+  "name": "ウエダ",
+  "aliases": [],
+  "address": "兵庫県尼崎市尾浜町2-21-38",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-2df3f303d9",
+  "name": "木村理容",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口本町2丁目21-1",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "2-d3d2d247d7",
+  "name": "カットハウス良2",
+  "aliases": [],
+  "address": "兵庫県尼崎市南塚口町6丁目6-13",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-0ce3c9703b",
+  "name": "モンプチスタイル",
+  "aliases": [],
+  "address": "兵庫県尼崎市武庫之荘東2-25-26",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-de6238087f",
+  "name": "キノシタヘアーサロン",
+  "aliases": [],
+  "address": "兵庫県尼崎市富松町2-35-17",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

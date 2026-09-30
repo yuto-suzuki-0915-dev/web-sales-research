@@ -1,0 +1,20 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-f6da40ac6c",
+  "page_type": "top",
+  "page_url": "http://www.sirius-nishinomiya.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:50:34.021Z",
+  "desktop": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-f6da40ac6c\\lead-f6da40ac6c-top-desktop.png",
+    "error": "[22576:34808:0930/164952.251:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[22576:34808:0930/164952.752:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[22576:34808:0930/164953.368:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[22576:34808:0930/165003.419:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[22576:34808:0930/165003.431:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-f6da40ac6c\\lead-f6da40ac6c-top-mobile.png"
+  },
+  "visual_status": "unverified",
+  "metadata_path": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-f6da40ac6c\\lead-f6da40ac6c-metadata.json"
+}

@@ -1,0 +1,173 @@
+[
+ {
+  "lead_id": "nail-salon-diva-7f966797ba",
+  "name": "Nail Salon Diva 塚口店",
+  "aliases": [
+   "ネイルサロン ディーバ"
+  ],
+  "address": "兵庫県尼崎市塚口町3-38-1",
+  "industry": "ネイル",
+  "website_presence": "confirmed",
+  "website_url": "https://www.naildiva.jp/shop/tsukaguchi/",
+  "priority": "low",
+  "sources": [
+   "https://www.naildiva.jp/shop/tsukaguchi/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lead-367b35259e",
+  "name": "ネイルサロン 桜",
+  "aliases": [],
+  "address": "尼崎市南塚口町",
+  "industry": "ネイル",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_7161347/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lino-ab57486f57",
+  "name": "Lino【リノ】",
+  "aliases": [
+   "Lino"
+  ],
+  "address": "尼崎市（武庫之荘駅北口徒歩6分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-space-tal-ke-19e7287538",
+  "name": "hair space TAL'KE 武庫之荘",
+  "aliases": [
+   "TAL'KE"
+  ],
+  "address": "尼崎市（阪急武庫之荘駅徒歩4分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "briller-hair-salon-f3436ecb95",
+  "name": "BRILLER hair salon【ブリエ】",
+  "aliases": [
+   "BRILLER"
+  ],
+  "address": "尼崎市（武庫之荘駅南口徒歩8分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "atre-35e59900a5",
+  "name": "髪質改善 Atre. 武庫之荘",
+  "aliases": [
+   "Atre."
+  ],
+  "address": "尼崎市（武庫之荘駅徒歩2分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "chainon-ec2e52af24",
+  "name": "CHAINON 武庫之荘【シェノン】",
+  "aliases": [
+   "CHAINON 武庫之荘 髪質改善",
+   "CHAINON",
+   "CHAINON 武庫之荘"
+  ],
+  "address": "尼崎市（阪急武庫之荘駅徒歩30秒）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s6000062263/",
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "yolo-006fb74a09",
+  "name": "YoLo.【ヨロ】",
+  "aliases": [
+   "YoLo."
+  ],
+  "address": "尼崎市（武庫之荘駅周辺）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "enu-d247c831cc",
+  "name": "enu 武庫之荘店【エヌ】",
+  "aliases": [
+   "enu"
+  ],
+  "address": "尼崎市（阪急武庫之荘駅南口徒歩20秒）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "salo-a6f39cfab0",
+  "name": "Salo【サロ】",
+  "aliases": [
+   "Salo"
+  ],
+  "address": "尼崎市（阪急武庫之荘駅北側徒歩2分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240876/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

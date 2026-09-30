@@ -1,0 +1,164 @@
+[
+ {
+  "lead_id": "c-three-7b27e62360",
+  "name": "C three",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩5分）",
+  "industry": "ネイル",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/genre/kgkw024/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "nail-salon-berry-e6ff5e3430",
+  "name": "nail salon Berry",
+  "aliases": [],
+  "address": "尼崎市（JR立花駅徒歩7分）",
+  "industry": "ネイル",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/genre/kgkw024/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "rufleu-c6878afa53",
+  "name": "フェイシャルエステ・脱毛サロン rufleu【ルフル】",
+  "aliases": [
+   "rufleu"
+  ],
+  "address": "尼崎市（出屋敷/センタープール前駅徒歩5分）",
+  "industry": "エステ・脱毛",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/genre/kgkw024/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "kirei-aa055b4f55",
+  "name": "トータルビューティサロン Kirei 水月の湯店",
+  "aliases": [
+   "Kirei"
+  ],
+  "address": "尼崎市（阪神尼崎センタープール前駅徒歩1分）",
+  "industry": "エステ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/genre/kgkw112/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "known-by-evolucion-fdb88e9282",
+  "name": "Known by evolucion",
+  "aliases": [],
+  "address": "尼崎市（阪神出屋敷駅徒歩1分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240968"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "loin-04a272f0e4",
+  "name": "loin.【ロワン】",
+  "aliases": [
+   "loin."
+  ],
+  "address": "尼崎市（出屋敷駅徒歩3分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240968"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-salon-drop-2122daad20",
+  "name": "hair salon drop",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎センタープール前駅徒歩1分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240968"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-fa6c15733b",
+  "name": "アイ美容室（神田南通）",
+  "aliases": [
+   "アイ美容室"
+  ],
+  "address": "兵庫県尼崎市神田南通1丁目22",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-f596354b66",
+  "name": "アイ美容室（南武庫之荘）",
+  "aliases": [
+   "アイ美容室"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1丁目14-25",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-f6e5ce792f",
+  "name": "美粧館 塚口店",
+  "aliases": [
+   "美粧館"
+  ],
+  "address": "兵庫県尼崎市塚口町1-15-21 2F",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/shop/87882/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

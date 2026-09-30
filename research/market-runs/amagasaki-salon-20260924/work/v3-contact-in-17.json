@@ -1,0 +1,176 @@
+[
+ {
+  "lead_id": "hair-mode-kt-purl-413bfc2dd5",
+  "name": "Hair Mode KT Purl",
+  "aliases": [
+   "ヘアーモードケーティー ピュール"
+  ],
+  "address": "兵庫県尼崎市神田中通4丁目103",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s3000050792/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "solo-by-feria-1cf8e05a61",
+  "name": "SOLO by FERIA",
+  "aliases": [
+   "ソロバイフェリア"
+  ],
+  "address": "兵庫県尼崎市長洲本通2-2-1 ダンダンハウス1F",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s6000062365/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "avance-359a2587af",
+  "name": "AVANCE. 尼崎",
+  "aliases": [
+   "アヴァンス 尼崎"
+  ],
+  "address": "兵庫県尼崎市長洲本通1-2-1 エトワール尼崎1F",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000788066/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "manaz-88672712c8",
+  "name": "MANAZ 阪神尼崎",
+  "aliases": [
+   "マナ 阪神尼崎"
+  ],
+  "address": "兵庫県尼崎市御園町54 カーム尼崎101",
+  "industry": "美容室・メンズサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000379679/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "angelica-jr-df1df34b16",
+  "name": "ANGELICA JR尼崎店",
+  "aliases": [
+   "アンジェリカ 尼崎店"
+  ],
+  "address": "兵庫県尼崎市潮江1-15-3 アミング潮江イーストA参棟117号室",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://www.angelica-hair.shop/",
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000503691/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "mens-salon-sou-by-luau-ae9b1573ed",
+  "name": "MENS salon SOU by LUAU",
+  "aliases": [
+   "SOU by LUAU"
+  ],
+  "address": "兵庫県尼崎市潮江1-29-10",
+  "industry": "理容室・メンズサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000814333/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "cecil-hair-jr-a0fede1d30",
+  "name": "Cecil hair JR尼崎店",
+  "aliases": [
+   "セシルヘアー JR尼崎店"
+  ],
+  "address": "兵庫県尼崎市浜2-5-5 浜タウンハイツ1F",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "http://www.cecil-hair.com/",
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000422261/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "luau-hair-make-f3f2101dad",
+  "name": "LUAU［ルアウ］尼崎",
+  "aliases": [
+   "ルアウ ヘアアンドメイク",
+   "LUAU",
+   "LUAU 尼崎",
+   "ルアウ"
+  ],
+  "address": "兵庫県尼崎市潮江1-29-10",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://luau.jp.net/",
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000114777/",
+   "https://luau.jp.net/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "aina-f6a0c32c2b",
+  "name": "AINA",
+  "aliases": [
+   "アイナ"
+  ],
+  "address": "兵庫県尼崎市潮江1-13-1",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000427640/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "vinculum-by-circulo-f6e32a3b14",
+  "name": "Vinculum by circulo 尼崎",
+  "aliases": [
+   "ウィンクルムバイシルクロ 尼崎"
+  ],
+  "address": "兵庫県尼崎市長洲本通1-4-20 井上ビル1F",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000367966/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

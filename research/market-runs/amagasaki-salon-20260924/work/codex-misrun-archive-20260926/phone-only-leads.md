@@ -1,0 +1,42 @@
+# 電話のみ確認できた営業候補
+
+- リラクボディ (jr-0d5985a0a9) — 06-6470-2221
+- Rise Hair (rise-hair-9be189d17d) — 06-6492-0031
+- hair room e9ua(ヘアルーム エクア) (hair-room-e9ua-1a81318101) — 06-6491-7785
+- Le Jardin ル・ジャルダン園田店 (le-jardin-8ee53a0873) — 06-6492-6890
+- ひまわり美容室 (lead-56a328603c) — 06-6491-7155
+- BOIS HAIR (bois-hair-98a6d70281) — 06-6491-7049
+- エステティック SaKuRa (sakura-888a85b35f) — 06-7500-6080
+- LiLy hair(リリーヘアー) (lily-hair-12d26704cd) — 06-7220-9111
+- Cut&Spa Silk (cut-spa-silk-7b1869fa68) — 090-6436-9589
+- 美容室こさめ (lead-6cdb062f1c) — 090-1103-9849
+- カットスタジオ アッシュ -ASHU- (ashu-852794fa5e) — 06-6411-0313
+- Revia(レヴィア) (revia-e380505883) — 06-4400-8179
+- La Mer(ラ・メール) (la-mer-45350c3d9b) — 080-1405-8378
+- エステ＆リラクゼーションサロン Little Happiness (little-happiness-e4658e9501) — 090-9664-1522
+- メナード フェイシャルサロン ミニアングル (lead-e7000d29bc) — 06-6437-3309
+- メナード フェイシャルサロン フランマロール (lead-87f72045e9) — 06-6428-7882
+- Salon de LKJ (salon-de-lkj-cfbe639b7b) — 06-6418-1292
+- Sherin(シェリン) (sherin-8f98908480) — 06-6423-8863
+- Your Corner (your-corner-2057c158ef) — 090-3650-1568
+- 脱毛サロン ルチアーノ 尼崎店 (lead-c0662f8e1b) — 070-1765-9082
+- ヘアーステーションコープ 園田店 (lead-5fa43a4cb7) — 06-6494-2337
+- クレセントヘアー CRESCENT HAIR (crescent-hair-362420f486) — 06-6493-2211
+- SHEETS 園田店 (sheets-02c445c01f) — 06-4960-7125
+- ALLES 園田店 (alles-d0f069d6f0) — 06-6491-0456
+- hair make Gorge' (hair-make-gorge-e3ced07d7b) — 06-6498-0281
+- ReSET 阪急園田店 (reset-1d6f0490d6) — 06-6494-8711
+- Style in Balance (style-in-balance-b8db49d17b) — 06-6494-7774
+- HAIR SPACE BLOOM hero(ヘアースペースブルーム ヒーロー) (hair-space-bloom-hero-2692576a57) — 06-6493-2258
+- 和み癒(なごみいやす) (lead-222ee98f27) — 06-6437-8350 / 080-1484-6709
+- 美容室円 (lead-7c86907912) — 06-6494-1522
+- リード (lead-2f2baa47ee) — 06-6491-1344
+- BARBERSHOP 101（ワンノウワン） (barbershop-101-0619e7353b) — 06-4950-0236
+- Hair & Relaxation・Make & Cosmetic HISUI (hair-relaxation-make-cosmeti-2f1092c928) — 06-6421-3676
+- TAYA 尼崎店 (taya-f20c21f7e3) — 06-4960-7308
+- NICE NAIL 尼崎駅前店 (nice-nail-0246917162) — 06-6493-1234
+- La fith hair Home JR尼崎店 (la-fith-hair-home-jr-660f5712d7) — 06-6415-9811
+- Soigné Sérène(ソワニエセレーヌ) (soigne-se-re-ne-8bc8476b46) — 06-6493-0500
+- HAIRS NJ MEN 園田店 (cut-color-lunlun-add7d20329) — 06-4960-1138 / 06-4960-1138
+- Lee尼崎店 (lee-3894a0c18a) — 06-4869-7075
+- コープ理容園田店 (lead-0546b6ac28) — 06-6494-3839

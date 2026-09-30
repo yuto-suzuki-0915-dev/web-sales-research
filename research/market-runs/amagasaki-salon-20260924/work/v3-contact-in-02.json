@@ -1,0 +1,277 @@
+[
+ {
+  "lead_id": "cut-spa-silk-7b1869fa68",
+  "name": "Cut&Spa Silk",
+  "aliases": [
+   "シルク 武庫之荘"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1-7-11",
+  "industry": "美容室(メンズ専門)",
+  "website_presence": "confirmed",
+  "website_url": "https://www.silknana.site/",
+  "priority": "medium",
+  "sources": [
+   "https://www.silknana.site/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "090-6436-9589"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "hair-salon-roll-c378ab8cfc",
+  "name": "Hair Salon ROLL（ヘアーサロン ロール）",
+  "aliases": [
+   "ヘアサロン ロール",
+   "ROLL 尼崎立花店",
+   "ROLL 尼崎立花"
+  ],
+  "address": "尼崎市（JR立花駅徒歩約6分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://hairsalon-roll.com/",
+  "priority": "medium",
+  "sources": [
+   "https://hairsalon-roll.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "contact_form",
+    "value": "https://hairsalon-roll.com/contact/"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "hair-spasalon-mirror-d9330f09df",
+  "name": "Hair & Spasalon Mirror'",
+  "aliases": [
+   "Ｍｉｒｒｏｒ'",
+   "Hair & Spasalon Mirror",
+   "ミラー",
+   "Hair & Spasalon Mirror'（ミラー 尼崎立花）"
+  ],
+  "address": "兵庫県尼崎市七松町2丁目4-13",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://mirror-ko.com/",
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/shop_15315516/",
+   "https://mirror-ko.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-4869-7226"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@mirror_official_salon"
+   },
+   {
+    "type": "official_line",
+    "value": "@611vdbnb"
+   },
+   {
+    "type": "official_line",
+    "value": "公式サイト記載のLINE"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lead-6cdb062f1c",
+  "name": "美容室こさめ",
+  "aliases": [
+   "尼崎JR立花駅前美容室",
+   "cosame",
+   "こさめ"
+  ],
+  "address": "尼崎市（フェスタ立花南館1階・JR立花駅前）",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://www.cosamedeyukkuri.com/",
+  "priority": "medium",
+  "sources": [
+   "https://www.cosamedeyukkuri.com/",
+   "https://www.ekiten.jp/shop_86056316/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "090-1103-9849"
+   },
+   {
+    "type": "official_line",
+    "value": "店舗公式LINE"
+   },
+   {
+    "type": "official_line",
+    "value": "公式サイト記載のLINE予約"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "voychica-c72a474746",
+  "name": "voychica",
+  "aliases": [
+   "美容院 ヴォイチカ",
+   "ヴォイチカ"
+  ],
+  "address": "兵庫県尼崎市西立花町1丁目2-1",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://voychica.com/",
+  "priority": "low",
+  "sources": [
+   "https://voychica.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6419-5600"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://voychica.com/contact/"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@voychica.hairsalon"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "loop-hair-f63cc1ae23",
+  "name": "Loop hair（ループヘアー）",
+  "aliases": [
+   "ループヘアー",
+   "ルーフヘアー",
+   "Loop hair"
+  ],
+  "address": "兵庫県尼崎市園田",
+  "industry": "美容室・ネイル・アイラッシュ",
+  "website_presence": "confirmed",
+  "website_url": "https://www.loop-hair.jp/",
+  "priority": "medium",
+  "sources": [
+   "https://www.loop-hair.jp/"
+  ],
+  "known_channels": [
+   {
+    "type": "instagram_dm",
+    "value": "公式サイト記載のInstagram"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "morrow-a784c7030a",
+  "name": "Morrow（モロー）",
+  "aliases": [
+   "hair make Morrow"
+  ],
+  "address": "尼崎市（園田駅最寄り）",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://hairmake-morrow.com/",
+  "priority": "medium",
+  "sources": [
+   "http://hairmake-morrow.com/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "kuu-39f9feb25f",
+  "name": "ヘアーデザインKUU",
+  "aliases": [
+   "Hair Design Kuu",
+   "hair design kuu"
+  ],
+  "address": "兵庫県尼崎市杭瀬本町2丁目16-2 三好ビル2F",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://hair-design-kuu.jp/",
+  "priority": "high",
+  "sources": [
+   "http://kuise.npos.biz/shop/shop-08.html",
+   "https://www.ekiten.jp/shop_1071165/",
+   "http://hair-design-kuu.jp/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "ashu-852794fa5e",
+  "name": "カットスタジオ アッシュ -ASHU-",
+  "aliases": [
+   "ASHU"
+  ],
+  "address": "兵庫県尼崎市昭和通7-240-3",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://ashu-hairsaron0210.net/",
+  "priority": "medium",
+  "sources": [
+   "https://ashu-hairsaron0210.net/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6411-0313"
+   },
+   {
+    "type": "official_line",
+    "value": "公式サイト記載のLINE"
+   },
+   {
+    "type": "contact_form",
+    "value": "公式サイト内フォーム"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://ashu-hairsaron0210.net/"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "refine-jr-7458305e83",
+  "name": "尼崎 美容室 Refine.（リファイン）JR尼崎店",
+  "aliases": [
+   "Refine JR尼崎店",
+   "リファイン",
+   "Refine."
+  ],
+  "address": "尼崎市（JR尼崎駅周辺）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://www.hair-refine.jp/",
+  "priority": "medium",
+  "sources": [
+   "https://www.hair-refine.jp/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6499-6188"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://www.hair-refine.jp/contact"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@refine_ama"
+   }
+  ],
+  "has_visual": true
+ }
+]

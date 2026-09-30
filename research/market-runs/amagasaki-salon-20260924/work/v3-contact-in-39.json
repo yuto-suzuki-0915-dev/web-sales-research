@@ -1,0 +1,208 @@
+[
+ {
+  "lead_id": "hair-relaxation-make-cosmeti-2f1092c928",
+  "name": "Hair & Relaxation・Make & Cosmetic HISUI",
+  "aliases": [
+   "Hair＆Relaxation HISUI",
+   "ヘアアンドリラクゼーション ヒスイ"
+  ],
+  "address": "兵庫県尼崎市南塚口町3-9-15",
+  "industry": "ヘアサロン・エステ・リラクゼーション",
+  "website_presence": "confirmed",
+  "website_url": "https://hisui.co/",
+  "priority": "medium",
+  "sources": [
+   "https://hisui.co/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6421-3676"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://hisui.co/"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "4869-sherlock-568965c6c7",
+  "name": "脳疲労改善ドライヘッドスパ武庫之荘 4869 Sherlock",
+  "aliases": [
+   "4869 Sherlock",
+   "シャーロック"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1丁目20-3 ラフィーネ武庫之荘4F",
+  "industry": "ドライヘッドスパ・脱毛サロン",
+  "website_presence": "confirmed",
+  "website_url": "https://4869-sherlock.com/",
+  "priority": "low",
+  "sources": [
+   "https://4869-sherlock.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6415-6527"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://4869-sherlock.com/contact/"
+   },
+   {
+    "type": "official_line",
+    "value": "LINE"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@dry_head_.academy"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "sakura-888a85b35f",
+  "name": "エステティック SaKuRa",
+  "aliases": [
+   "エステティックSaKuRa"
+  ],
+  "address": "兵庫県尼崎市東難波町3丁目21-7",
+  "industry": "エステティックサロン（男性ヒゲ・ボディ脱毛）",
+  "website_presence": "confirmed",
+  "website_url": "https://www.sakurasaku-39.net/",
+  "priority": "high",
+  "sources": [
+   "https://www.sakurasaku-39.net/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-7500-6080"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://www.sakurasaku-39.net/"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "nail-salon-jolie-44ab3ee373",
+  "name": "Nail Salon 〜Jolie〜",
+  "aliases": [
+   "Jolie",
+   "ネイルサロン ジョリー"
+  ],
+  "address": "尼崎市（JR尼崎駅徒歩5分）",
+  "industry": "ネイルサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://jolie.hp.peraichi.com/",
+  "priority": "medium",
+  "sources": [
+   "https://jolie.hp.peraichi.com/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "sakura-spa-esthetics-2153e12fc9",
+  "name": "SAKURA Spa esthetics",
+  "aliases": [
+   "サクラスパ"
+  ],
+  "address": "尼崎市",
+  "industry": "エステ・アイラッシュ（女性専用プライベートサロン）",
+  "website_presence": "confirmed",
+  "website_url": "http://sakuraspa.jp/",
+  "priority": "high",
+  "sources": [
+   "http://sakuraspa.jp/menu/eyerush.php"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "stag-club-003c72e9ff",
+  "name": "STAG CLUB（スタッグクラブ）",
+  "aliases": [
+   "スタッグクラブ"
+  ],
+  "address": "尼崎市南塚口町",
+  "industry": "理容室・バーバーショップ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000631254/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "kkcut-8d2d6df6e3",
+  "name": "KKcut（キングスカット）尼崎西店",
+  "aliases": [
+   "キングスカット 尼崎西店"
+  ],
+  "address": "兵庫県尼崎市南七松町1-3-5 クローバーハイツ立花 1階",
+  "industry": "理容室（カット専門）",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-846fb3b4e4",
+  "name": "日本理容 武庫川店",
+  "aliases": [],
+  "address": "兵庫県尼崎市大庄西町4-5-1",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-f6898ac946",
+  "name": "理髪館 塚口店",
+  "aliases": [
+   "株式会社マツモト 理髪館"
+  ],
+  "address": "兵庫県尼崎市塚口町1-15-21 1F",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-94fa3377cd",
+  "name": "理容サービス 阪急園田駅前店",
+  "aliases": [
+   "理容サービス sonon"
+  ],
+  "address": "兵庫県尼崎市東園田町9-48-1",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://sonon.hankyu.co.jp/shoplist/detail/2F_06.html"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

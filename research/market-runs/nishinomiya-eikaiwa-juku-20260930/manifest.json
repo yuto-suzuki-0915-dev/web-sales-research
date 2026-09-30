@@ -1,0 +1,36 @@
+{
+  "schema_version": 4,
+  "qualification_rules_version": 1,
+  "run_id": "nishinomiya-eikaiwa-juku-20260930",
+  "region": "西宮市",
+  "industry": "英会話教室・学習塾",
+  "segment": "個人・小規模の英会話教室／学習塾",
+  "state": "partial",
+  "workflow_stage": "discovered",
+  "started_at": "2026-09-30T07:25:20.464Z",
+  "updated_at": "2026-09-30T07:49:19.438Z",
+  "stop_reason": "technical_limit",
+  "limits": {
+    "user_business_limit": null,
+    "technical": {
+      "max_additional_routes": 20,
+      "max_run_minutes": 180
+    }
+  },
+  "discovery": {
+    "basic_routes_required": [
+      "web",
+      "map",
+      "industry_media",
+      "region_variant",
+      "station_area",
+      "industry_synonym"
+    ],
+    "basic_discovery_completed": true,
+    "low_yield_streak": 2,
+    "saturated": false,
+    "saturation_threshold": 1,
+    "saturation_streak_required": 3
+  },
+  "observed_unique_businesses": 177
+}

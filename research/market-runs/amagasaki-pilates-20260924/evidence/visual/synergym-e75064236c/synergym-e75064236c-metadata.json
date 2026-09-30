@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "synergym-e75064236c",
+  "page_type": "top",
+  "page_url": "https://synergym.jp/tsukaguchi/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:11:33.364Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\synergym-e75064236c\\synergym-e75064236c-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\synergym-e75064236c\\synergym-e75064236c-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

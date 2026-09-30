@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "oro-59c38e42a9",
+  "page_type": "top",
+  "page_url": "https://www.oro-beauty.jp/salon_mukonoso",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:24:44.327Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\oro-59c38e42a9\\oro-59c38e42a9-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\oro-59c38e42a9\\oro-59c38e42a9-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

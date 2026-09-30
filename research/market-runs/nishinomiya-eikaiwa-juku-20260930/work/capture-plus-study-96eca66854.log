@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "plus-study-96eca66854",
+  "page_type": "top",
+  "page_url": "https://plusstudy.net/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:50:39.625Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\plus-study-96eca66854\\plus-study-96eca66854-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\plus-study-96eca66854\\plus-study-96eca66854-top-mobile.png"
+  },
+  "visual_status": "verified",
+  "metadata_path": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\plus-study-96eca66854\\plus-study-96eca66854-metadata.json"
+}

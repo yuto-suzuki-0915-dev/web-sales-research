@@ -1,0 +1,325 @@
+[
+ {
+  "lead_id": "hair-make-youce-b3f25f11df",
+  "name": "HAIR MAKE Youce",
+  "aliases": [
+   "ヘアメイク ユース",
+   "ヘアメイクユーセ",
+   "ヘアメイク ユーチェ"
+  ],
+  "address": "兵庫県尼崎市昭和南通9-242-3",
+  "industry": "美容室（完全個室・マンツーマン）",
+  "website_presence": "confirmed",
+  "website_url": "https://youce-hair.com/",
+  "priority": "low",
+  "sources": [
+   "https://youce-hair.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6435-8509"
+   },
+   {
+    "type": "official_line",
+    "value": "https://lin.ee/19VXSGP"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://youce-hair.com/contact/"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@hair_make_youce"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://youce-hair.com/"
+   },
+   {
+    "type": "official_line",
+    "value": "LINE友だち追加"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lead-bf835ef615",
+  "name": "美羊室ひつじ",
+  "aliases": [
+   "ひつじ",
+   "Bijou Hitsuji"
+  ],
+  "address": "兵庫県尼崎市若王寺3-14-17",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://hitsuji-salon.com/",
+  "priority": "medium",
+  "sources": [
+   "http://hitsuji-salon.com/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "mimi-princess-d57611b582",
+  "name": "Mimi Princess",
+  "aliases": [
+   "Mimi Princess",
+   "F'ee marraine et princesse",
+   "ジェルネイルサロン Mimi Princess"
+  ],
+  "address": "兵庫県尼崎市食満5丁目24-12",
+  "industry": "ネイルサロン(プライベート)",
+  "website_presence": "confirmed",
+  "website_url": "https://mimi-princess.com/",
+  "priority": "medium",
+  "sources": [
+   "https://mimi-princess.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "080-6116-9125"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://mimi-princess.com/contact.php"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@fee_marraine_et_princesse"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://mimi-princess.com/"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "seura-eyelash-beauty-5c364ffd54",
+  "name": "SEURA. eyelash&beauty",
+  "aliases": [
+   "SEURA"
+  ],
+  "address": "〒660-0807 兵庫県尼崎市長洲西通1丁目3-24 公楽ビル407",
+  "industry": "まつげ・ヘアメイク",
+  "website_presence": "confirmed",
+  "website_url": "https://seura-salon.com/",
+  "priority": "medium",
+  "sources": [
+   "https://seura-salon.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "070-9027-2515"
+   },
+   {
+    "type": "official_line",
+    "value": "公式サイト記載のLINE"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "公式サイト記載のInstagram"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@seura.eye"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "jr-0d5985a0a9",
+  "name": "リラクボディ",
+  "aliases": [
+   "リラクボディ",
+   "尼崎 マッサージ整体 リラクボディ"
+  ],
+  "address": "兵庫県尼崎市潮江1丁目20-1 アミング潮江イーストA2棟108",
+  "industry": "リラクゼーション・マッサージ整体",
+  "website_presence": "confirmed",
+  "website_url": "https://rirakubody.com/",
+  "priority": "high",
+  "sources": [
+   "https://rirakubody.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6470-2221"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "chillout-0895ebfa9f",
+  "name": "美容室chillout（チルアウト）",
+  "aliases": [
+   "chill out 塚口本町店",
+   "chillout",
+   "チルアウト 本店",
+   "チルアウト 塚口本町店",
+   "チルアウト",
+   "chillout 塚口本町店",
+   "chill out 南塚口本店"
+  ],
+  "address": "兵庫県尼崎市南塚口2-39-31",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://www.chillout-hair.net/",
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s1000047118/",
+   "https://www.chillout-hair.net/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6429-1651"
+   },
+   {
+    "type": "contact_form",
+    "value": "公式サイト内フォーム"
+   },
+   {
+    "type": "email",
+    "value": "公式サイト記載のメール受付"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@chillout_hair_partner"
+   },
+   {
+    "type": "phone",
+    "value": "06-7164-0440"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://www.chillout-hair.net/"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "bagus-3ee1ec6d06",
+  "name": "BAGUS（メンズ美容室 バグース）",
+  "aliases": [
+   "武庫之荘の美容室 BAGUS",
+   "BAGUS Hair for Men",
+   "BAGUS HAIR for Men"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1-20-21 BAGUS Bld.101",
+  "industry": "メンズ美容室・ヒゲ脱毛",
+  "website_presence": "confirmed",
+  "website_url": "https://www.bagushair.com/",
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_2927007/",
+   "https://www.bagushair.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6437-7733"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://www.bagushair.com/contact/"
+   },
+   {
+    "type": "official_line",
+    "value": "LINE@"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@bagussanctuary"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-dressing-shop-salo-03829206ea",
+  "name": "Hair Dressing shop Salo",
+  "aliases": [
+   "ヘアードレッシングショップ サロ"
+  ],
+  "address": "尼崎市武庫之荘",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://salo-hair.com/",
+  "priority": "low",
+  "sources": [
+   "https://salo-hair.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "instagram_dm",
+    "value": "@salo_hair"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "rond-c20ac46cd3",
+  "name": "ROND(ロンド)",
+  "aliases": [
+   "個室型美容室 ROND"
+  ],
+  "address": "尼崎市武庫之荘（武庫之荘駅南口徒歩2分）",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://www.rond.info/",
+  "priority": "low",
+  "sources": [
+   "https://www.rond.info/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6433-1133"
+   },
+   {
+    "type": "contact_form",
+    "value": "公式サイト内フォーム"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@mukonoso_hair_rond"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lily-hair-12d26704cd",
+  "name": "LiLy hair(リリーヘアー)",
+  "aliases": [
+   "LiLy hair"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1-3-23 シャンゼリゼ武庫之荘2階1号室",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://www.lilyhair0928.com/",
+  "priority": "medium",
+  "sources": [
+   "https://www.lilyhair0928.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-7220-9111"
+   },
+   {
+    "type": "official_line",
+    "value": "公式サイト記載のLINE"
+   },
+   {
+    "type": "contact_form",
+    "value": "https://www.lilyhair0928.com/contact"
+   }
+  ],
+  "has_visual": true
+ }
+]

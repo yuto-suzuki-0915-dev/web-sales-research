@@ -1,0 +1,200 @@
+[
+ {
+  "lead_id": "lead-222ee98f27",
+  "name": "和み癒(なごみいやす)",
+  "aliases": [
+   "隠れ家リラクゼーションサロン 和み癒"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1-2-7 正光ビル2階203号室",
+  "industry": "リラクゼーション",
+  "website_presence": "confirmed",
+  "website_url": "https://nagomi-iyasu.com/",
+  "priority": "medium",
+  "sources": [
+   "https://nagomi-iyasu.com/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6437-8350"
+   },
+   {
+    "type": "phone",
+    "value": "080-1484-6709"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lead-c0c944be85",
+  "name": "リラクゼーションサロン せいらん",
+  "aliases": [],
+  "address": "兵庫県尼崎市南武庫之荘1-20-11",
+  "industry": "リラクゼーション",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://epark.jp/shopinfo/rrk413640/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "terrace-504f2fd066",
+  "name": "テラス 武庫之荘店（TERRACE）",
+  "aliases": [
+   "TERRACE"
+  ],
+  "address": "兵庫県尼崎市武庫之荘東1-1-16",
+  "industry": "サロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000483689/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "defi-895df9d545",
+  "name": "defi（デフィー）武庫之荘店",
+  "aliases": [
+   "デフィー"
+  ],
+  "address": "兵庫県尼崎市武庫之荘2丁目1-1 武庫之荘ATSTビル3階",
+  "industry": "エステ",
+  "website_presence": "confirmed",
+  "website_url": "https://www.e-defi.com/salon/mukonoso.html",
+  "priority": "low",
+  "sources": [
+   "https://www.e-defi.com/salon/mukonoso.html"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6436-5881"
+   },
+   {
+    "type": "official_line",
+    "value": "@defi__muko"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "code-line-b7978ad6f1",
+  "name": "CODE.LINE 立花店",
+  "aliases": [],
+  "address": "尼崎市（立花駅徒歩1分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240876/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lisoi-47f9ff98a7",
+  "name": "リソワ 尼崎園田（Lisoi）",
+  "aliases": [
+   "完全個室・髪質改善サロンLisoi",
+   "Lisoi",
+   "完全個室・髪質改善サロンLisoi 尼崎園田",
+   "リソワ 尼崎園田",
+   "Lisoi 尼崎園田(リソワ)"
+  ],
+  "address": "兵庫県尼崎市東園田町5丁目57-6 1F",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/",
+   "https://beauty.hotpepper.jp/slnH000776028/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-0546b6ac28",
+  "name": "コープ理容園田店",
+  "aliases": [],
+  "address": "兵庫県尼崎市東園田町（園田駅北口徒歩約1分）",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/FP3FM0S2eXI"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6494-3839"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-7c86907912",
+  "name": "美容室円",
+  "aliases": [],
+  "address": "尼崎市（園田駅徒歩6分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/FP3FM0S2eXI"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6494-1522"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-2f2baa47ee",
+  "name": "リード",
+  "aliases": [],
+  "address": "尼崎市（園田駅徒歩5分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/FP3FM0S2eXI"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6491-1344"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lulu-2ee2e38126",
+  "name": "ルル(lulu)",
+  "aliases": [
+   "lulu"
+  ],
+  "address": "兵庫県尼崎市東園田町（園田駅徒歩3分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_86321890/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

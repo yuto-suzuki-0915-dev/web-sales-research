@@ -1,0 +1,36 @@
+[
+ {
+  "lead_id": "lu-more-bb79392cab",
+  "name": "Lu more ルモワ 尼崎店",
+  "aliases": [
+   "ルモワ 尼崎"
+  ],
+  "address": "尼崎市（JR尼崎駅前）",
+  "industry": "まつげパーマ・マツエク・眉毛サロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/g-eyelash/pre28/city20200000/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "men-s-dione-9ce176cf90",
+  "name": "Men's Dione（メンズディオーネ）尼崎店",
+  "aliases": [
+   "メンズディオーネ 尼崎"
+  ],
+  "address": "尼崎市（阪急塚口駅徒歩2分）",
+  "industry": "メンズ脱毛サロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://datsumen.jp/amagasaki/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

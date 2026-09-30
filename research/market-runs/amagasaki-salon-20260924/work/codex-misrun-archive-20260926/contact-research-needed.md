@@ -1,0 +1,344 @@
+# 連絡先の追加確認が必要な営業候補
+
+- ヘアーデザインKUU (kuu-39f9feb25f) — contact_unverified
+- barber bolt（ボルト） (barber-bolt-381bbaa31d) — contact_unverified
+- 美容室かんしゃ (lead-a10ee41734) — contact_unverified
+- blanket 園田 (blanket-56a8a17427) — contact_unverified
+- アロマリラクゼーションサロン沙羅 (lead-21208a38c7) — contact_unverified
+- 魔女の手仕事〜hair atelier〜 (hair-atelier-00a911d70f) — contact_unverified
+- HELLOWS (hellows-a506d16f9c) — contact_unverified
+- Bang-doll (bang-doll-0447715dfa) — contact_unverified
+- ロリ (lead-a565b7e553) — contact_unverified
+- Hair Space Cappio (hair-space-cappio-69badac92e) — contact_unverified
+- Petite Etoile (petite-etoile-5fde81a466) — contact_unverified
+- hair Lyle.（ヘアーライル） (hair-lyle-c17b5c07b1) — contact_unverified
+- SAKURA Spa esthetics (sakura-spa-esthetics-2153e12fc9) — contact_unverified
+- 美羊室ひつじ (lead-bf835ef615) — contact_unverified
+- Hair Salon ROLL（ヘアーサロン ロール） (hair-salon-roll-c378ab8cfc) — contact_unverified
+- Loop hair（ループヘアー） (loop-hair-f63cc1ae23) — contact_unverified
+- Morrow（モロー） (morrow-a784c7030a) — contact_unverified
+- La Vaughn（ラ・ヴォーン） (lead-e1befa5263) — contact_unverified
+- ROGER COIFFURE (roger-coiffure-f645c828a3) — contact_unverified
+- NILLU 阪急塚口店 (nillu-a97bba5a3c) — contact_unverified
+- Ciao（チャオ） (ciao-aba21ce579) — contact_unverified
+- LiL'阪神尼崎【リル】 (lil-d93573ffc3) — contact_unverified
+- Rinda Beauty Salon (rinda-beauty-salon-2230bce766) — contact_unverified
+- modek's Amagasaki (modek-s-amagasaki-75ace1e5f1) — contact_unverified
+- 髪きり屋off (off-2f3af40df9) — contact_unverified
+- Barber Ka'z (barber-ka-z-5bac745370) — contact_unverified
+- 大月 (lead-1b69187acf) — contact_unverified
+- おしゃれ床屋べーやん (lead-66cd85e828) — contact_unverified
+- サロンドアベニュー (lead-a2c3953677) — contact_unverified
+- カットハウスシャンプーボーイ (lead-1d9ba79c69) — contact_unverified
+- Hair Make Dizzy (hair-make-dizzy-d82f77d426) — contact_unverified
+- Hair & Esthete JAPS (hair-esthete-japs-5ca084d7b6) — contact_unverified
+- マロン美容室 ホテル前店 (lead-fe41fca458) — contact_unverified
+- マロン美容室 西難波店 (lead-3b8407554f) — contact_unverified
+- ヘアースタジオWill (will-e97918d8ae) — contact_unverified
+- GRADO (grado-707afb9289) — contact_unverified
+- ヘアーサロン・アンジュ (lead-225a74e7e2) — contact_unverified
+- Nim hair 武庫之荘 (nim-hair-4fda1621c6) — contact_unverified
+- ORO 武庫之荘店 (oro-59c38e42a9) — contact_unverified
+- MOOL hair 武庫之荘店 (mool-hair-24a489be9f) — contact_unverified
+- ヘアーサロン ア・レーズ (lead-27310b10fc) — contact_unverified
+- モンステラ塚口店 (lead-b2d4a3f9b3) — contact_unverified
+- ヘアカラー専門店fufu 立花店 (fufu-6aa987d9c0) — contact_unverified
+- HAIR SPACE BLOOM hero 園田店 (hair-space-bloom-hero-85eeb044ab) — contact_unverified
+- anc (anc-526d0f964f) — contact_unverified
+- INFINITY (infinity-3cc364a75b) — contact_unverified
+- メナードフェイシャルサロン 尼崎道意 (lead-332b46f68a) — contact_unverified
+- emelu (emelu-532a292d2e) — contact_unverified
+- amoroso (amoroso-d59522c545) — contact_unverified
+- SINCERITY (sincerity-c57dd11e9b) — contact_unverified
+- hope salon (hope-salon-42ba0b3c85) — contact_unverified
+- PADA (pada-8d05b5d05e) — contact_unverified
+- SOURCE 塚口 (source-bed44c41e4) — contact_unverified
+- MEN'S SOURCE 塚口 (men-s-source-940f009538) — contact_unverified
+- hair care salon Schon (hair-care-salon-schon-c1b1360989) — contact_unverified
+- Lien Ciel (lien-ciel-6d3ea0a753) — contact_unverified
+- melmo aroma hair (melmo-aroma-hair-cf0a522c13) — contact_unverified
+- SOLO by FERIA (solo-by-feria-1cf8e05a61) — contact_unverified
+- AVANCE. 尼崎 (avance-359a2587af) — contact_unverified
+- MANAZ 阪神尼崎 (manaz-88672712c8) — contact_unverified
+- ANGELICA JR尼崎店 (angelica-jr-df1df34b16) — contact_unverified
+- MENS salon SOU by LUAU (mens-salon-sou-by-luau-ae9b1573ed) — contact_unverified
+- Cecil hair JR尼崎店 (cecil-hair-jr-a0fede1d30) — contact_unverified
+- AINA (aina-f6a0c32c2b) — contact_unverified
+- Magnolia by Water Lily (magnolia-by-water-lily-eedb7d2958) — contact_unverified
+- HAIR SALON MIST (hair-salon-mist-46f3a3dd4d) — contact_unverified
+- BRINGE (bringe-dfc2e78620) — contact_unverified
+- Sky tsukaguchi (sky-tsukaguchi-620a1fb815) — contact_unverified
+- チャーリーブラウン (lead-aebb62e89a) — contact_unverified
+- シンコー美容室 (lead-561c9ff6b4) — contact_unverified
+- TREAT (treat-2db5db9531) — contact_unverified
+- VIOLETTA Hair & Space (violetta-hair-space-0f7db36b19) — contact_unverified
+- ゆらゆら美容室 (lead-b0b1121de7) — contact_unverified
+- ラ・ミューゼリゾート (lead-3945be24fb) — contact_unverified
+- リルーク.ヘアー (lead-98d09b768d) — contact_unverified
+- Chloe hair (chloe-hair-1284d1b28e) — contact_unverified
+- FreyaTotalBeautySalon (freyatotalbeautysalon-e48555186a) — contact_unverified
+- grace hair SMILism (grace-hair-smilism-931e7b574a) — contact_unverified
+- hair & relax Snug (hair-relax-snug-bf87eabd60) — contact_unverified
+- Settle (settle-e02745fb5e) — contact_unverified
+- LOCOCO organics label (lococo-organics-label-3cc0507eda) — contact_unverified
+- Rond (rond-f937e73c2e) — contact_unverified
+- すずらん美容室 (lead-7171944e49) — contact_unverified
+- HAIR GALLERY Avant (hair-gallery-avant-18fe3028c7) — contact_unverified
+- ヘアースタジオアート塚口店 (lead-0a539fee3a) — contact_unverified
+- ピノ (lead-cdfa8f3b94) — contact_unverified
+- Ratuna (ratuna-bac1496663) — contact_unverified
+- hairsalon elite (hairsalon-elite-3e5ee97862) — contact_unverified
+- 美容室くわはら (lead-a85124bc77) — contact_unverified
+- カノン (lead-1034b2123d) — contact_unverified
+- Re・Born (re-born-d155a3ede7) — contact_unverified
+- 美容サラJR立花店 (jr-65e7a5a4a3) — contact_unverified
+- MODE K's Briller (mode-k-s-briller-2cecc78003) — contact_unverified
+- はあとねいる塚口店 (lead-1a2fb70889) — contact_unverified
+- SWITCH (switch-a5f15deefe) — contact_unverified
+- edit ネイル (edit-704d415771) — contact_unverified
+- Aimer (aimer-1cd79d0a6d) — contact_unverified
+- Fooflow (fooflow-a3b5fad319) — contact_unverified
+- MEGAMI EYELASH LOUNGE (megami-eyelash-lounge-5c5efe3674) — contact_unverified
+- eyelash iona (eyelash-iona-b1b71fbbd9) — contact_unverified
+- genic_MATSUGEnoOMISE (genic-matsugenoomise-8f459fc651) — contact_unverified
+- フェイシャルサロンnest+ (nest-b09c31a9e9) — contact_unverified
+- Esthetic Salon Miku's (esthetic-salon-miku-s-48e8a33dc3) — contact_unverified
+- アキュビューティー (lead-63a9095f84) — contact_unverified
+- SAKURA Spa eyelash&esthethics (sakura-spa-eyelash-esthethic-82d19d7673) — contact_unverified
+- Mi RROR Beautyrepro (mi-rror-beautyrepro-3f8fef9ab6) — contact_unverified
+- メナードフェイシャルサロン ノオラ (lead-57ec4c98ea) — contact_unverified
+- フェイシャルケアSIRO (siro-53ce878df5) — contact_unverified
+- Salon MIWA (salon-miwa-c5e0fd12ae) — contact_unverified
+- アロマとほぐしのお店〜香音。〜kanon (kanon-fd3754b7a6) — contact_unverified
+- よもぎ蒸しサロンplage (plage-772f8653a7) — contact_unverified
+- Beauty salon KleoPatra (beauty-salon-kleopatra-1212edb1fc) — contact_unverified
+- ほぐしの楽田 阪神尼崎駅前 (lead-6a7de40b57) — contact_unverified
+- 美容室コラソン (lead-fb65e70501) — contact_unverified
+- ジェニー (lead-81ab99cd2b) — contact_unverified
+- 松浦理容店 (lead-c0f65bf31a) — contact_unverified
+- サロン・モーブ (lead-8461c948d4) — contact_unverified
+- ヘアー&フェイスこーむ (lead-79fed2c8e2) — contact_unverified
+- sûr (su-r-eb8de6cbe7) — contact_unverified
+- ヘアースタジオSHOJI (shoji-39119a496a) — contact_unverified
+- いずみ美容室 (lead-768f36340b) — contact_unverified
+- 光美容室 (lead-41f966e39d) — contact_unverified
+- ヘアーサロンリーベ (lead-da65b84f0f) — contact_unverified
+- Hair Mode KT 尼崎本店 (hair-mode-kt-40d081f25d) — contact_unverified
+- パーミング (lead-f004963c90) — contact_unverified
+- Hot Lip hair (hot-lip-hair-3f17b5cd9c) — contact_unverified
+- パール美容室 (lead-b67ed18984) — contact_unverified
+- TRESOR (tresor-ab58bea669) — contact_unverified
+- 美容室ASAI (asai-2ede57500d) — contact_unverified
+- PoNy (pony-39f64fd4a9) — contact_unverified
+- HairSpaceZERO (hairspacezero-bfa6ff680c) — contact_unverified
+- Salon d'Avenue (salon-d-avenue-8741dfa4b4) — contact_unverified
+- Noma Beauty Salon (noma-beauty-salon-feeb609a40) — contact_unverified
+- MOZE美容室 (moze-27c24f68ee) — contact_unverified
+- フジ美容室 (lead-28aa79599a) — contact_unverified
+- シバ美容室 (lead-decd48340d) — contact_unverified
+- カトレヤ美容室 (lead-5da38752b9) — contact_unverified
+- ロン美容室 (lead-6c58f29e87) — contact_unverified
+- ヴェール&みどり美容室 (lead-0d990758ae) — contact_unverified
+- ぱぴるす美容室 (lead-d60cbfc564) — contact_unverified
+- かつら美容室 (lead-594dfd71b8) — contact_unverified
+- CASTA (casta-e41e1a47dc) — contact_unverified
+- ヘアークリエイティブサロンナカミズ (lead-6dea1398df) — contact_unverified
+- 美容室Hana (hana-80e356a386) — contact_unverified
+- 田能理容所 (lead-83e162cef5) — contact_unverified
+- 雄二美容室 (lead-7168f1897f) — contact_unverified
+- LANDS (lands-f7b6cccb83) — contact_unverified
+- アイ・アム美容室 (lead-25de5bec94) — contact_unverified
+- greenly (greenly-1c71caf997) — contact_unverified
+- clip elm (clip-elm-f8d0a44d99) — contact_unverified
+- SUNNY（サニー） (sunny-e0ecb656b8) — contact_unverified
+- ヘアー＆エステJAPS (japs-2b45238def) — contact_unverified
+- Salon.Cookie (salon-cookie-b0c5529c15) — contact_unverified
+- hair make SUTELA (hair-make-sutela-2e85c4a5c4) — contact_unverified
+- 葛予美容室 (lead-a5562203ee) — contact_unverified
+- SPICE【スパイス】 (spice-ac74178e31) — contact_unverified
+- ウード（OUD） (oud-7f1fd81aae) — contact_unverified
+- センター美容室 (lead-0396fb6795) — contact_unverified
+- GRANS (grans-d965d1535d) — contact_unverified
+- ヘアースタジオヴァースト (lead-558a7bff23) — contact_unverified
+- スマイルカラー (lead-6631479db6) — contact_unverified
+- Carra Salon (carra-salon-8d6064e478) — contact_unverified
+- ぴょんぴょん (lead-d21b508f27) — contact_unverified
+- 尼崎エーサロン (lead-48f98a9099) — contact_unverified
+- サロン・ドエクラ (lead-3cd03d3b11) — contact_unverified
+- Bambina Nail&eyelash【バンビーナ】 (bambina-nail-eyelash-75d840b6fe) — contact_unverified
+- MEN&WOMEN NAIL・EYEBROW Salon.Pudding【サロンドットプディング】 (men-women-nail-eyebrow-salon-8648727e42) — contact_unverified
+- mies nails.ミィスネイルズ eyelash (mies-nails-eyelash-563406c0d5) — contact_unverified
+- Nail salon ebliss (nail-salon-ebliss-bbda35ca37) — contact_unverified
+- C three (c-three-7b27e62360) — contact_unverified
+- nail salon Berry (nail-salon-berry-e6ff5e3430) — contact_unverified
+- フェイシャルエステ・脱毛サロン rufleu【ルフル】 (rufleu-c6878afa53) — contact_unverified
+- トータルビューティサロン Kirei 水月の湯店 (kirei-aa055b4f55) — contact_unverified
+- Known by evolucion (known-by-evolucion-fdb88e9282) — contact_unverified
+- loin.【ロワン】 (loin-04a272f0e4) — contact_unverified
+- hair salon drop (hair-salon-drop-2122daad20) — contact_unverified
+- ヘアーカットたに (lead-3cf7111c18) — contact_unverified
+- Battery hair&make ビエラ塚口店 (battery-hair-make-ce35385cdc) — contact_unverified
+- ORO 塚口店【オーロ】 (oro-d95bed39c9) — contact_unverified
+- Reuna 塚口【レウーナ】 (reuna-be9dd3410c) — contact_unverified
+- Ciron【シロン】 (ciron-e851f186ae) — contact_unverified
+- sai【サイ】 (sai-87df748fe7) — contact_unverified
+- attrait塚口 (attrait-48b0686129) — contact_unverified
+- Nifty【ニフティー】 (nifty-a60f022a8b) — contact_unverified
+- ネイルサロン 桜 (lead-367b35259e) — contact_unverified
+- Lino【リノ】 (lino-ab57486f57) — contact_unverified
+- hair space TAL'KE 武庫之荘 (hair-space-tal-ke-19e7287538) — contact_unverified
+- BRILLER hair salon【ブリエ】 (briller-hair-salon-f3436ecb95) — contact_unverified
+- 髪質改善 Atre. 武庫之荘 (atre-35e59900a5) — contact_unverified
+- CHAINON 武庫之荘【シェノン】 (chainon-ec2e52af24) — contact_unverified
+- YoLo.【ヨロ】 (yolo-006fb74a09) — contact_unverified
+- enu 武庫之荘店【エヌ】 (enu-d247c831cc) — contact_unverified
+- Salo【サロ】 (salo-a6f39cfab0) — contact_unverified
+- リラクゼーションサロン せいらん (lead-c0c944be85) — contact_unverified
+- テラス 武庫之荘店（TERRACE） (terrace-504f2fd066) — contact_unverified
+- CODE.LINE 立花店 (code-line-b7978ad6f1) — contact_unverified
+- リソワ 尼崎園田（Lisoi） (lisoi-47f9ff98a7) — contact_unverified
+- ルル(lulu) (lulu-2ee2e38126) — contact_unverified
+- 美髪矯正サロン Elu by Dice (elu-by-dice-b4bb887c92) — contact_unverified
+- Dice 髪質改善/メンズ/韓国へア (dice-c34a77e9c1) — contact_unverified
+- CIEN【シエン】 (cien-a214cb7ffa) — contact_unverified
+- Reber【リベル】 (reber-62e7b5c524) — contact_unverified
+- 美容室 FOR YOU【フォーユー】 (for-you-22b9682a86) — contact_unverified
+- Place Hair【プレイスヘアー】 (place-hair-3321caafd6) — contact_unverified
+- ANTE【アンテ】 (ante-02489a6fc7) — contact_unverified
+- ESTELA (estela-74bde28d54) — contact_unverified
+- Venti hair&spa (venti-hair-spa-49f9da9c12) — contact_unverified
+- LUXU hair&spa (luxu-hair-spa-58ec478512) — contact_unverified
+- barber shop ZoN (barber-shop-zon-d1109184b6) — contact_unverified
+- cut and spa MISONO (cut-and-spa-misono-4783b694f1) — contact_unverified
+- sen (sen-6069feee8c) — contact_unverified
+- ヘッドスパサロンnemuru (nemuru-4827801ac6) — contact_unverified
+- Flow Men's Hair Salon（フロウ） (flow-men-s-hair-salon-37f7c5516a) — contact_unverified
+- men's salon AVANCE. 尼崎（メンズサロン アヴァンス 尼崎） (men-s-salon-avance-3993881479) — contact_unverified
+- Nail Salon 〜Jolie〜 (nail-salon-jolie-44ab3ee373) — contact_unverified
+- STAG CLUB（スタッグクラブ） (stag-club-003c72e9ff) — contact_unverified
+- 日本理容 武庫川店 (lead-846fb3b4e4) — contact_unverified
+- BAR BER SHOP BIG PAPA (bar-ber-shop-big-papa-86f8b15003) — contact_unverified
+- ヘアーサロン イシダ (lead-284200f24e) — contact_unverified
+- Since とこまゆ (since-c9236065ad) — contact_unverified
+- Hair Salon HOPE (hair-salon-hope-af014a68a6) — contact_unverified
+- barber shop 一（ワン） (barber-shop-b110d83d0b) — contact_unverified
+- menoa(メノア) (menoa-1b2645c848) — contact_unverified
+- ビューティーアイラッシュ つかしん店 (lead-34d9bc9283) — contact_unverified
+- マツコのまつげサロン 尼崎店 (lead-91d1ad4d13) — contact_unverified
+- Bodysh(ボディッシュ) 阪急塚口駅前店 (bodysh-8f22bb2ddc) — contact_unverified
+- リラクゼーション＆ヘッドスパ Repose (repose-831820698e) — contact_unverified
+- プライベートサロン ひだまり～ほぐし処～ (lead-0e71bc82bf) — contact_unverified
+- YAVIS_nail (yavis-nail-d138c1315c) — contact_unverified
+- Solution(ソリューション) (solution-1a4a4dc9d9) — contact_unverified
+- BARBER SHOP -Goo- (barber-shop-goo-20e994b175) — contact_unverified
+- BarberShop・Hairs (barbershop-hairs-9d2bda7792) — contact_unverified
+- カットハウスロンダ2 (2-98767ca785) — contact_unverified
+- 内藤理容室 (lead-bf80733fe5) — contact_unverified
+- Hair Studio Monaco (hair-studio-monaco-27f5d90197) — contact_unverified
+- barber 1×1 inichi (barber-1-1-inichi-17e561b1e7) — contact_unverified
+- 理容大串 (lead-14a3a15a77) — contact_unverified
+- 青木理容店 (lead-73352ec258) — contact_unverified
+- ヘアーサロンステーション (lead-a5b44b699f) — contact_unverified
+- ウエダ (lead-22c89ecfdb) — contact_unverified
+- 木村理容 (lead-2df3f303d9) — contact_unverified
+- カットハウス良2 (2-d3d2d247d7) — contact_unverified
+- モンプチスタイル (lead-0ce3c9703b) — contact_unverified
+- キノシタヘアーサロン (lead-de6238087f) — contact_unverified
+- グリーンルーム (lead-1391b12611) — contact_unverified
+- 体感ラボ 塚口店 (lead-0b50ae3532) — contact_unverified
+- HAKM(ハクム) (hakm-279cd1dbb4) — contact_unverified
+- Agu hair bliss 阪神尼崎駅前店 (agu-hair-bliss-92db0094e3) — contact_unverified
+- COCOCOLOR尼崎中央店 (cococolor-b00a036b4e) — contact_unverified
+- a-z.hair (a-z-hair-c579cacad5) — contact_unverified
+- macherie mukonosou (macherie-mukonosou-0743294a80) — contact_unverified
+- ヘアーズベリー 塚口店 (lead-3844f0d1f7) — contact_unverified
+- 理髪館 尼崎店 (lead-30bf668fac) — contact_unverified
+- soin de brace 立花店 (soin-de-brace-ddde0338c8) — contact_unverified
+- アイ・メイル (lead-7224bc529a) — contact_unverified
+- アイリー美容室 (lead-12f0683b9f) — contact_unverified
+- アキュール (lead-75accd20fa) — contact_unverified
+- アスクスヘアー (lead-5f10484ce4) — contact_unverified
+- アトリエエヌ (lead-e51d9102ad) — contact_unverified
+- Atelier Grow (atelier-grow-862d21baae) — contact_unverified
+- アトリエヨネダ (lead-cb5af7932d) — contact_unverified
+- アニスト (lead-cf84a04d13) — contact_unverified
+- ANNEX (annex-4786de9157) — contact_unverified
+- アルジャーノン (lead-fdaad4dd95) — contact_unverified
+- ALLES 武庫之荘店 (alles-73224f805f) — contact_unverified
+- UnConte (unconte-3b7e7b6a94) — contact_unverified
+- Anteros (anteros-03678030d1) — contact_unverified
+- アンベリール (lead-5238c26f59) — contact_unverified
+- アンワインドヘアデザイン (lead-b80df790f8) — contact_unverified
+- アートビーブル美容室 (lead-3877538207) — contact_unverified
+- インセンス (lead-0888e8c7e9) — contact_unverified
+- エアージュ (lead-713ee68569) — contact_unverified
+- ekolu by clap (ekolu-by-clap-b5fd12a005) — contact_unverified
+- esfera hair design (esfera-hair-design-f5ed66c2f4) — contact_unverified
+- ever free (ever-free-f85498bfd2) — contact_unverified
+- エンジョブ塚口店 (lead-7aa129a714) — contact_unverified
+- AK hair (ak-hair-4f86b9fedd) — contact_unverified
+- カットハウスロンダ (lead-71cadc27f8) — contact_unverified
+- カルムエール (lead-e0412c799c) — contact_unverified
+- GUNSN'hair (gunsn-hair-a729ad84d1) — contact_unverified
+- corpurum (corpurum-c4f16ee8bb) — contact_unverified
+- clap (clap-2cba5557d9) — contact_unverified
+- グランス (lead-3117603b36) — contact_unverified
+- グリームヘアー (lead-6259434f75) — contact_unverified
+- ギュゼル・バヤン (lead-17cd9f753f) — contact_unverified
+- こりとる JR尼崎店 (jr-e2b98d2046) — contact_unverified
+- TERRACE CODE 武庫之荘 (terrace-code-9027b0e534) — contact_unverified
+- Hair Mode KT Purl (hair-mode-kt-purl-413bfc2dd5) — contact_unverified
+- LUAU［ルアウ］尼崎 (luau-hair-make-f3f2101dad) — contact_unverified
+- Vinculum by circulo 尼崎 (vinculum-by-circulo-f6e32a3b14) — contact_unverified
+- MODE K's 尼崎店 (mode-k-s-bbde218c9c) — contact_unverified
+- Refine.尼崎店 (refine-c854ebc669) — contact_unverified
+- Refine.JR立花店 (refine-jr-264ea650ed) — contact_unverified
+- Agu hair alegria 塚口店 (agu-hair-alegria-9d270f973f) — contact_unverified
+- Agu hair edel 武庫之荘店 (agu-hair-edel-127e924070) — contact_unverified
+- Agu hair elf JR立花駅前店 (agu-hair-elf-jr-4b0becb5e7) — contact_unverified
+- ALLEN hair 阪神尼崎店 (allen-hair-dcc1415700) — contact_unverified
+- YUCCA elua 武庫之荘南口 (yucca-elua-570806eb7d) — contact_unverified
+- YUCCA ekolu 塚口 (yucca-ekolu-71be4cf8e5) — contact_unverified
+- YUCCA academy (yucca-academy-2af80f7035) — contact_unverified
+- Azur Nail&beauty 武庫之荘店 (azur-nail-beauty-23e105d422) — contact_unverified
+- Azur Nail 阪神尼崎店 (azur-nail-35db6299dc) — contact_unverified
+- Dahlia nail by TERRACE (dahlia-nail-by-terrace-c057a96ebe) — contact_unverified
+- NICE NAIL 阪急塚口店 (nicenail-e5d76c617a) — contact_unverified
+- Beauty labo 塚口店 (beauty-labo-e044f30c8e) — contact_unverified
+- Beauty labo 武庫之荘店 (beauty-labo-7bebbb5467) — contact_unverified
+- Beauty labo Nail&Eyelash 阪神尼崎店 (beauty-labo-nail-eyelash-f6dafe0d87) — contact_unverified
+- YOSAPARK JR尼崎南店 POCO (yosapark-jr-poco-8726d7de4e) — contact_unverified
+- YOSAPARK LILY (yosapark-lily-dbc4224040) — contact_unverified
+- リラクゼーション&エステ ユナ (lead-be31c2a201) — contact_unverified
+- ulu (ulu-41c82ecc18) — contact_unverified
+- ホットナップス 尼崎店 (lead-6b0ccb2b2b) — contact_unverified
+- office.chouchou (office-chouchou-cea11bff20) — contact_unverified
+- ビューティーラボ 立花店 (lead-68c91b7462) — contact_unverified
+- hair design DIMPLE (hair-design-dimple-2aeb3e86c6) — contact_unverified
+- POLA 東尼崎店 (pola-0c25ad5bc7) — contact_unverified
+- フラッシュネイル 塚口駅前店 (lead-ed1c799d5b) — contact_unverified
+- Eye Beauty Salon Sylph 尼崎店 (eye-beauty-salon-sylph-9b9e881e91) — contact_unverified
+- menoa 阪神尼崎店 (menoa-0be6bb99b4) — contact_unverified
+- 小顔サロン BUPURA 尼崎店 (bupura-7409f4845a) — contact_unverified
+- SAKURASPA (sakuraspa-7dfe236ef2) — contact_unverified
+- メンズ／レディスアデランス尼崎 (lead-cc31bfb185) — contact_unverified
+- Hair Mode KT AMAGASAKI (hair-mode-kt-amagasaki-af3945dfbe) — contact_unverified
+- 美粧館 尼崎店 (lead-095cc7bf9b) — contact_unverified
+- ママスJR尼崎店 (jr-301fe56360) — contact_unverified
+- ヘアカラー専門店ビーマイルアミング潮江ウエスト２番館店 (2-663e1fd267) — contact_unverified
+- アイ美容室（神田南通） (lead-fa6c15733b) — contact_unverified
+- アイ美容室（南武庫之荘） (lead-f596354b66) — contact_unverified
+- 美粧館 塚口店 (lead-f6e5ce792f) — contact_unverified
+- MAMA'S 塚口店 (mama-s-4c5a79453b) — contact_unverified
+- PAPA'S 塚口店 (papa-s-cec3519350) — contact_unverified
+- Nail Salon Diva 塚口店 (nail-salon-diva-7f966797ba) — contact_unverified
+- KKcut（キングスカット）尼崎西店 (kkcut-8d2d6df6e3) — contact_unverified
+- 理髪館 塚口店 (lead-f6898ac946) — contact_unverified
+- 理容サービス 阪急園田駅前店 (lead-94fa3377cd) — contact_unverified
+- IWASAKI 兵庫立花店 (iwasaki-6431ba501c) — contact_unverified
+- IWASAKI 尼崎店 (iwasaki-e9e0b5b492) — contact_unverified
+- IWASAKI 尼崎大物店 (iwasaki-c1f6d4342b) — contact_unverified
+- IWASAKI 兵庫園田2号店 (iwasaki-2-8aadd2af46) — contact_unverified
+- IWASAKI 尼崎下坂部店 (iwasaki-7197ad649f) — contact_unverified
+- Lu more ルモワ 尼崎店 (lu-more-bb79392cab) — contact_unverified
+- Men's Dione（メンズディオーネ）尼崎店 (men-s-dione-9ce176cf90) — contact_unverified

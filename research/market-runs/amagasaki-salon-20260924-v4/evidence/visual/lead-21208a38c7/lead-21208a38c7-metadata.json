@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-21208a38c7",
+  "page_type": "top",
+  "page_url": "http://sara.qcweb.jp/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:19:37.849Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\lead-21208a38c7\\lead-21208a38c7-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\lead-21208a38c7\\lead-21208a38c7-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

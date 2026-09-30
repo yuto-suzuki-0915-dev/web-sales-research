@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "run_id": "ashiya-pilates-20260924-b",
+  "region": "芦屋市",
+  "industry": "ピラティススタジオ",
+  "state": "partial",
+  "workflow_stage": "discovered",
+  "started_at": "2026-09-24T03:04:02.707Z",
+  "updated_at": "2026-09-24T03:35:51.287Z",
+  "stop_reason": "interrupted",
+  "limits": {
+    "user_business_limit": null,
+    "technical": {
+      "max_additional_routes": 20,
+      "max_run_minutes": 180
+    }
+  },
+  "discovery": {
+    "basic_routes_required": [
+      "web",
+      "map",
+      "industry_media",
+      "region_variant",
+      "station_area",
+      "industry_synonym"
+    ],
+    "basic_discovery_completed": true,
+    "low_yield_streak": 0,
+    "saturated": false,
+    "saturation_threshold": 1,
+    "saturation_streak_required": 3
+  },
+  "observed_unique_businesses": 18
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "field-loco-873ac8b4ba",
+  "page_type": "top",
+  "page_url": "https://field65.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:21:47.927Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\field-loco-873ac8b4ba\\field-loco-873ac8b4ba-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\field-loco-873ac8b4ba\\field-loco-873ac8b4ba-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

@@ -1,0 +1,153 @@
+[
+ {
+  "lead_id": "lead-713ee68569",
+  "name": "エアージュ",
+  "aliases": [],
+  "address": "兵庫県尼崎市長洲本通1丁目4-1",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "ekolu-by-clap-b5fd12a005",
+  "name": "ekolu by clap",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口町1丁目17-5",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "esfera-hair-design-f5ed66c2f4",
+  "name": "esfera hair design",
+  "aliases": [],
+  "address": "〒660-0053 兵庫県尼崎市南七松町1-3-6",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://esfera-hd.com/",
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202",
+   "https://esfera-hd.com/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "ever-free-f85498bfd2",
+  "name": "ever free",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口町1丁目14-19",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-7aa129a714",
+  "name": "エンジョブ塚口店",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口町1丁目18-13",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "ak-hair-4f86b9fedd",
+  "name": "AK hair",
+  "aliases": [],
+  "address": "兵庫県尼崎市南塚口町1丁目4-3",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-71cadc27f8",
+  "name": "カットハウスロンダ",
+  "aliases": [],
+  "address": "兵庫県尼崎市杭瀬本町1丁目10-7",
+  "industry": "美容室・カット専門",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-e0412c799c",
+  "name": "カルムエール",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口本町2丁目2-19",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "gunsn-hair-a729ad84d1",
+  "name": "GUNSN'hair",
+  "aliases": [],
+  "address": "兵庫県尼崎市立花町1丁目8-11",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "corpurum-c4f16ee8bb",
+  "name": "corpurum",
+  "aliases": [],
+  "address": "兵庫県尼崎市潮江1丁目7-1",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202?page=2"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

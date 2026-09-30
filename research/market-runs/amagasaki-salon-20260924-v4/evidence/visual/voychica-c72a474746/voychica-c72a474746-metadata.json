@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "voychica-c72a474746",
+  "page_type": "top",
+  "page_url": "https://voychica.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:16:16.591Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\voychica-c72a474746\\voychica-c72a474746-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\voychica-c72a474746\\voychica-c72a474746-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

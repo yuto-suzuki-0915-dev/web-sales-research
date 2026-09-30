@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "barber-bolt-381bbaa31d",
+  "page_type": "top",
+  "page_url": "https://www.bolt-mukonosou.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:17:34.996Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\barber-bolt-381bbaa31d\\barber-bolt-381bbaa31d-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\barber-bolt-381bbaa31d\\barber-bolt-381bbaa31d-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

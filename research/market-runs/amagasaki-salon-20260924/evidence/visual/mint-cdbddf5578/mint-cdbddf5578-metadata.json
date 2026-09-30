@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "mint-cdbddf5578",
+  "page_type": "top",
+  "page_url": "https://mint-salon.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:19:19.858Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\mint-cdbddf5578\\mint-cdbddf5578-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\mint-cdbddf5578\\mint-cdbddf5578-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

@@ -1,0 +1,160 @@
+[
+ {
+  "lead_id": "megami-eyelash-lounge-5c5efe3674",
+  "name": "MEGAMI EYELASH LOUNGE",
+  "aliases": [
+   "メガミ アイラッシュラウンジ"
+  ],
+  "address": "兵庫県尼崎市昭和通7-236-3 弘末ビル2F",
+  "industry": "まつげサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000482854/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "eyelash-iona-b1b71fbbd9",
+  "name": "eyelash iona",
+  "aliases": [
+   "イオナ"
+  ],
+  "address": "兵庫県尼崎市南塚口町1丁目6-9 塚口ビル別館3F",
+  "industry": "まつげサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000808028/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "genic-matsugenoomise-8f459fc651",
+  "name": "genic_MATSUGEnoOMISE",
+  "aliases": [],
+  "address": "兵庫県尼崎市道意町4-48-3",
+  "industry": "まつげサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_33121531/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "nicenail-e5d76c617a",
+  "name": "NICE NAIL 阪急塚口店",
+  "aliases": [
+   "ナイスネイル塚口店"
+  ],
+  "address": "兵庫県尼崎市南塚口町1-6-1",
+  "industry": "ネイル",
+  "website_presence": "confirmed",
+  "website_url": "https://www.nice-nail.com/salon/kansai/tsukaguchi/",
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000256558/",
+   "https://www.nice-nail.com/salon/kansai/tsukaguchi/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "beauty-labo-e044f30c8e",
+  "name": "Beauty labo 塚口店",
+  "aliases": [],
+  "address": "尼崎市（阪急塚口駅徒歩1分）",
+  "industry": "ネイル・まつげサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000292103/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "beauty-labo-7bebbb5467",
+  "name": "Beauty labo 武庫之荘店",
+  "aliases": [],
+  "address": "尼崎市（阪急武庫之荘駅徒歩1分）",
+  "industry": "ネイル・まつげサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000398519/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "beauty-labo-nail-eyelash-f6dafe0d87",
+  "name": "Beauty labo Nail&Eyelash 阪神尼崎店",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩5分）",
+  "industry": "ネイル・まつげ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000234614/",
+   "https://beauty.hotpepper.jp/genre/kgkw024/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "nest-b09c31a9e9",
+  "name": "フェイシャルサロンnest+",
+  "aliases": [],
+  "address": "兵庫県尼崎市西川2丁目9-24",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_32695406/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "esthetic-salon-miku-s-48e8a33dc3",
+  "name": "Esthetic Salon Miku's",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口町1-25-2",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_82658249/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-63a9095f84",
+  "name": "アキュビューティー",
+  "aliases": [],
+  "address": "兵庫県尼崎市武庫之荘1丁目6-2",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6063407/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

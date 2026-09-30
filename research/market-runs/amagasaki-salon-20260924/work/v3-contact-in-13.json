@@ -1,0 +1,164 @@
+[
+ {
+  "lead_id": "lead-fdaad4dd95",
+  "name": "アルジャーノン",
+  "aliases": [],
+  "address": "兵庫県尼崎市武庫之荘1丁目9-6",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "alles-73224f805f",
+  "name": "ALLES 武庫之荘店",
+  "aliases": [
+   "ＡＬＬＥＳ"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1丁目2-3",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "anc-526d0f964f",
+  "name": "anc",
+  "aliases": [
+   "ａｎｃ"
+  ],
+  "address": "兵庫県尼崎市東園田町4丁目110-4",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202",
+   "https://www.ekiten.jp/shop_2922698/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "unconte-3b7e7b6a94",
+  "name": "UnConte",
+  "aliases": [
+   "ＵｎＣｏｎｔｅ"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1丁目14-18",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "anteros-03678030d1",
+  "name": "Anteros",
+  "aliases": [
+   "アンテロス"
+  ],
+  "address": "兵庫県尼崎市武庫之荘6丁目26-15",
+  "industry": "美容室・理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-5238c26f59",
+  "name": "アンベリール",
+  "aliases": [],
+  "address": "兵庫県尼崎市武庫之荘東1丁目16-3",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-b80df790f8",
+  "name": "アンワインドヘアデザイン",
+  "aliases": [],
+  "address": "兵庫県尼崎市七松町1丁目12-26",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-3877538207",
+  "name": "アートビーブル美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市富松町1丁目37-15",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-0888e8c7e9",
+  "name": "インセンス",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口町4丁目56-3",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "infinity-3cc364a75b",
+  "name": "INFINITY",
+  "aliases": [
+   "ＩＮＦＩＮＩＴＹ"
+  ],
+  "address": "尼崎市（JR尼崎駅から400m）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202",
+   "https://www.ekiten.jp/g0201/st0347/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

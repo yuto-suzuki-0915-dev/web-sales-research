@@ -1,0 +1,165 @@
+[
+ {
+  "lead_id": "tresor-ab58bea669",
+  "name": "TRESOR",
+  "aliases": [],
+  "address": "兵庫県尼崎市立花町1-14-13",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/mbSlIE2jkfw"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-68c91b7462",
+  "name": "ビューティーラボ 立花店",
+  "aliases": [
+   "Beautylabo"
+  ],
+  "address": "兵庫県尼崎市立花",
+  "industry": "美容室・ネイル",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+ネイルサロン"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "asai-2ede57500d",
+  "name": "美容室ASAI",
+  "aliases": [],
+  "address": "兵庫県尼崎市七松町2-5-11",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+七松町+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "pony-39f64fd4a9",
+  "name": "PoNy",
+  "aliases": [
+   "ポニー"
+  ],
+  "address": "兵庫県尼崎市七松町1丁目19-20",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000583026/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-space-cappio-69badac92e",
+  "name": "Hair Space Cappio",
+  "aliases": [
+   "Hair Space Cappio",
+   "カッピオ",
+   "Cappio"
+  ],
+  "address": "兵庫県尼崎市潮江",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://cappiopio.com/",
+  "priority": "high",
+  "sources": [
+   "https://www.ekiten.jp/shop_6858977/",
+   "https://www.ekiten.jp/g0201/st0347/",
+   "https://mapfan.com/genres/450/28/202",
+   "https://cappiopio.com/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "hairspacezero-bfa6ff680c",
+  "name": "HairSpaceZERO",
+  "aliases": [
+   "Hair Space ZERO"
+  ],
+  "address": "兵庫県尼崎市潮江2丁目21-12",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+潮江+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "salon-d-avenue-8741dfa4b4",
+  "name": "Salon d'Avenue",
+  "aliases": [],
+  "address": "兵庫県尼崎市潮江1丁目4-5",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+潮江+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "noma-beauty-salon-feeb609a40",
+  "name": "Noma Beauty Salon",
+  "aliases": [],
+  "address": "兵庫県尼崎市潮江2丁目28-45",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+潮江+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "moze-27c24f68ee",
+  "name": "MOZE美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市西本町2丁目2",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://map.yahoo.co.jp/v3/place/NciPKA7wxdE"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-28aa79599a",
+  "name": "フジ美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市西本町",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1070973/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

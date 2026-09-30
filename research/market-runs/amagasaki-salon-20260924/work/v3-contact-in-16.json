@@ -1,0 +1,173 @@
+[
+ {
+  "lead_id": "amoroso-d59522c545",
+  "name": "amoroso",
+  "aliases": [
+   "アモロッソ"
+  ],
+  "address": "兵庫県尼崎市塚口本町4-2-17",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202",
+   "https://beauty.rakuten.co.jp/s6000062093/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-atelier-00a911d70f",
+  "name": "魔女の手仕事〜hair atelier〜",
+  "aliases": [
+   "魔女の手仕事"
+  ],
+  "address": "兵庫県尼崎市塚口町1-15-13 塚口グリーンハイツ309",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "high",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s6000062379/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "sincerity-c57dd11e9b",
+  "name": "SINCERITY",
+  "aliases": [
+   "シンセリティ"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘2-2-7",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s4010012684/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hope-salon-42ba0b3c85",
+  "name": "hope salon",
+  "aliases": [
+   "ホープサロン"
+  ],
+  "address": "兵庫県尼崎市東難波町4-11-17",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s7000030453/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "pada-8d05b5d05e",
+  "name": "PADA",
+  "aliases": [
+   "パダ"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1-2-4 メゾンロイヤル武庫之荘202",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s5000057589/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "source-bed44c41e4",
+  "name": "SOURCE 塚口",
+  "aliases": [
+   "ソース ツカグチ"
+  ],
+  "address": "兵庫県尼崎市塚口町1-3-4 玉屋ビル3階",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s5000058309/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "men-s-source-940f009538",
+  "name": "MEN'S SOURCE 塚口",
+  "aliases": [],
+  "address": "尼崎市（阪急塚口駅徒歩1分）",
+  "industry": "理容室・メンズサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s5000058769/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-care-salon-schon-c1b1360989",
+  "name": "hair care salon Schon",
+  "aliases": [
+   "ヘアケアサロン シェーン",
+   "Schon"
+  ],
+  "address": "尼崎市（JR尼崎駅から620m）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s2000049761/",
+   "https://www.ekiten.jp/g0201/st0347/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lien-ciel-6d3ea0a753",
+  "name": "Lien Ciel",
+  "aliases": [
+   "リアンシエル"
+  ],
+  "address": "兵庫県尼崎市塚口町1-22-18 グランパレ塚口1F 101",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s2000048492/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "melmo-aroma-hair-cf0a522c13",
+  "name": "melmo aroma hair",
+  "aliases": [
+   "メルモ アロマ ヘアー"
+  ],
+  "address": "兵庫県尼崎市立花町1-5-10",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s5000060126/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

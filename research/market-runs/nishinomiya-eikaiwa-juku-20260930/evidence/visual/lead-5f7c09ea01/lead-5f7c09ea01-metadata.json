@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-5f7c09ea01",
+  "page_type": "top",
+  "page_url": "https://www.ishikura-juku.co.jp/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:50:42.189Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-5f7c09ea01\\lead-5f7c09ea01-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-5f7c09ea01\\lead-5f7c09ea01-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

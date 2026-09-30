@@ -1,0 +1,201 @@
+[
+ {
+  "lead_id": "lead-1d9ba79c69",
+  "name": "カットハウスシャンプーボーイ",
+  "aliases": [],
+  "address": "兵庫県尼崎市南武庫之荘3丁目30-12",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/",
+   "https://riyou.jp/barbershop/hyogo/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-1391b12611",
+  "name": "グリーンルーム",
+  "aliases": [],
+  "address": "兵庫県尼崎市武庫之荘西2丁目52-10",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.navitime.co.jp/category/0402003/28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "revia-e380505883",
+  "name": "Revia(レヴィア)",
+  "aliases": [
+   "Revia"
+  ],
+  "address": "兵庫県尼崎市潮江1-30-8 ルミエール301",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-4400-8179"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-0b50ae3532",
+  "name": "体感ラボ 塚口店",
+  "aliases": [
+   "Taikan Rabo"
+  ],
+  "address": "兵庫県尼崎市塚口町2-28-4",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "la-mer-45350c3d9b",
+  "name": "La Mer(ラ・メール)",
+  "aliases": [
+   "La Mer"
+  ],
+  "address": "兵庫県尼崎市武庫之荘西2-33-24 サンロイヤル武庫之荘2 201",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "080-1405-8378"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "little-happiness-e4658e9501",
+  "name": "エステ＆リラクゼーションサロン Little Happiness",
+  "aliases": [
+   "リトルハピネス"
+  ],
+  "address": "兵庫県尼崎市南塚口町2-18-14 レットバトラー201",
+  "industry": "エステ・リラクゼーション",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "090-9664-1522"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-e7000d29bc",
+  "name": "メナード フェイシャルサロン ミニアングル",
+  "aliases": [
+   "Meniangle"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1-5-7 武庫之荘フォーティナインビル501",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6437-3309"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "soigne-se-re-ne-8bc8476b46",
+  "name": "Soigné Sérène(ソワニエセレーヌ)",
+  "aliases": [],
+  "address": "兵庫県尼崎市潮江1-3-1 あまがさきキューズモール3F",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6493-0500"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-87f72045e9",
+  "name": "メナード フェイシャルサロン フランマロール",
+  "aliases": [
+   "Franmarole"
+  ],
+  "address": "兵庫県尼崎市南塚口町2-16-1 夏本不動産ビル202",
+  "industry": "エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6428-7882"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "salon-de-lkj-cfbe639b7b",
+  "name": "Salon de LKJ",
+  "aliases": [],
+  "address": "兵庫県尼崎市神田中通3丁目35",
+  "industry": "エステ",
+  "website_presence": "confirmed",
+  "website_url": "https://lkj-academy.com/salon.html",
+  "priority": "medium",
+  "sources": [
+   "https://amagasaki.mypl.net/shop/list?s=22",
+   "https://lkj-academy.com/salon.html"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6418-1292"
+   }
+  ],
+  "has_visual": true
+ }
+]

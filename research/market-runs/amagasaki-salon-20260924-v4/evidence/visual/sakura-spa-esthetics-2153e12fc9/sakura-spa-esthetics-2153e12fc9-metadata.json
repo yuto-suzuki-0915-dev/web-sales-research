@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "sakura-spa-esthetics-2153e12fc9",
+  "page_type": "top",
+  "page_url": "http://sakuraspa.jp/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:23:08.211Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\sakura-spa-esthetics-2153e12fc9\\sakura-spa-esthetics-2153e12fc9-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\sakura-spa-esthetics-2153e12fc9\\sakura-spa-esthetics-2153e12fc9-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

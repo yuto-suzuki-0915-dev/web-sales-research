@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(/research/market-runs/**)",
+      "Bash(node scripts/web-sales-store.mjs *)",
+      "Bash(node scripts/capture-site.mjs *)",
+      "WebSearch",
+      "WebFetch",
+      "Agent(discovery-worker)",
+      "Agent(triage-worker)",
+      "Agent(qualification-worker)",
+      "Agent(outreach-worker)",
+      "Agent(review-worker)"
+    ]
+  }
+}

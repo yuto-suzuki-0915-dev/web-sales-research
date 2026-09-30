@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "fav-space-for-conditioning-1bc86890e8",
+  "page_type": "top",
+  "page_url": "https://www.fav-conditioninggym.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:13:25.731Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\fav-space-for-conditioning-1bc86890e8\\fav-space-for-conditioning-1bc86890e8-top-desktop.png"
+  },
+  "mobile": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\fav-space-for-conditioning-1bc86890e8\\fav-space-for-conditioning-1bc86890e8-top-mobile.png",
+    "error": "[17584:7988:0925/051244.402:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[17584:7988:0925/051244.705:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[17584:7988:0925/051245.022:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[17584:31460:0925/051247.137:ERROR:components\\sync\\engine\\get_updates_processor.cc:426] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_IO_SUSPENDED)\r\n"
+  },
+  "visual_status": "unverified"
+}

@@ -1,0 +1,170 @@
+[
+ {
+  "lead_id": "elu-by-dice-b4bb887c92",
+  "name": "美髪矯正サロン Elu by Dice",
+  "aliases": [
+   "Elu by Dice"
+  ],
+  "address": "尼崎市（阪急園田駅徒歩6分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "dice-c34a77e9c1",
+  "name": "Dice 髪質改善/メンズ/韓国へア",
+  "aliases": [
+   "Dice"
+  ],
+  "address": "尼崎市（阪急園田駅徒歩2分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "cien-a214cb7ffa",
+  "name": "CIEN【シエン】",
+  "aliases": [
+   "CIEN"
+  ],
+  "address": "尼崎市（園田駅徒歩5分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "reber-62e7b5c524",
+  "name": "Reber【リベル】",
+  "aliases": [
+   "Reber"
+  ],
+  "address": "尼崎市（阪急園田駅東口徒歩30秒）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "for-you-22b9682a86",
+  "name": "美容室 FOR YOU【フォーユー】",
+  "aliases": [
+   "FOR YOU"
+  ],
+  "address": "尼崎市（阪急園田駅徒歩15分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "place-hair-3321caafd6",
+  "name": "Place Hair【プレイスヘアー】",
+  "aliases": [
+   "Place Hair"
+  ],
+  "address": "尼崎市（阪急園田駅徒歩1分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "ante-02489a6fc7",
+  "name": "ANTE【アンテ】",
+  "aliases": [
+   "ANTE"
+  ],
+  "address": "尼崎市（阪急神戸線園田駅徒歩10分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "estela-74bde28d54",
+  "name": "ESTELA",
+  "aliases": [],
+  "address": "尼崎市（阪急園田駅徒歩1分以内）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "venti-hair-spa-49f9da9c12",
+  "name": "Venti hair&spa",
+  "aliases": [
+   "Venti"
+  ],
+  "address": "尼崎市（阪急園田駅徒歩4分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "luxu-hair-spa-58ec478512",
+  "name": "LUXU hair&spa",
+  "aliases": [
+   "LUXU"
+  ],
+  "address": "尼崎市（阪急園田駅徒歩7分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

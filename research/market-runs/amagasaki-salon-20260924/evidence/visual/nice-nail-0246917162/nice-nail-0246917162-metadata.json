@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "nice-nail-0246917162",
+  "page_type": "top",
+  "page_url": "https://www.nice-nail.com/salon/kansai/amagasaki/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:17:19.062Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\nice-nail-0246917162\\nice-nail-0246917162-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\nice-nail-0246917162\\nice-nail-0246917162-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

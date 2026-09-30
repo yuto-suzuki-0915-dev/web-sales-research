@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "barbershop-101-0619e7353b",
+  "page_type": "top",
+  "page_url": "https://bbs101.net/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:22:16.647Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\barbershop-101-0619e7353b\\barbershop-101-0619e7353b-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\barbershop-101-0619e7353b\\barbershop-101-0619e7353b-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

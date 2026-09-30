@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-a10ee41734",
+  "page_type": "top",
+  "page_url": "http://www.eonet.ne.jp/~kansha/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:18:40.491Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\lead-a10ee41734\\lead-a10ee41734-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\lead-a10ee41734\\lead-a10ee41734-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

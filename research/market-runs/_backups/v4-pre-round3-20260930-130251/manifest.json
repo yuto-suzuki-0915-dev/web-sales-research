@@ -1,0 +1,43 @@
+{
+  "schema_version": 4,
+  "run_id": "amagasaki-salon-20260924-v4",
+  "region": "尼崎市",
+  "industry": "美容室・サロン",
+  "state": "running",
+  "workflow_stage": "triaged",
+  "started_at": "2026-09-24T07:59:11.438Z",
+  "updated_at": "2026-09-30T02:37:24.447Z",
+  "stop_reason": null,
+  "limits": {
+    "user_business_limit": null,
+    "technical": {
+      "max_additional_routes": 20,
+      "max_run_minutes": 180
+    }
+  },
+  "discovery": {
+    "basic_routes_required": [
+      "web",
+      "map",
+      "industry_media",
+      "region_variant",
+      "station_area",
+      "industry_synonym"
+    ],
+    "basic_discovery_completed": true,
+    "low_yield_streak": 0,
+    "saturated": false,
+    "saturation_threshold": 1,
+    "saturation_streak_required": 3
+  },
+  "observed_unique_businesses": 899,
+  "resumed_at": "2026-09-28T03:38:18.057Z",
+  "qualification_rules_version": 1,
+  "segment": "美容室・サロン",
+  "derived_from": {
+    "run_id": "amagasaki-salon-20260924",
+    "schema_version": 3,
+    "migrated_at": "2026-09-30T02:20:14.424Z",
+    "note": "v4基準の再評価用コピー。元runは無変更。旧判定・旧文面は昇格していない(legacy_*へ退避)。"
+  }
+}

@@ -1,0 +1,172 @@
+[
+ {
+  "lead_id": "mode-k-s-briller-2cecc78003",
+  "name": "MODE K's Briller",
+  "aliases": [
+   "Hair Salon MODE K's briller"
+  ],
+  "address": "尼崎市（阪急武庫之荘駅徒歩1分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty-park.jp/shop/575715/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "yucca-academy-2af80f7035",
+  "name": "YUCCA academy",
+  "aliases": [],
+  "address": "尼崎市（阪急武庫之荘駅徒歩3分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://minimodel.jp/list/1/28/c12/137"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "azur-nail-beauty-23e105d422",
+  "name": "Azur Nail&beauty 武庫之荘店",
+  "aliases": [
+   "アジュール ネイル アンド ビューティ 武庫之荘店",
+   "Azur Nail 武庫之荘"
+  ],
+  "address": "兵庫県尼崎市武庫之荘",
+  "industry": "ネイル",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000752604/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "azur-nail-35db6299dc",
+  "name": "Azur Nail 阪神尼崎店",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩1分）",
+  "industry": "ネイル",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000405526/",
+   "https://search.yahoo.co.jp/search?p=尼崎市+ネイルサロン",
+   "https://beauty.hotpepper.jp/genre/kgkw024/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-1a2fb70889",
+  "name": "はあとねいる塚口店",
+  "aliases": [
+   "Heart Nail 塚口"
+  ],
+  "address": "兵庫県尼崎市塚口町1丁目3-26 井川ビル2F",
+  "industry": "ネイルサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000641514/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "switch-a5f15deefe",
+  "name": "SWITCH",
+  "aliases": [
+   "スウィッチ"
+  ],
+  "address": "兵庫県尼崎市昭和南通3丁目18",
+  "industry": "ネイル・まつげ・エステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000388787/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "dahlia-nail-by-terrace-c057a96ebe",
+  "name": "Dahlia nail by TERRACE",
+  "aliases": [
+   "ダリア ネイル バイ テラス"
+  ],
+  "address": "兵庫県尼崎市武庫之荘東1-1-16",
+  "industry": "ネイルサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000496365/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "edit-704d415771",
+  "name": "edit ネイル",
+  "aliases": [
+   "エディット"
+  ],
+  "address": "兵庫県尼崎市南塚口町1-1-1 フォーシーズン塚口4F",
+  "industry": "ネイルサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000571644/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "aimer-1cd79d0a6d",
+  "name": "Aimer",
+  "aliases": [
+   "エメ"
+  ],
+  "address": "兵庫県尼崎市潮江1丁目36-1 日和マンション105",
+  "industry": "ネイルサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000792344/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "fooflow-a3b5fad319",
+  "name": "Fooflow",
+  "aliases": [
+   "Foo flow",
+   "フーフロー"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘1丁目19-26 サークルFビル5F",
+  "industry": "ネイル・まつげサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/kr/slnH000587795/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

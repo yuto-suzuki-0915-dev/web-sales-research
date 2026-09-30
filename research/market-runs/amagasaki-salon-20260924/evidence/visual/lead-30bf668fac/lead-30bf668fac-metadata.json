@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-30bf668fac",
+  "page_type": "top",
+  "page_url": "https://www.matsu-moto.com/s-barber/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:18:46.936Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\lead-30bf668fac\\lead-30bf668fac-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\lead-30bf668fac\\lead-30bf668fac-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

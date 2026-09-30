@@ -1,0 +1,738 @@
+# 連絡先の追加確認が必要な営業候補
+
+- ヘアーデザインKUU (kuu-39f9feb25f) — contact_unverified / access_limited
+- Rise Hair (rise-hair-9be189d17d) — contact_unverified / pending
+- ひまわり美容室 (lead-56a328603c) — contact_unverified / pending
+- アロマリラクゼーションサロン沙羅 (lead-21208a38c7) — contact_unverified / access_limited
+- 魔女の手仕事〜hair atelier〜 (hair-atelier-00a911d70f) — contact_unverified / pending
+- HELLOWS (hellows-a506d16f9c) — contact_unverified / pending
+- ロリ (lead-a565b7e553) — contact_unverified / pending
+- Hair Space Cappio (hair-space-cappio-69badac92e) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- hair Lyle.（ヘアーライル） (hair-lyle-c17b5c07b1) — contact_unverified / access_limited
+- field loco（フィールドロコ） (field-loco-873ac8b4ba) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- SAKURA Spa esthetics (sakura-spa-esthetics-2153e12fc9) — contact_unverified / pending
+- SEURA. eyelash&beauty (seura-eyelash-beauty-5c364ffd54) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- BAGUS（メンズ美容室 バグース） (bagus-3ee1ec6d06) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- Loop hair（ループヘアー） (loop-hair-f63cc1ae23) — contact_not_found / completed
+- Morrow（モロー） (morrow-a784c7030a) — contact_unverified / access_limited
+- 尼崎 美容室 Refine.（リファイン）JR尼崎店 (refine-jr-7458305e83) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- La Vaughn（ラ・ヴォーン） (lead-e1befa5263) — contact_not_found / completed
+- ROGER COIFFURE (roger-coiffure-f645c828a3) — contact_unverified / pending
+- NILLU 阪急塚口店 (nillu-a97bba5a3c) — contact_unverified / pending
+- Ciao（チャオ） (ciao-aba21ce579) — contact_unverified / access_limited
+- LiL'阪神尼崎【リル】 (lil-d93573ffc3) — contact_unverified / pending
+- Rinda Beauty Salon (rinda-beauty-salon-2230bce766) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- modek's Amagasaki (modek-s-amagasaki-75ace1e5f1) — contact_unverified / pending
+- 髪きり屋off (off-2f3af40df9) — contact_unverified / pending
+- Barber Ka'z (barber-ka-z-5bac745370) — contact_unverified / pending
+- 大月 (lead-1b69187acf) — contact_unverified / pending
+- おしゃれ床屋べーやん (lead-66cd85e828) — contact_unverified / pending
+- サロンドアベニュー (lead-a2c3953677) — contact_unverified / pending
+- カットハウスシャンプーボーイ (lead-1d9ba79c69) — contact_unverified / pending
+- Revia(レヴィア) (revia-e380505883) — contact_unverified / pending
+- La Mer(ラ・メール) (la-mer-45350c3d9b) — contact_unverified / pending
+- エステ＆リラクゼーションサロン Little Happiness (little-happiness-e4658e9501) — contact_unverified / pending
+- メナード フェイシャルサロン ミニアングル (lead-e7000d29bc) — contact_unverified / pending
+- メナード フェイシャルサロン フランマロール (lead-87f72045e9) — contact_unverified / pending
+- Sherin(シェリン) (sherin-8f98908480) — contact_unverified / pending
+- Your Corner (your-corner-2057c158ef) — contact_unverified / pending
+- 脱毛サロン ルチアーノ 尼崎店 (lead-c0662f8e1b) — contact_unverified / pending
+- クレセントヘアー CRESCENT HAIR (crescent-hair-362420f486) — contact_unverified / access_limited
+- SHEETS 園田店 (sheets-02c445c01f) — contact_unverified / pending
+- ALLES 園田店 (alles-d0f069d6f0) — contact_unverified / pending
+- hair make Gorge' (hair-make-gorge-e3ced07d7b) — contact_unverified / pending
+- ReSET 阪急園田店 (reset-1d6f0490d6) — contact_unverified / access_limited
+- Style in Balance (style-in-balance-b8db49d17b) — contact_unverified / pending
+- Hair Make Dizzy (hair-make-dizzy-d82f77d426) — contact_unverified / pending
+- Hair & Esthete JAPS (hair-esthete-japs-5ca084d7b6) — contact_unverified / pending
+- マロン美容室 ホテル前店 (lead-fe41fca458) — contact_unverified / pending
+- ヘアースタジオWill (will-e97918d8ae) — contact_unverified / pending
+- GRADO (grado-707afb9289) — contact_unverified / pending
+- ORO 武庫之荘店 (oro-59c38e42a9) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- MOOL hair 武庫之荘店 (mool-hair-24a489be9f) — contact_unverified / pending
+- ヘアーサロン ア・レーズ (lead-27310b10fc) — contact_unverified / pending
+- モンステラ塚口店 (lead-b2d4a3f9b3) — contact_unverified / pending
+- ヘアカラー専門店fufu 立花店 (fufu-6aa987d9c0) — contact_unverified / pending
+- HAIR SPACE BLOOM hero 園田店 (hair-space-bloom-hero-85eeb044ab) — contact_unverified / pending
+- anc (anc-526d0f964f) — contact_unverified / pending
+- INFINITY (infinity-3cc364a75b) — contact_unverified / pending
+- メナードフェイシャルサロン 尼崎道意 (lead-332b46f68a) — contact_unverified / pending
+- emelu (emelu-532a292d2e) — contact_unverified / pending
+- amoroso (amoroso-d59522c545) — contact_unverified / pending
+- SINCERITY (sincerity-c57dd11e9b) — contact_unverified / pending
+- hope salon (hope-salon-42ba0b3c85) — contact_unverified / pending
+- PADA (pada-8d05b5d05e) — contact_unverified / pending
+- SOURCE 塚口 (source-bed44c41e4) — contact_unverified / pending
+- MEN'S SOURCE 塚口 (men-s-source-940f009538) — contact_unverified / pending
+- hair care salon Schon (hair-care-salon-schon-c1b1360989) — contact_unverified / pending
+- Lien Ciel (lien-ciel-6d3ea0a753) — contact_unverified / pending
+- melmo aroma hair (melmo-aroma-hair-cf0a522c13) — contact_unverified / pending
+- SOLO by FERIA (solo-by-feria-1cf8e05a61) — contact_unverified / pending
+- AVANCE. 尼崎 (avance-359a2587af) — contact_unverified / pending
+- MANAZ 阪神尼崎 (manaz-88672712c8) — contact_unverified / pending
+- AINA (aina-f6a0c32c2b) — contact_unverified / pending
+- Magnolia by Water Lily (magnolia-by-water-lily-eedb7d2958) — contact_unverified / pending
+- HAIR SALON MIST (hair-salon-mist-46f3a3dd4d) — contact_unverified / pending
+- BRINGE (bringe-dfc2e78620) — contact_unverified / pending
+- Sky tsukaguchi (sky-tsukaguchi-620a1fb815) — contact_unverified / pending
+- チャーリーブラウン (lead-aebb62e89a) — contact_unverified / pending
+- シンコー美容室 (lead-561c9ff6b4) — contact_unverified / pending
+- TREAT (treat-2db5db9531) — contact_unverified / pending
+- VIOLETTA Hair & Space (violetta-hair-space-0f7db36b19) — contact_unverified / access_limited
+- ゆらゆら美容室 (lead-b0b1121de7) — contact_unverified / pending
+- ラ・ミューゼリゾート (lead-3945be24fb) — contact_unverified / pending
+- リルーク.ヘアー (lead-98d09b768d) — contact_unverified / pending
+- Chloe hair (chloe-hair-1284d1b28e) — contact_unverified / pending
+- FreyaTotalBeautySalon (freyatotalbeautysalon-e48555186a) — contact_unverified / pending
+- grace hair SMILism (grace-hair-smilism-931e7b574a) — contact_unverified / pending
+- hair & relax Snug (hair-relax-snug-bf87eabd60) — contact_unverified / pending
+- Settle (settle-e02745fb5e) — contact_unverified / pending
+- LOCOCO organics label (lococo-organics-label-3cc0507eda) — contact_unverified / pending
+- Rond (rond-f937e73c2e) — contact_unverified / pending
+- すずらん美容室 (lead-7171944e49) — contact_unverified / pending
+- HAIR GALLERY Avant (hair-gallery-avant-18fe3028c7) — contact_unverified / pending
+- ヘアースタジオアート塚口店 (lead-0a539fee3a) — contact_unverified / pending
+- ピノ (lead-cdfa8f3b94) — contact_unverified / pending
+- Ratuna (ratuna-bac1496663) — contact_unverified / pending
+- hairsalon elite (hairsalon-elite-3e5ee97862) — contact_unverified / pending
+- 美容室くわはら (lead-a85124bc77) — contact_unverified / pending
+- カノン (lead-1034b2123d) — contact_unverified / pending
+- Re・Born (re-born-d155a3ede7) — contact_unverified / pending
+- 美容サラJR立花店 (jr-65e7a5a4a3) — contact_unverified / pending
+- MODE K's Briller (mode-k-s-briller-2cecc78003) — contact_unverified / pending
+- はあとねいる塚口店 (lead-1a2fb70889) — contact_unverified / pending
+- SWITCH (switch-a5f15deefe) — contact_unverified / pending
+- edit ネイル (edit-704d415771) — contact_unverified / pending
+- Aimer (aimer-1cd79d0a6d) — contact_unverified / pending
+- Fooflow (fooflow-a3b5fad319) — contact_unverified / pending
+- MEGAMI EYELASH LOUNGE (megami-eyelash-lounge-5c5efe3674) — contact_unverified / pending
+- eyelash iona (eyelash-iona-b1b71fbbd9) — contact_unverified / pending
+- genic_MATSUGEnoOMISE (genic-matsugenoomise-8f459fc651) — contact_unverified / pending
+- フェイシャルサロンnest+ (nest-b09c31a9e9) — contact_unverified / pending
+- Esthetic Salon Miku's (esthetic-salon-miku-s-48e8a33dc3) — contact_unverified / pending
+- アキュビューティー (lead-63a9095f84) — contact_unverified / pending
+- SAKURA Spa eyelash&esthethics (sakura-spa-eyelash-esthethic-82d19d7673) — contact_unverified / pending
+- Mi RROR Beautyrepro (mi-rror-beautyrepro-3f8fef9ab6) — contact_unverified / pending
+- メナードフェイシャルサロン ノオラ (lead-57ec4c98ea) — contact_unverified / pending
+- フェイシャルケアSIRO (siro-53ce878df5) — contact_unverified / pending
+- Salon MIWA (salon-miwa-c5e0fd12ae) — contact_unverified / pending
+- アロマとほぐしのお店〜香音。〜kanon (kanon-fd3754b7a6) — contact_unverified / pending
+- よもぎ蒸しサロンplage (plage-772f8653a7) — contact_unverified / pending
+- Beauty salon KleoPatra (beauty-salon-kleopatra-1212edb1fc) — contact_unverified / pending
+- ほぐしの楽田 阪神尼崎駅前 (lead-6a7de40b57) — contact_unverified / pending
+- 美容室コラソン (lead-fb65e70501) — contact_unverified / pending
+- ジェニー (lead-81ab99cd2b) — contact_unverified / pending
+- 松浦理容店 (lead-c0f65bf31a) — contact_unverified / pending
+- サロン・モーブ (lead-8461c948d4) — contact_unverified / pending
+- ヘアー&フェイスこーむ (lead-79fed2c8e2) — contact_unverified / pending
+- sûr (su-r-eb8de6cbe7) — contact_not_found / completed
+- ヘアースタジオSHOJI (shoji-39119a496a) — contact_unverified / pending
+- いずみ美容室 (lead-768f36340b) — contact_unverified / pending
+- 光美容室 (lead-41f966e39d) — contact_unverified / pending
+- ヘアーサロンリーベ (lead-da65b84f0f) — contact_not_found / completed
+- Hair Mode KT 尼崎本店 (hair-mode-kt-40d081f25d) — contact_unverified / pending
+- パーミング (lead-f004963c90) — contact_unverified / pending
+- Hot Lip hair (hot-lip-hair-3f17b5cd9c) — contact_not_found / completed
+- パール美容室 (lead-b67ed18984) — contact_unverified / pending
+- TRESOR (tresor-ab58bea669) — contact_unverified / pending
+- 美容室ASAI (asai-2ede57500d) — contact_unverified / pending
+- PoNy (pony-39f64fd4a9) — contact_unverified / pending
+- HairSpaceZERO (hairspacezero-bfa6ff680c) — contact_unverified / pending
+- Salon d'Avenue (salon-d-avenue-8741dfa4b4) — contact_unverified / pending
+- Noma Beauty Salon (noma-beauty-salon-feeb609a40) — contact_unverified / pending
+- MOZE美容室 (moze-27c24f68ee) — contact_unverified / pending
+- フジ美容室 (lead-28aa79599a) — contact_unverified / pending
+- シバ美容室 (lead-decd48340d) — contact_unverified / pending
+- カトレヤ美容室 (lead-5da38752b9) — contact_unverified / pending
+- ロン美容室 (lead-6c58f29e87) — contact_unverified / pending
+- ヴェール&みどり美容室 (lead-0d990758ae) — contact_unverified / pending
+- ぱぴるす美容室 (lead-d60cbfc564) — contact_unverified / pending
+- かつら美容室 (lead-594dfd71b8) — contact_unverified / pending
+- CASTA (casta-e41e1a47dc) — contact_unverified / pending
+- ヘアークリエイティブサロンナカミズ (lead-6dea1398df) — contact_unverified / pending
+- 美容室Hana (hana-80e356a386) — contact_unverified / pending
+- 田能理容所 (lead-83e162cef5) — contact_unverified / pending
+- 雄二美容室 (lead-7168f1897f) — contact_unverified / pending
+- LANDS (lands-f7b6cccb83) — contact_unverified / pending
+- アイ・アム美容室 (lead-25de5bec94) — contact_unverified / pending
+- greenly (greenly-1c71caf997) — contact_unverified / pending
+- clip elm (clip-elm-f8d0a44d99) — contact_unverified / pending
+- SUNNY（サニー） (sunny-e0ecb656b8) — contact_unverified / pending
+- ヘアー＆エステJAPS (japs-2b45238def) — contact_unverified / pending
+- Salon.Cookie (salon-cookie-b0c5529c15) — contact_unverified / pending
+- hair make SUTELA (hair-make-sutela-2e85c4a5c4) — contact_unverified / pending
+- 葛予美容室 (lead-a5562203ee) — contact_unverified / pending
+- SPICE【スパイス】 (spice-ac74178e31) — contact_unverified / pending
+- ウード（OUD） (oud-7f1fd81aae) — contact_unverified / pending
+- センター美容室 (lead-0396fb6795) — contact_unverified / pending
+- GRANS (grans-d965d1535d) — contact_unverified / pending
+- ヘアースタジオヴァースト (lead-558a7bff23) — contact_unverified / pending
+- スマイルカラー (lead-6631479db6) — contact_unverified / pending
+- Carra Salon (carra-salon-8d6064e478) — contact_unverified / pending
+- ぴょんぴょん (lead-d21b508f27) — contact_unverified / pending
+- 尼崎エーサロン (lead-48f98a9099) — contact_unverified / pending
+- サロン・ドエクラ (lead-3cd03d3b11) — contact_unverified / pending
+- Bambina Nail&eyelash【バンビーナ】 (bambina-nail-eyelash-75d840b6fe) — contact_unverified / pending
+- MEN&WOMEN NAIL・EYEBROW Salon.Pudding【サロンドットプディング】 (men-women-nail-eyebrow-salon-8648727e42) — contact_unverified / pending
+- mies nails.ミィスネイルズ eyelash (mies-nails-eyelash-563406c0d5) — contact_unverified / pending
+- Nail salon ebliss (nail-salon-ebliss-bbda35ca37) — contact_unverified / pending
+- C three (c-three-7b27e62360) — contact_unverified / pending
+- nail salon Berry (nail-salon-berry-e6ff5e3430) — contact_unverified / pending
+- フェイシャルエステ・脱毛サロン rufleu【ルフル】 (rufleu-c6878afa53) — contact_unverified / pending
+- トータルビューティサロン Kirei 水月の湯店 (kirei-aa055b4f55) — contact_unverified / pending
+- Known by evolucion (known-by-evolucion-fdb88e9282) — contact_unverified / pending
+- loin.【ロワン】 (loin-04a272f0e4) — contact_unverified / pending
+- hair salon drop (hair-salon-drop-2122daad20) — contact_unverified / pending
+- ヘアーカットたに (lead-3cf7111c18) — contact_unverified / pending
+- Battery hair&make ビエラ塚口店 (battery-hair-make-ce35385cdc) — contact_unverified / pending
+- ORO 塚口店【オーロ】 (oro-d95bed39c9) — contact_unverified / pending
+- Reuna 塚口【レウーナ】 (reuna-be9dd3410c) — contact_unverified / pending
+- Ciron【シロン】 (ciron-e851f186ae) — contact_unverified / pending
+- sai【サイ】 (sai-87df748fe7) — contact_unverified / pending
+- attrait塚口 (attrait-48b0686129) — contact_unverified / pending
+- Nifty【ニフティー】 (nifty-a60f022a8b) — contact_unverified / pending
+- ネイルサロン 桜 (lead-367b35259e) — contact_unverified / pending
+- Lino【リノ】 (lino-ab57486f57) — contact_unverified / pending
+- hair space TAL'KE 武庫之荘 (hair-space-tal-ke-19e7287538) — contact_unverified / pending
+- BRILLER hair salon【ブリエ】 (briller-hair-salon-f3436ecb95) — contact_unverified / pending
+- 髪質改善 Atre. 武庫之荘 (atre-35e59900a5) — contact_unverified / pending
+- CHAINON 武庫之荘【シェノン】 (chainon-ec2e52af24) — contact_unverified / pending
+- YoLo.【ヨロ】 (yolo-006fb74a09) — contact_unverified / pending
+- enu 武庫之荘店【エヌ】 (enu-d247c831cc) — contact_unverified / pending
+- Salo【サロ】 (salo-a6f39cfab0) — contact_unverified / pending
+- 和み癒(なごみいやす) (lead-222ee98f27) — contact_unverified / in_progress
+- リラクゼーションサロン せいらん (lead-c0c944be85) — contact_unverified / pending
+- テラス 武庫之荘店（TERRACE） (terrace-504f2fd066) — contact_unverified / pending
+- CODE.LINE 立花店 (code-line-b7978ad6f1) — contact_unverified / pending
+- リソワ 尼崎園田（Lisoi） (lisoi-47f9ff98a7) — contact_unverified / pending
+- 美容室円 (lead-7c86907912) — contact_unverified / pending
+- リード (lead-2f2baa47ee) — contact_unverified / pending
+- ルル(lulu) (lulu-2ee2e38126) — contact_unverified / pending
+- 美髪矯正サロン Elu by Dice (elu-by-dice-b4bb887c92) — contact_unverified / pending
+- Dice 髪質改善/メンズ/韓国へア (dice-c34a77e9c1) — contact_unverified / pending
+- CIEN【シエン】 (cien-a214cb7ffa) — contact_unverified / pending
+- Reber【リベル】 (reber-62e7b5c524) — contact_unverified / pending
+- 美容室 FOR YOU【フォーユー】 (for-you-22b9682a86) — contact_unverified / pending
+- Place Hair【プレイスヘアー】 (place-hair-3321caafd6) — contact_unverified / pending
+- ANTE【アンテ】 (ante-02489a6fc7) — contact_unverified / pending
+- ESTELA (estela-74bde28d54) — contact_unverified / pending
+- Venti hair&spa (venti-hair-spa-49f9da9c12) — contact_unverified / pending
+- LUXU hair&spa (luxu-hair-spa-58ec478512) — contact_unverified / pending
+- barber shop ZoN (barber-shop-zon-d1109184b6) — contact_unverified / pending
+- cut and spa MISONO (cut-and-spa-misono-4783b694f1) — contact_unverified / pending
+- sen (sen-6069feee8c) — contact_unverified / pending
+- Flow Men's Hair Salon（フロウ） (flow-men-s-hair-salon-37f7c5516a) — contact_unverified / pending
+- men's salon AVANCE. 尼崎（メンズサロン アヴァンス 尼崎） (men-s-salon-avance-3993881479) — contact_unverified / pending
+- Nail Salon 〜Jolie〜 (nail-salon-jolie-44ab3ee373) — contact_unverified / pending
+- STAG CLUB（スタッグクラブ） (stag-club-003c72e9ff) — contact_unverified / pending
+- 日本理容 武庫川店 (lead-846fb3b4e4) — contact_unverified / pending
+- BAR BER SHOP BIG PAPA (bar-ber-shop-big-papa-86f8b15003) — contact_unverified / pending
+- ヘアーサロン イシダ (lead-284200f24e) — contact_unverified / pending
+- Since とこまゆ (since-c9236065ad) — contact_unverified / pending
+- Hair Salon HOPE (hair-salon-hope-af014a68a6) — contact_unverified / pending
+- barber shop 一（ワン） (barber-shop-b110d83d0b) — contact_unverified / pending
+- Eyelash Salon Blanc つかしん前店 (blanc-44e397a6f2) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- TAYA 尼崎店 (taya-f20c21f7e3) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- NICE NAIL 尼崎駅前店 (nice-nail-0246917162) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- La fith hair Home JR尼崎店 (la-fith-hair-home-jr-660f5712d7) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- menoa(メノア) (menoa-1b2645c848) — contact_unverified / pending
+- ビューティーアイラッシュ つかしん店 (lead-34d9bc9283) — contact_unverified / pending
+- マツコのまつげサロン 尼崎店 (lead-91d1ad4d13) — contact_unverified / pending
+- Bodysh(ボディッシュ) 阪急塚口駅前店 (bodysh-8f22bb2ddc) — contact_unverified / pending
+- リラクゼーション＆ヘッドスパ Repose (repose-831820698e) — contact_unverified / pending
+- プライベートサロン ひだまり～ほぐし処～ (lead-0e71bc82bf) — contact_unverified / pending
+- YAVIS_nail (yavis-nail-d138c1315c) — contact_unverified / pending
+- Solution(ソリューション) (solution-1a4a4dc9d9) — contact_unverified / pending
+- BARBER SHOP -Goo- (barber-shop-goo-20e994b175) — contact_unverified / pending
+- BarberShop・Hairs (barbershop-hairs-9d2bda7792) — contact_unverified / pending
+- カットハウスロンダ2 (2-98767ca785) — contact_unverified / pending
+- 内藤理容室 (lead-bf80733fe5) — contact_unverified / pending
+- Hair Studio Monaco (hair-studio-monaco-27f5d90197) — contact_unverified / pending
+- barber 1×1 inichi (barber-1-1-inichi-17e561b1e7) — contact_unverified / pending
+- 理容大串 (lead-14a3a15a77) — contact_unverified / pending
+- 青木理容店 (lead-73352ec258) — contact_unverified / pending
+- ヘアーサロンステーション (lead-a5b44b699f) — contact_unverified / pending
+- ウエダ (lead-22c89ecfdb) — contact_unverified / pending
+- 木村理容 (lead-2df3f303d9) — contact_unverified / pending
+- カットハウス良2 (2-d3d2d247d7) — contact_unverified / pending
+- モンプチスタイル (lead-0ce3c9703b) — contact_unverified / pending
+- キノシタヘアーサロン (lead-de6238087f) — contact_unverified / pending
+- グリーンルーム (lead-1391b12611) — contact_unverified / pending
+- 体感ラボ 塚口店 (lead-0b50ae3532) — contact_unverified / pending
+- Soigné Sérène(ソワニエセレーヌ) (soigne-se-re-ne-8bc8476b46) — contact_unverified / pending
+- HAKM(ハクム) (hakm-279cd1dbb4) — contact_unverified / pending
+- Agu hair bliss 阪神尼崎駅前店 (agu-hair-bliss-92db0094e3) — contact_unverified / pending
+- COCOCOLOR尼崎中央店 (cococolor-b00a036b4e) — contact_unverified / pending
+- soin de brace 立花店 (soin-de-brace-ddde0338c8) — contact_unverified / pending
+- アイ・メイル (lead-7224bc529a) — contact_unverified / pending
+- アイリー美容室 (lead-12f0683b9f) — contact_unverified / pending
+- アキュール (lead-75accd20fa) — contact_unverified / pending
+- アスクスヘアー (lead-5f10484ce4) — contact_unverified / pending
+- アトリエエヌ (lead-e51d9102ad) — contact_unverified / pending
+- Atelier Grow (atelier-grow-862d21baae) — contact_unverified / pending
+- アトリエヨネダ (lead-cb5af7932d) — contact_unverified / pending
+- アニスト (lead-cf84a04d13) — contact_unverified / pending
+- ANNEX (annex-4786de9157) — contact_unverified / pending
+- アルジャーノン (lead-fdaad4dd95) — contact_unverified / pending
+- ALLES 武庫之荘店 (alles-73224f805f) — contact_unverified / pending
+- UnConte (unconte-3b7e7b6a94) — contact_unverified / pending
+- Anteros (anteros-03678030d1) — contact_unverified / pending
+- アンベリール (lead-5238c26f59) — contact_unverified / pending
+- アンワインドヘアデザイン (lead-b80df790f8) — contact_unverified / pending
+- アートビーブル美容室 (lead-3877538207) — contact_unverified / pending
+- インセンス (lead-0888e8c7e9) — contact_unverified / pending
+- エアージュ (lead-713ee68569) — contact_unverified / pending
+- ekolu by clap (ekolu-by-clap-b5fd12a005) — contact_unverified / pending
+- ever free (ever-free-f85498bfd2) — contact_unverified / pending
+- エンジョブ塚口店 (lead-7aa129a714) — contact_unverified / pending
+- AK hair (ak-hair-4f86b9fedd) — contact_unverified / pending
+- カットハウスロンダ (lead-71cadc27f8) — contact_unverified / pending
+- カルムエール (lead-e0412c799c) — contact_unverified / pending
+- GUNSN'hair (gunsn-hair-a729ad84d1) — contact_unverified / pending
+- corpurum (corpurum-c4f16ee8bb) — contact_unverified / pending
+- clap (clap-2cba5557d9) — contact_unverified / pending
+- グランス (lead-3117603b36) — contact_unverified / pending
+- グリームヘアー (lead-6259434f75) — contact_unverified / pending
+- ギュゼル・バヤン (lead-17cd9f753f) — contact_unverified / pending
+- TERRACE CODE 武庫之荘 (terrace-code-9027b0e534) — contact_unverified / pending
+- Hair Mode KT Purl (hair-mode-kt-purl-413bfc2dd5) — contact_unverified / pending
+- Vinculum by circulo 尼崎 (vinculum-by-circulo-f6e32a3b14) — contact_unverified / pending
+- Refine.尼崎店 (refine-c854ebc669) — contact_unverified / pending
+- Refine.JR立花店 (refine-jr-264ea650ed) — contact_unverified / pending
+- Agu hair alegria 塚口店 (agu-hair-alegria-9d270f973f) — contact_unverified / pending
+- Agu hair edel 武庫之荘店 (agu-hair-edel-127e924070) — contact_unverified / pending
+- Agu hair elf JR立花駅前店 (agu-hair-elf-jr-4b0becb5e7) — contact_unverified / pending
+- ALLEN hair 阪神尼崎店 (allen-hair-dcc1415700) — contact_unverified / pending
+- YUCCA elua 武庫之荘南口 (yucca-elua-570806eb7d) — contact_unverified / pending
+- YUCCA ekolu 塚口 (yucca-ekolu-71be4cf8e5) — contact_unverified / pending
+- YUCCA academy (yucca-academy-2af80f7035) — contact_unverified / pending
+- Azur Nail&beauty 武庫之荘店 (azur-nail-beauty-23e105d422) — contact_unverified / pending
+- Azur Nail 阪神尼崎店 (azur-nail-35db6299dc) — contact_unverified / pending
+- Dahlia nail by TERRACE (dahlia-nail-by-terrace-c057a96ebe) — contact_unverified / pending
+- NICE NAIL 阪急塚口店 (nicenail-e5d76c617a) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- Beauty labo 塚口店 (beauty-labo-e044f30c8e) — contact_unverified / pending
+- Beauty labo 武庫之荘店 (beauty-labo-7bebbb5467) — contact_unverified / pending
+- Beauty labo Nail&Eyelash 阪神尼崎店 (beauty-labo-nail-eyelash-f6dafe0d87) — contact_unverified / pending
+- YOSAPARK JR尼崎南店 POCO (yosapark-jr-poco-8726d7de4e) — contact_unverified / pending
+- YOSAPARK LILY (yosapark-lily-dbc4224040) — contact_unverified / pending
+- リラクゼーション&エステ ユナ (lead-be31c2a201) — contact_unverified / pending
+- ulu (ulu-41c82ecc18) — contact_unverified / pending
+- office.chouchou (office-chouchou-cea11bff20) — contact_unverified / pending
+- ビューティーラボ 立花店 (lead-68c91b7462) — contact_unverified / pending
+- hair design DIMPLE (hair-design-dimple-2aeb3e86c6) — contact_unverified / pending
+- POLA 東尼崎店 (pola-0c25ad5bc7) — contact_unverified / pending
+- フラッシュネイル 塚口駅前店 (lead-ed1c799d5b) — contact_unverified / pending
+- Eye Beauty Salon Sylph 尼崎店 (eye-beauty-salon-sylph-9b9e881e91) — contact_unverified / pending
+- menoa 阪神尼崎店 (menoa-0be6bb99b4) — contact_unverified / pending
+- 小顔サロン BUPURA 尼崎店 (bupura-7409f4845a) — contact_unverified / pending
+- SAKURASPA (sakuraspa-7dfe236ef2) — contact_unverified / pending
+- メンズ／レディスアデランス尼崎 (lead-cc31bfb185) — contact_unverified / pending
+- Hair Mode KT AMAGASAKI (hair-mode-kt-amagasaki-af3945dfbe) — contact_unverified / pending
+- 美粧館 尼崎店 (lead-095cc7bf9b) — contact_unverified / pending
+- ママスJR尼崎店 (jr-301fe56360) — contact_unverified / pending
+- ヘアカラー専門店ビーマイルアミング潮江ウエスト２番館店 (2-663e1fd267) — contact_unverified / pending
+- アイ美容室（神田南通） (lead-fa6c15733b) — contact_unverified / pending
+- アイ美容室（南武庫之荘） (lead-f596354b66) — contact_unverified / pending
+- 美粧館 塚口店 (lead-f6e5ce792f) — contact_unverified / pending
+- MAMA'S 塚口店 (mama-s-4c5a79453b) — contact_unverified / pending
+- PAPA'S 塚口店 (papa-s-cec3519350) — contact_unverified / pending
+- defi（デフィー）武庫之荘店 (defi-895df9d545) — contact_unverified / pending
+- コープ理容園田店 (lead-0546b6ac28) — contact_unverified / pending
+- KKcut（キングスカット）尼崎西店 (kkcut-8d2d6df6e3) — contact_unverified / pending
+- 理髪館 塚口店 (lead-f6898ac946) — contact_unverified / pending
+- 理容サービス 阪急園田駅前店 (lead-94fa3377cd) — contact_unverified / pending
+- IWASAKI 兵庫立花店 (iwasaki-6431ba501c) — contact_unverified / pending
+- IWASAKI 尼崎店 (iwasaki-e9e0b5b492) — contact_unverified / pending
+- IWASAKI 尼崎大物店 (iwasaki-c1f6d4342b) — contact_unverified / pending
+- IWASAKI 兵庫園田2号店 (iwasaki-2-8aadd2af46) — contact_unverified / pending
+- IWASAKI 尼崎下坂部店 (iwasaki-7197ad649f) — contact_unverified / pending
+- Lu more ルモワ 尼崎店 (lu-more-bb79392cab) — contact_unverified / pending
+- Men's Dione（メンズディオーネ）尼崎店 (men-s-dione-9ce176cf90) — contact_unverified / pending
+- NAIL GALLERY Avant 塚口店（アヴァン） (nail-gallery-avant-591bd2358b) — contact_not_found / completed
+- YUI's NAIL（ユイズネイル） (yui-s-nail-e4f9af1eaa) — contact_unverified / access_limited
+- まつ毛/アイブロウ特化サロン Cil 尼崎（シル） (cil-15e7130b83) — contact_not_found / completed
+- 眉毛まつげのお店 Sayaka/尼崎（meem.） (sayaka-meem-7f6d53a538) — contact_not_found / completed
+- E'CREA 武庫之荘店（エクレア） (e-crea-e98437180e) — contact_not_found / completed
+- NAIL2 あまがさきキューズモール店 (nail2-fc01e0a352) — contact_not_found / completed
+- Viraca（ヴィラカ） (viraca-ead5958441) — contact_unverified / in_progress
+- JYU-JYU NAIL（ジュジュネイル） (jyu-jyu-nail-67f44d36c8) — contact_unverified / access_limited
+- サロン ド ルシェル 塚口 (lead-faafd61479) — contact_unverified / access_limited
+- nicoa（ニコア） (nicoa-3a16a4ae1f) — contact_not_found / completed
+- 毛穴ケア＆美肌脱毛サロン mana (mana-2ef89c61cc) — contact_not_found / completed
+- Private Salon Days.（プライベートサロン デイズ） (private-salon-days-2748c37aa8) — contact_not_found / completed
+- Private Salon Coco Clair（ココクレール） (private-salon-coco-clair-6f928806e5) — contact_not_found / completed
+- maison de M BEAUTY SALON（メゾン ド エム） (maison-de-m-beauty-salon-22855bdcb3) — contact_unverified / pending
+- Owl healing（オウルヒーリング） (owl-healing-3923c74358) — contact_not_found / completed
+- Healing & Beauty nana（ヒーリング アンド ビューティー ナナ） (healing-beauty-nana-c89c853651) — contact_not_found / completed
+- lumirise vibliss（ルミライズ ヴィブリス） (lumirise-vibliss-f1fdd379c3) — contact_not_found / completed
+- アロマ・リンパマッサージ ZZZ...スゥ～ (zzz-3f51c5fdd1) — contact_not_found / completed
+- nurse skin（ナーススキン） (nurse-skin-ff1c9b5b17) — contact_not_found / completed
+- Nayula Spa（ナユラスパ） (nayula-spa-1a5a597b97) — contact_not_found / completed
+- もみほぐし・ヘッドスパ～椿～ (lead-5201eb19bb) — contact_unverified / pending
+- プライベートサロン ルシェル（Le Ciel） (le-ciel-d87e71390d) — contact_unverified / pending
+- サロンベイア（salon Beia） (salon-beia-f8ffca61cd) — contact_unverified / pending
+- 発酵温浴と癒し処 やましろ (lead-171cb78ae4) — contact_unverified / pending
+- リンパマッサージ/ビオスチーム detox salon Chu.ra（チュラ） (detox-salon-chu-ra-57a52e731a) — contact_unverified / pending
+- ドライヘッドスパ yuu（ユウ） (yuu-62c06ad356) — contact_unverified / pending
+- YOSAPARK Hiruras 武庫之荘（ヨサパーク ヒルラス） (yosapark-hiruras-b3df71ae02) — contact_unverified / pending
+- Re Ciel（ルシエル） (re-ciel-df2fa8621b) — contact_unverified / pending
+- Beauty Salon AIRI（アイリ） (beauty-salon-airi-368227f53e) — contact_unverified / pending
+- デトックスリンパラボ 極～kiwami～ (kiwami-cce0e0de6e) — contact_unverified / pending
+- Beauty Salon 艶（ツヤ） (beauty-salon-9edaa181e5) — contact_unverified / pending
+- 美容整体サロン Re:lief（リリーフ） (re-lief-952660fc45) — contact_unverified / pending
+- 温活＆ドライヘッドスパサロン ここはな (lead-b40060d5c7) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- ナナイロ（na奈iro） (na-iro-a0690e7993) — contact_unverified / pending
+- ソメ JR尼崎アミング潮江店（白髪染め＆ケア専門店SOME） (jr-some-197b5b5965) — contact_unverified / pending
+- デイリーカラー 武庫之荘店 (lead-efff1dc1ae) — contact_unverified / pending
+- メンズ脱毛サロン ORANGO（オランゴ） (orango-d6bf7e5c8e) — contact_unverified / access_limited
+- メンズ脱毛サロン LOST 塚口店 (lost-5ac518d3c5) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- HOOD BARBER CENTRAL（フッドバーバーセントラル） (hood-barber-central-5ce987bc72) — contact_unverified / access_limited
+- COCO HAIRDESIGN（ココヘアーデザイン） (coco-hairdesign-d148a19414) — contact_unverified / access_limited
+- Cut&Beauty MOON（カットアンドビューティ ムーン） (cut-beauty-moon-e66ed84d48) — contact_unverified / pending
+- おしゃれサロン とこりん (lead-36a86a97c5) — contact_not_found / completed
+- カットスタジオ ロン (lead-5cb38bc8df) — contact_not_found / completed
+- スワン (lead-d631057488) — contact_not_found / completed
+- ジュン理容 (lead-6ab908d824) — contact_not_found / completed
+- 理容タケシ (lead-17047f3896) — contact_not_found / completed
+- タマエ館 (lead-231f99d474) — contact_not_found / completed
+- スリーエー (lead-0aa756c050) — contact_not_found / completed
+- ヘアーサロンすみれ (lead-b5572d99ba) — contact_unverified / access_limited
+- 理容プラージュ南塚口店 (lead-4d03e4468d) — contact_unverified / pending
+- ヘアーサロンプリンス (lead-e54ea0f8a5) — contact_unverified / in_progress
+- ヘアーサロン金太朗 (lead-eef963c6ab) — contact_unverified / in_progress
+- ヒロ大谷 (lead-86a5f5ad9e) — contact_unverified / in_progress
+- mu-helios（ミューヘリオス） (mu-helios-c72e9cfec8) — contact_unverified / in_progress
+- ネイル&エステサロン RICO・K (rico-k-bf9b14f013) — contact_unverified / access_limited
+- プライベートエステサロン sachimasu（サチマス） (sachimasu-2f0737a25b) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- Kara-Kuri Bisho（カラクリビショウ） (kara-kuri-bisho-efe387958b) — contact_unverified / pending
+- オサム美容室 (lead-8799419060) — contact_unverified / pending
+- 佳嘉家 美容室 (lead-12a4ae3297) — contact_unverified / in_progress
+- ReAN（リアン） (rean-d1f5fe585b) — contact_unverified / in_progress
+- きものサロンティファニー (lead-a6001435ca) — contact_unverified / in_progress
+- comu（コム）brow&eyelash (comu-brow-eyelash-dcdf336531) — contact_unverified / in_progress
+- Colon Nail（コロンネイル）尼崎 (colon-nail-5a39fce4f9) — contact_unverified / in_progress
+- DENPASAR eyelash＆NAIL 尼崎立花店 (denpasar-eyelash-nail-9dcf402233) — contact_unverified / in_progress
+- beauty salon m.c bell（エムシーベル） (beauty-salon-m-c-bell-45b222dfa3) — contact_unverified / in_progress
+- Ruhe eyelash salon（ルーエ） (ruhe-eyelash-salon-1d8d8e3258) — contact_unverified / in_progress
+- nail salon mw（ムウ） (nail-salon-mw-25d80eb7aa) — contact_unverified / in_progress
+- village-f (village-f-4e1993e3d9) — contact_unverified / in_progress
+- canna（カンナ） (canna-a57aeec404) — contact_unverified / in_progress
+- Liberta塚口 (liberta-544b81ba65) — contact_unverified / in_progress
+- IREN.（イレン） (iren-08fb3ac424) — contact_unverified / pending
+- OLIVIA HAIR (olivia-hair-e9f6f0d88a) — contact_unverified / pending
+- Jennifer（ジェニファー） (jennifer-d036b53a8b) — contact_unverified / pending
+- 髪質改善SALON MIST+ (salon-mist-af6f6b595b) — contact_unverified / in_progress
+- HAIR STAGE Ra Plume (hair-stage-ra-plume-97864b5674) — contact_unverified / in_progress
+- hair house ヴィサージュ (hair-house-c77e669639) — contact_unverified / in_progress
+- Sunny Ranch（サニーランチ） (sunny-ranch-b1764fbdf8) — contact_unverified / in_progress
+- ヘアーワークサトウ (lead-b8d6c34a19) — contact_unverified / in_progress
+- ヘアースタジオブレス立花店 (lead-6df6d6c7c7) — contact_unverified / in_progress
+- ブロンサービス株式会社 本店 (lead-d825565f51) — contact_unverified / in_progress
+- ビューティー5サロン立花店 (5-765ccf5655) — contact_unverified / in_progress
+- オ・フレーズ (lead-2363ef0e65) — contact_unverified / in_progress
+- 森美容室 (lead-2e0d22ad91) — contact_unverified / in_progress
+- ヘアーサロン・メトロ (lead-51f8258be2) — contact_unverified / in_progress
+- ソラ（SOLA） (sola-9ca99ba6ee) — contact_unverified / pending
+- Hair-花時計 (hair-091d6f230a) — contact_unverified / pending
+- ユキ美容室 (lead-46615bd63d) — contact_unverified / pending
+- マロン美容室 三和店 (lead-133a9c8801) — contact_unverified / access_limited
+- Hair&Facial-RON (hair-facial-ron-40d6cf4047) — contact_unverified / pending
+- 美容室エントランス (lead-4cfbe6fe9d) — contact_unverified / pending
+- 山口美容室 (lead-fc70a824ae) — contact_unverified / pending
+- 美容室ステラ (lead-7210fcebb6) — contact_unverified / pending
+- レイ美容室 (lead-52ab6239c9) — contact_unverified / pending
+- メトロ理容所 (lead-52f355efee) — contact_unverified / pending
+- しゃぼん (lead-19fab2d75b) — contact_unverified / pending
+- ますみ美容室 (lead-a58e0887fe) — contact_unverified / pending
+- ヘアーサロンナガタ (lead-2f6f7127b7) — contact_unverified / pending
+- ノーヴァ (lead-d6e10e7bda) — contact_unverified / pending
+- ビューティーサロンさくら (lead-fc4867def3) — contact_unverified / pending
+- ヘアメイクスカイ (lead-e2afe09eed) — contact_unverified / pending
+- 浜﨑カットハウス (lead-0397c1b6b8) — contact_unverified / pending
+- カットサロンたくみ (lead-de40f00596) — contact_unverified / pending
+- PlayTime（ぷれいたいむ） (playtime-f86154df42) — contact_unverified / in_progress
+- バランス美容室 (lead-dadb17d6ad) — contact_unverified / pending
+- ChokiPeta 尼崎店 (chokipeta-ba6eefde6e) — contact_unverified / pending
+- レジュイール・デ・ブラ (lead-8c7afc71ac) — contact_unverified / pending
+- サロン・ド・8 (8-23197d087f) — contact_unverified / pending
+- ふたば美容院 (lead-33397925f9) — contact_unverified / pending
+- ツタヤ美容院 (lead-153932ceb5) — contact_unverified / pending
+- エンゼル (lead-4c18d6d815) — contact_unverified / pending
+- プライベートサロンMARILYN (marilyn-fc6adff295) — contact_unverified / pending
+- AIM（アイム） (aim-1f03092b59) — contact_unverified / pending
+- PENNY（ペニー） (penny-26277d2a97) — contact_unverified / access_limited
+- ART-IGIANO（アルティジャーノ） (art-igiano-a1298cc2c8) — contact_unverified / pending
+- 美容室モガ（MOGA） (moga-6c9b10a9df) — contact_unverified / pending
+- r hair make（アールヘアーメイク） (r-hair-make-c59df516db) — contact_unverified / access_limited
+- 美容室 Win (win-2f3f009ce8) — contact_unverified / access_limited
+- RE・MIX (re-mix-507cdde8da) — contact_unverified / pending
+- かみきりどころ 尼崎西店 (lead-90df1e43ae) — contact_unverified / pending
+- salon de beauté Élite（サロンドボーテ エリート） (salon-de-beaute-e-lite-2148266755) — contact_unverified / pending
+- LOCOCO hair（ロココヘアー） (lococo-hair-44a39f20af) — contact_unverified / pending
+- HAIR RELAXATION GEKKOU 月光 (hair-relaxation-gekkou-f6f08a5936) — contact_unverified / access_limited
+- Nohea Beauty Space 武庫之荘店 (nohea-beauty-space-973e73b57d) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- khaju hair（カージュ・ヘアー） (khaju-hair-61f537dd09) — contact_unverified / pending
+- GIZEL hair（ジゼルヘアー） (gizel-hair-df91e3fa16) — contact_unverified / pending
+- アニーフェイス (lead-109a0bca37) — contact_unverified / pending
+- 美樹美容室 (lead-e5eb8f20a6) — contact_unverified / pending
+- CREER（クレール）塚口店 (creer-8e7a720763) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- HAIR MAGIC Y (hair-magic-y-c2d7d9595f) — contact_unverified / pending
+- ヘアークラブアミューズ (lead-45457dc4dd) — contact_unverified / access_limited
+- グリタモード (lead-dc4852b42d) — contact_unverified / pending
+- ヘアーサロン木下 (lead-fcbb25430c) — contact_unverified / pending
+- HONEY.B.LASH (honey-b-lash-0feb549979) — contact_unverified / pending
+- ヘアーサロン優 (lead-c1608cebcb) — contact_unverified / pending
+- 美容室TOMOTOMO (tomotomo-0fb9103213) — contact_unverified / pending
+- j-hair (j-hair-0fdbb2d294) — contact_unverified / pending
+- ホーダビューティーサロン (lead-aca136c2ab) — contact_unverified / pending
+- ヘアーサロンムラタニ (lead-a950bfb36d) — contact_unverified / pending
+- ビューティーKATOU (katou-4c380f5cdc) — contact_unverified / pending
+- Hair & Face Salon Pretty (hair-face-salon-pretty-a7ff13c350) — contact_unverified / pending
+- Salon de Okita (salon-de-okita-2acdba9899) — contact_unverified / pending
+- SIFTERS (sifters-26502d3d54) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- 理容倶楽部七松店 (lead-4b93ff9714) — contact_unverified / pending
+- セーヌ美容室 (lead-9a2f6dc422) — contact_unverified / pending
+- 株式会社マロン美容室 七松店 (lead-128f79c02e) — contact_unverified / pending
+- Hair's A.I (hair-s-a-i-da88e622f2) — contact_unverified / pending
+- サニー美容室 (lead-1576e21c87) — contact_unverified / pending
+- 理容オーミ (lead-546346c495) — contact_unverified / pending
+- 株式会社SINBA (sinba-7e5983df71) — contact_unverified / access_limited
+- 日仏美容室 (lead-9e4de7b22e) — contact_unverified / pending
+- Salon・de・Nobuko (salon-de-nobuko-e36061eb90) — contact_unverified / pending
+- ムッシュカズオの店 (lead-05f12e7c6e) — contact_unverified / in_progress
+- エミ美容室 (lead-207481e837) — contact_unverified / in_progress
+- ジョイ美容室 (lead-d0bda39a72) — contact_unverified / in_progress
+- ちゃど美容室 (lead-63ba547cbb) — contact_unverified / in_progress
+- プレシャス（precious） (precious-42109860d8) — contact_unverified / in_progress
+- サン (lead-f1556c9c8c) — contact_unverified / in_progress
+- ビューティーサロンなかま (lead-6cceffb62b) — contact_unverified / in_progress
+- 美容室スイアン (lead-adb56061b2) — contact_unverified / in_progress
+- エリート美容室 (lead-8a8a533826) — contact_unverified / in_progress
+- カットサロンラ・モード (lead-b6a4c45067) — contact_unverified / in_progress
+- ら・ぺるら (lead-aab3f95051) — contact_unverified / in_progress
+- ヘアーモードKuMi (kumi-bd09f16d5c) — contact_unverified / in_progress
+- hair's beconnect (hair-s-beconnect-1081dba5b1) — contact_unverified / in_progress
+- ヘアーサロンウェーブ (lead-8ad143e61b) — contact_unverified / in_progress
+- ヘアーサロンTANAKA (tanaka-f3e8a3ccbf) — contact_unverified / in_progress
+- ヘアーサロンイワシタ (lead-1c5c7525cf) — contact_unverified / in_progress
+- パパス 尼崎店 (lead-ae04a2e244) — contact_unverified / in_progress
+- ヘアーサロンマツモト (lead-2818fadc7f) — contact_unverified / in_progress
+- 元町理容所 (lead-40b54ae7dc) — contact_unverified / in_progress
+- 松下理容 (lead-879c8891f8) — contact_unverified / in_progress
+- 理容なんば (lead-22adbfdbec) — contact_unverified / in_progress
+- REI (rei-6febdc6d5d) — contact_unverified / in_progress
+- ミシロ (lead-96360bc7bc) — contact_unverified / in_progress
+- ヘアーサロンマチ (lead-5c185aa286) — contact_unverified / in_progress
+- 理容マロ (lead-afd88d25fb) — contact_unverified / in_progress
+- ヘアーサロンミヤギ (lead-b4c7644062) — contact_unverified / in_progress
+- バンビ理容 (lead-c8088aed5f) — contact_unverified / in_progress
+- ワイズヨウコ (lead-41c0235c3e) — contact_unverified / in_progress
+- ヘアーサロン若林 (lead-7fda20f21d) — contact_unverified / in_progress
+- カットクラブUFO (ufo-6d8f3cc10d) — contact_unverified / access_limited
+- 尼崎理容 (lead-e2c320db31) — contact_unverified / in_progress
+- ミューズ (lead-975d76debf) — contact_unverified / in_progress
+- ヒグチ理容店 (lead-fc705415db) — contact_unverified / in_progress
+- ヘアースタジオイシノ (lead-1c586935d4) — contact_unverified / in_progress
+- フジサキ (lead-2a0678b195) — contact_unverified / in_progress
+- エガシラ理容室 (lead-53e7e28e55) — contact_unverified / in_progress
+- キング理容 (lead-61dfcff57e) — contact_unverified / in_progress
+- 染川 (lead-bda2862bb0) — contact_unverified / in_progress
+- ヤマビコ理容所 (lead-88d81cd8ef) — contact_unverified / in_progress
+- 理容ベスト (lead-2e83ed91dc) — contact_unverified / in_progress
+- 理容アマガサキ (lead-be07bb6edf) — contact_unverified / in_progress
+- フク理容 (lead-c5a1c261c6) — contact_unverified / in_progress
+- おしゃれ床屋みね (lead-913f771371) — contact_unverified / in_progress
+- 理容大北 (lead-b7279b550f) — contact_unverified / in_progress
+- ジェイツー(J2) (j2-8841740ea7) — contact_unverified / in_progress
+- 理容タハラ (lead-674de523a8) — contact_unverified / in_progress
+- 野田理容室 (lead-aaded0c703) — contact_unverified / in_progress
+- カットインゲート(CUTINGATE) (cutingate-5a07626263) — contact_unverified / in_progress
+- カットハウスV (v-206dfa3a9a) — contact_unverified / in_progress
+- ウエダ理容 (lead-0f88d96edd) — contact_unverified / in_progress
+- ミッチー理容 (lead-a6b553aa45) — contact_unverified / pending
+- いなば理容所 (lead-50f6066a2f) — contact_unverified / in_progress
+- 藤原理容店 (lead-6a29a4db03) — contact_unverified / in_progress
+- ヘアーサロンなかはた (lead-8549031999) — contact_unverified / in_progress
+- チトセ理容 (lead-98bfc86c47) — contact_unverified / in_progress
+- カットルーム 南塚口店 (lead-7157a30986) — contact_unverified / pending
+- QBハウス あまがさきキューズモール店 (qb-fa38ccd07b) — contact_not_found / completed
+- QBハウス アマスタ アマセン店 (qb-b012724b0b) — contact_unverified / pending
+- QBハウス SOCOLA塚口クロス店 (qb-socola-3f613649a1) — contact_unverified / pending
+- イレブンカット つかしん店 (lead-356e6e83c5) — contact_unverified / pending
+- イレブンカット あまがさきキューズモール店 (lead-382cd0575b) — contact_unverified / pending
+- MAMA'S 尼崎店 (mama-s-a03104eb78) — contact_unverified / pending
+- nailsalon linne (nailsalon-linne-72bfa28645) — contact_unverified / pending
+- private nail salon moi mignon (private-nail-salon-moi-migno-bbc10fd5c9) — contact_unverified / pending
+- at Nail (at-nail-bdd278862a) — contact_unverified / pending
+- syuri nail (syuri-nail-0cca484ea2) — contact_unverified / pending
+- Bell Flower (bell-flower-e776d1b944) — contact_unverified / pending
+- belltiffy (belltiffy-8437c406ee) — contact_not_found / completed
+- RiRe (rire-1dcb7465e2) — contact_unverified / pending
+- alma (alma-e8c7eafe10) — contact_unverified / pending
+- 587nail (587nail-6c080fdd2d) — contact_unverified / pending
+- nail salon neige (nail-salon-neige-51a2a99f3f) — contact_unverified / pending
+- RIN HOMEnail (rin-homenail-c831454767) — contact_unverified / pending
+- nailroom Lumion (nailroom-lumion-7279557a36) — contact_unverified / pending
+- nail snowjewel (nail-snowjewel-d3029e905e) — contact_unverified / pending
+- Sunny Flower Nail (sunny-flower-nail-f05e0373e6) — contact_unverified / pending
+- space ZERO (space-zero-80454d1d4e) — contact_unverified / pending
+- Sakohana Hair&Beauty (sakohana-hair-beauty-b294482012) — contact_unverified / pending
+- nail salon amiable (nail-salon-amiable-ea33d04e69) — contact_unverified / pending
+- RIBBIT (ribbit-ee18ea4c55) — contact_unverified / pending
+- kyou_nail (kyou-nail-f7f228e12c) — contact_unverified / pending
+- loa nail and ... (loa-nail-and-e5f64db947) — contact_unverified / pending
+- Salon de Lunoa (salon-de-lunoa-8ca605da7d) — contact_unverified / pending
+- nailsalon CIEL (nailsalon-ciel-f2f06831b9) — contact_unverified / pending
+- ailes nail. (ailes-nail-a9efd74f62) — contact_unverified / pending
+- amthe (amthe-18bd2e906a) — contact_unverified / pending
+- Jade nail (jade-nail-d125bc619d) — contact_unverified / pending
+- Nail stand maani (nail-stand-maani-709458dacd) — contact_unverified / pending
+- Msis nail＆eyelash salon 塚口店 (msis-nail-eyelash-salon-0e610e0860) — contact_unverified / pending
+- mimi nail (mimi-nail-21ba368cff) — contact_unverified / pending
+- NOAH. (noah-cb88149913) — contact_unverified / pending
+- Le'a nail (le-a-nail-34c3263f02) — contact_unverified / pending
+- chipinail 尼崎 (chipinail-ccd436601f) — contact_unverified / pending
+- Meme Moi eye/nail salon (meme-moi-eye-nail-salon-5ab7cb4a54) — contact_unverified / pending
+- Private Nail Salon Re:NoA (private-nail-salon-re-noa-5c1c8a8b80) — contact_unverified / pending
+- Salon de Crescent (salon-de-crescent-6390f9bd16) — contact_unverified / pending
+- Nail＆Shaving Petit Pas (nail-shaving-petit-pas-ed1968b729) — contact_unverified / pending
+- PePe.nail-eyelash (pepe-nail-eyelash-0b1379d764) — contact_unverified / pending
+- Uru Pie (uru-pie-05cd670dfe) — contact_unverified / pending
+- nailsalon MIRA (nailsalon-mira-8134ce791a) — contact_unverified / pending
+- nine nail (nine-nail-c312b4e9c0) — contact_unverified / pending
+- ulea (ulea-5b4e3af162) — contact_unverified / pending
+- Cherie By.Laslight (cherie-by-laslight-7198f0fbae) — contact_unverified / pending
+- ネイル&リラクゼーションサロンcharme (charme-3c9ec064e3) — contact_unverified / pending
+- Tiary nail (tiary-nail-94d74f23ce) — contact_unverified / pending
+- Calm nail (calm-nail-2b698ad12d) — contact_unverified / pending
+- nail salon +me (nail-salon-me-9f99e65826) — contact_unverified / pending
+- Nail salon Ailus (nail-salon-ailus-72401e1256) — contact_unverified / pending
+- MIIN by lands (miin-by-lands-a983c5df2d) — contact_unverified / pending
+- Eye Beauty Salon Sylph Briller (eye-beauty-salon-sylph-brill-8f78ecc3d8) — contact_unverified / pending
+- eyelash salon Fofo (eyelash-salon-fofo-90532773f9) — contact_unverified / pending
+- Amitie (amitie-919c3afe0b) — contact_unverified / pending
+- MIST EYELASH (mist-eyelash-179b37f4ea) — contact_unverified / pending
+- and A. (and-a-2671bc4f33) — contact_unverified / pending
+- cachette... (cachette-88389b9e28) — contact_unverified / pending
+- eyelash salon Andante (eyelash-salon-andante-dbfa5740c2) — contact_unverified / pending
+- SSIN STUDIO 塚口店 (ssin-studio-0e9048a00d) — contact_unverified / pending
+- Frillnature 尼崎塚口店 (frillnature-cb735d9a2f) — contact_unverified / pending
+- belta di Dolce 立花店 (belta-di-dolce-1fdf272209) — contact_unverified / pending
+- オトナチック (lead-d09bb65b06) — contact_unverified / pending
+- moana by LOPI 尼崎 (moana-by-lopi-c272571593) — contact_unverified / pending
+- AULII by lands (aulii-by-lands-706c09a72b) — contact_unverified / pending
+- BIGOUDI salon mukonosou（ビグディーサロン） (bigoudi-salon-mukonosou-748ce7dfa0) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- LAURA（ラウラ） (laura-c0004229ec) — contact_unverified / pending
+- nico塚口（ニコ） (nico-2530a46054) — contact_unverified / pending
+- KOS HAIR（コス） (kos-hair-01e82eb754) — contact_unverified / pending
+- VII hair.fashion.bar（ヴィー） (vii-hair-fashion-bar-1492786041) — contact_unverified / pending
+- wal.（ワル） (wal-9854df324f) — contact_unverified / pending
+- hair garage KAWANISHI（ヘアーガレージ カワニシ） (hair-garage-kawanishi-18aac9802c) — contact_unverified / access_limited
+- mar-blue（マーブルー） (mar-blue-717cb35ec7) — contact_unverified / pending
+- COCOXIA（ココシア） (cocoxia-03f056f1d1) — contact_unverified / pending
+- niella（ニエラ） (niella-b186f414b8) — contact_unverified / pending
+- Couleur（クルール） (couleur-b2c37ff600) — contact_unverified / pending
+- HAIR&BEAUTY LoKaHi（ロカヒ） (hair-beauty-lokahi-6d1c97950a) — 確認済みの文章窓口が送信不可。別窓口を要確認
+- Gran mile hair（グランマイルヘアー） (gran-mile-hair-ec65645bb6) — contact_unverified / pending
+- OLD CUT CLUB（オールドカットクラブ） (old-cut-club-2e0afea531) — contact_unverified / pending
+- THE Jolly You（ザ ジョリーユー） (the-jolly-you-8a04d5c399) — contact_unverified / pending
+- if. 塚口（イフ） (if-5a25631ba7) — contact_unverified / pending
+- JAM（ジャム） (jam-c8adad78dd) — contact_unverified / pending
+- Un pitto（アンピット） (un-pitto-036119b0f4) — contact_unverified / pending
+- Zinnia（ジニア） (zinnia-ccb19e1354) — contact_unverified / pending
+- リトルウィング（Little Wing） (little-wing-9b2632c559) — contact_unverified / pending
+- レリィ 塚口（lelie） (lelie-3574f3e794) — contact_unverified / pending
+- シュシュ（chou-chou） (chou-chou-6c2cfdb6f1) — contact_unverified / pending
+- hair atelier days.（ヘアーアトリエデイズ） (hair-atelier-days-1db5dd2510) — contact_unverified / pending
+- ALLES ATELIER（アレスアトリエ） (alles-atelier-784f2f8461) — contact_unverified / pending
+- ATHREE（アスリー） (athree-4b91d01a2f) — contact_unverified / pending
+- La fith hair elua 武庫之荘店 (la-fith-hair-elua-d1546f986f) — contact_unverified / pending
+- 2nd HOUSE (2nd-house-d6dcedb102) — contact_unverified / pending
+- kafuu (kafuu-8827db70b9) — contact_unverified / pending
+- ALLEN hair 武庫之荘店 (allen-hair-da98003bb9) — contact_unverified / pending
+- Cuore（クオーレ） (cuore-b643a85434) — contact_unverified / pending
+- hair salon SOL (hair-salon-sol-51b0a7e506) — contact_unverified / pending
+- URBANO（ウルバーノ） (urbano-59274e23dd) — contact_unverified / pending
+- uru 髪質改善する白髪染め専門店 塚口店 (uru-7b5eb5c6ba) — contact_unverified / pending
+- Hair Parks (hair-parks-feb507041a) — contact_unverified / pending
+- Stella.（ステラ） (stella-5c3c05f4b1) — contact_unverified / pending
+- hair salon Uju (hair-salon-uju-a2d4cce488) — contact_unverified / pending
+- A.I.B. hair (a-i-b-hair-961f35a49f) — contact_unverified / pending
+- makana (makana-a73cb4d196) — contact_unverified / pending
+- friends (friends-42133abc25) — contact_unverified / pending
+- ROOMS つかしん店 (rooms-eb00c6b187) — contact_unverified / pending
+- The Light (the-light-1e1d2998c7) — contact_unverified / pending
+- MILE. 武庫之荘 (mile-c5958161d6) — contact_unverified / pending
+- ARDDIA Hair Foundation (arddia-hair-foundation-6ce5af1c1f) — contact_unverified / pending
+- Chou chou hair salon (chou-chou-hair-salon-9ab6dc1681) — contact_unverified / pending
+- Salon Queue (salon-queue-7e38d2f223) — contact_unverified / pending
+- BARBER SHATORE 立花店 (barber-shatore-dd8701918c) — contact_unverified / pending
+- 髪質改善&トリートメント over hair 尼崎店 (over-hair-433fded968) — contact_unverified / pending
+- Y's HAIR（ワイズヘアー） (y-s-hair-ccf2f2843e) — contact_unverified / pending
+- 美容室トム (lead-ec521db4e3) — contact_unverified / pending
+- MADOCA美容室 (madoca-2b9151fe2a) — contact_unverified / pending
+- LiL'塚口 (lil-49938ebcbc) — contact_unverified / pending
+- アイラッシュサロン Laule'a (laule-a-40b5824632) — contact_unverified / pending
+- アズヘアー・アイビス (lead-2fcee0bb15) — contact_unverified / pending
+- hairroom輝 (hairroom-67a400a330) — contact_unverified / pending
+- まつ毛とまゆ毛の専門店 Piece (piece-1cc9631067) — contact_unverified / pending
+- Coumi Beauty Hair Design (coumi-beauty-hair-design-b8fc11c90b) — contact_unverified / pending
+- Rouge美容室 (rouge-b2d3ecf229) — contact_unverified / pending
+- ローダンセ・フミ美容室 (lead-db940bb23d) — contact_unverified / pending
+- grateful (grateful-d25b0b4678) — contact_unverified / pending
+- Le.Bien.Ciel (le-bien-ciel-80f39b141a) — contact_unverified / pending
+- reaf (reaf-d1db7408f1) — contact_unverified / pending
+- シルキーヘアー美容室 (lead-8175930340) — contact_unverified / pending
+- For evolve (for-evolve-7885f30a4f) — contact_unverified / pending
+- La Chic (la-chic-88298dda09) — contact_unverified / pending
+- ピージェートゥー (lead-339a6b4d0e) — contact_unverified / pending
+- eat (eat-fad3199e2c) — contact_unverified / pending
+- ダイス(DaiCe) (daice-0cc8dbbea6) — contact_unverified / pending
+- ヘアーサロンMIYA (miya-41f0182537) — contact_unverified / pending
+- エッツ理髪 (lead-a9b635116c) — contact_unverified / pending
+- ヘアーサロン マツダ (lead-db943392d3) — contact_unverified / pending
+- フォレスタ (lead-1ce2fb9d13) — contact_unverified / pending
+- ハヤセ発毛倶楽部 (lead-abdf6875ee) — contact_unverified / pending
+- アトリエA・S・A・P. (a-s-a-p-2429dc15ff) — contact_unverified / pending
+- 妙星美容室 (lead-a9bec827ec) — contact_unverified / pending
+- ANNON【アンノン】 (annon-fce4265341) — contact_unverified / pending
+- フリーダム (lead-5a549f45b0) — contact_unverified / pending
+- トーマス美容室 (lead-14daf8e641) — contact_unverified / pending
+- Sin-Sia HAIR 塚口店 (sin-sia-hair-a7a6ae48df) — contact_unverified / pending
+- SIN-SIA HAIR 武庫之荘店 (sin-sia-hair-c4782fbea6) — contact_unverified / pending
+- ビューティーサロンまつもと (lead-2e7ec4cc79) — contact_unverified / pending
+- hairs bijou（ビジュー） (hairs-bijou-825664db57) — contact_unverified / pending
+- ヘアースタジオ・アズ (lead-bab83e7c07) — contact_unverified / pending
+- 田中美容室 (lead-73918aeaed) — contact_unverified / pending
+- ヘアークリップ (lead-ebba1c091c) — contact_unverified / pending
+- ジュノ美容室 塚口さんさんタウン店 (lead-a78797566e) — contact_unverified / pending
+- ポピ美容室 (lead-868bd96016) — contact_unverified / pending
+- 希蝶夢美容室 (lead-a6b4dce981) — contact_unverified / pending
+- 亜樹ビューティサロン (lead-0559085f14) — contact_unverified / pending
+- カットクラブK・T (k-t-a072575208) — contact_unverified / pending
+- ビューティーサロン・ファイブ (lead-082c2be0aa) — contact_unverified / pending
+- スリー美容室 (lead-6123fe6578) — contact_unverified / pending
+- CIEL FOR HAIR (ciel-for-hair-3c51b45808) — contact_unverified / pending
+- クリップバイトーク (lead-292876d3a0) — contact_unverified / pending
+- art-ifact (art-ifact-42c0027c36) — contact_unverified / pending
+- HAIRCOLORCAFE武庫之荘 (haircolorcafe-df2f643b7b) — contact_unverified / pending
+- ボニータ(BONITA) (bonita-bad4ef2c5c) — contact_unverified / pending
+- calidad (calidad-ff941f4825) — contact_unverified / pending
+- Ricott 武庫之荘店 (ricott-90c961b62a) — contact_unverified / pending
+- ルーナロッサ(Luna Rossa) (luna-rossa-345c539794) — contact_unverified / pending
+- アンダンテ (lead-75fba8f045) — contact_unverified / pending
+- 美容室i(アイ)立花店 (i-4e8afa10f3) — contact_unverified / access_limited
+- HAIR COLOR CAFE 塚口店 (hair-color-cafe-b0ce904336) — contact_unverified / access_limited
+- Le JARDIN 塚口店 (le-jardin-119dff9217) — contact_unverified / access_limited
+- アンクラージュ (lead-611ce53907) — contact_unverified / pending
+- ヘアーメイクPJII (pjii-ff0630ddcb) — contact_unverified / pending
+- BEAUTY SPACE MTB (beauty-space-mtb-2451f4dd93) — contact_unverified / access_limited
+- MODE K's 塚口店 (mode-k-s-226d22adaf) — contact_unverified / pending
+- chill out 塚口本町店 (chill-out-96fbbf440a) — contact_unverified / pending
+- hairs BERRY 武庫之荘店 (hairs-berry-c6650faf34) — contact_not_found / completed
+- Tiara (tiara-a5b8b45b9e) — contact_unverified / pending
+- Amicarina (amicarina-1a283b4f1c) — contact_unverified / pending
+- SHINY HAIR DaiCe (shiny-hair-daice-9beec78bbc) — contact_unverified / pending
+- トシエステ (lead-83f1364627) — contact_unverified / pending
+- リラクゼーション カサブランカ (lead-099e909ca5) — contact_unverified / pending
+- YOSA PARK le ciel (yosa-park-le-ciel-dc89c412b9) — contact_unverified / pending

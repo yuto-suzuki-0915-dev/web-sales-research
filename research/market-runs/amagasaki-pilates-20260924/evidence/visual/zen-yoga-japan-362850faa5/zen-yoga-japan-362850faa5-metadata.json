@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "zen-yoga-japan-362850faa5",
+  "page_type": "top",
+  "page_url": "https://zenyogajpn.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:13:41.813Z",
+  "desktop": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\zen-yoga-japan-362850faa5\\zen-yoga-japan-362850faa5-top-desktop.png",
+    "error": "[18464:37192:0925/051249.306:ERROR:components\\edge_smartscreen\\browser\\smartscreen_dns_resolver.cc:109] SmartScreenDnsResolver::OnComplete Error: -105 DidTimeOut: 0 URL: https://zenyogajpn.com/\r\n[18464:37192:0925/051249.630:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n40233 bytes written to file C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\zen-yoga-japan-362850faa5\\zen-yoga-japan-362850faa5-top-desktop.png\r\n"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\zen-yoga-japan-362850faa5\\zen-yoga-japan-362850faa5-top-mobile.png"
+  },
+  "visual_status": "unverified"
+}

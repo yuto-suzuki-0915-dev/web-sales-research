@@ -1,0 +1,248 @@
+[
+ {
+  "lead_id": "lead-e1befa5263",
+  "name": "La Vaughn（ラ・ヴォーン）",
+  "aliases": [
+   "La Vaughn",
+   "ラ・ヴォーン"
+  ],
+  "address": "尼崎市武庫之荘（阪急武庫之荘駅北口徒歩8分）",
+  "industry": "リラクゼーション",
+  "website_presence": "confirmed",
+  "website_url": "https://saigonotoride.jp/",
+  "priority": "medium",
+  "sources": [
+   "https://saigonotoride.jp/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "blanc-44e397a6f2",
+  "name": "Eyelash Salon Blanc つかしん前店",
+  "aliases": [
+   "ブラン つかしん前",
+   "Blanc つかしん前"
+  ],
+  "address": "兵庫県尼崎市塚口本町3-32-20 ロイヤルハイツつかしん1F",
+  "industry": "まつげエクステサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://www.blanc-lash.com/tsukashin/",
+  "priority": "low",
+  "sources": [
+   "https://www.blanc-lash.com/tsukashin/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6423-9991"
+   },
+   {
+    "type": "official_line",
+    "value": "@blanc-tsukashin"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "@blanc_tsukashin"
+   },
+   {
+    "type": "official_line",
+    "value": "https://line.naver.jp/ti/p/%40blanc-tsukashin"
+   },
+   {
+    "type": "instagram_dm",
+    "value": "https://www.instagram.com/blanc_tsukashin/"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "taya-f20c21f7e3",
+  "name": "TAYA 尼崎店",
+  "aliases": [
+   "TAYA",
+   "TAYA Amagasaki",
+   "TAYA JR尼崎店"
+  ],
+  "address": "尼崎市（JR尼崎駅徒歩4分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://tayanet.jp/salon/0209/",
+  "priority": "low",
+  "sources": [
+   "https://tayanet.jp/salon/0209/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-4960-7308"
+   },
+   {
+    "type": "official_line",
+    "value": "http://accountpage.line.me/taya209"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "nice-nail-0246917162",
+  "name": "NICE NAIL 尼崎駅前店",
+  "aliases": [
+   "ナイスネイル 尼崎駅前店",
+   "ナイスネイル尼崎",
+   "NICENAIL Amagasaki Station Store"
+  ],
+  "address": "尼崎市（JR尼崎駅徒歩2分）",
+  "industry": "ネイルサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://www.nice-nail.com/salon/kansai/amagasaki/",
+  "priority": "low",
+  "sources": [
+   "https://www.nice-nail.com/salon/kansai/amagasaki/",
+   "https://beauty.hotpepper.jp/kr/slnH000251724/",
+   "https://nice-nail.com/salon/kansai/amagasaki"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6493-1234"
+   },
+   {
+    "type": "official_line",
+    "value": "公式LINE"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "roger-coiffure-f645c828a3",
+  "name": "ROGER COIFFURE",
+  "aliases": [
+   "ロジェコワフュール"
+  ],
+  "address": "尼崎市（杭瀬駅徒歩8分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.plage-bb.co.jp/beauty/store/11161",
+   "https://beauty.hotpepper.jp/slnH000606784/",
+   "https://mapfan.com/genres/450/28/202/SCH,J,6UR"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "nillu-a97bba5a3c",
+  "name": "NILLU 阪急塚口店",
+  "aliases": [
+   "NILLU",
+   "ニル",
+   "NILLU 阪急塚口店【ニル】"
+  ],
+  "address": "兵庫県尼崎市塚口町1-13-8 サウザンド塚口103",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/slnH000559873/",
+   "https://amagasaki.mypl.net/shop/00000367520/",
+   "https://beauty.rakuten.co.jp/s2000049659/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "ciao-aba21ce579",
+  "name": "Ciao（チャオ）",
+  "aliases": [
+   "美容室 Ciao",
+   "チャオ",
+   "Ciao"
+  ],
+  "address": "兵庫県尼崎市南塚口町6丁目10-25",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://ciao-hair.com/",
+  "priority": "medium",
+  "sources": [
+   "http://ciao-hair.com/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "pure-blue-nail-25b69032f7",
+  "name": "PURE BLUE NAIL",
+  "aliases": [
+   "ピュアブルーネイル"
+  ],
+  "address": "兵庫県尼崎市若王寺2-2-12",
+  "industry": "ネイルサロン(プライベート)",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "high",
+  "sources": [
+   "https://www.instagram.com/pureblue_nail/"
+  ],
+  "known_channels": [
+   {
+    "type": "instagram_dm",
+    "value": "@pureblue_nail"
+   },
+   {
+    "type": "official_line",
+    "value": "https://lin.ee/iWUiPK0"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "la-fith-hair-home-jr-660f5712d7",
+  "name": "La fith hair Home JR尼崎店",
+  "aliases": [
+   "ラフィス ヘアー ホーム",
+   "髪質改善&トリートメント over hair 尼崎店",
+   "ラフィス ヘアー ホーム JR尼崎店"
+  ],
+  "address": "兵庫県尼崎市潮江1-4-1 2F",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://lafith.com/la-fith-hair-home-amagasaki/",
+  "priority": "low",
+  "sources": [
+   "https://lafith.com/la-fith-hair-home-amagasaki/",
+   "https://beauty.hotpepper.jp/slnH000650544/",
+   "https://beauty.hotpepper.jp/slnH000382497/",
+   "https://search.yahoo.co.jp/search?p=尼崎市+大庄+美容室"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6415-9811"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lil-d93573ffc3",
+  "name": "LiL'阪神尼崎【リル】",
+  "aliases": [
+   "LiL 阪神尼崎",
+   "リル"
+  ],
+  "address": "尼崎市（阪神尼崎駅徒歩1〜2分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/keyword/阪神尼崎",
+   "https://www.ekiten.jp/g0201/st0348/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

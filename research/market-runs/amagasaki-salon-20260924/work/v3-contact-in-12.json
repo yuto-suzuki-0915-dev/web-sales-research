@@ -1,0 +1,160 @@
+[
+ {
+  "lead_id": "hair-space-bloom-hero-85eeb044ab",
+  "name": "HAIR SPACE BLOOM hero 園田店",
+  "aliases": [
+   "ヘアースペースブルーム ヒーロー",
+   "ブルームヒーロー"
+  ],
+  "address": "尼崎市（園田駅徒歩30秒〜1分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/keyword/尼崎 東園田 美容院/",
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-7224bc529a",
+  "name": "アイ・メイル",
+  "aliases": [],
+  "address": "兵庫県尼崎市東園田町3丁目30-13",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-12f0683b9f",
+  "name": "アイリー美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市立花町1丁目16-14",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-75accd20fa",
+  "name": "アキュール",
+  "aliases": [],
+  "address": "兵庫県尼崎市立花町2丁目1-15",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-5f10484ce4",
+  "name": "アスクスヘアー",
+  "aliases": [],
+  "address": "兵庫県尼崎市武庫之荘1丁目32-6",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-e51d9102ad",
+  "name": "アトリエエヌ",
+  "aliases": [],
+  "address": "兵庫県尼崎市西立花町1丁目15-9",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "atelier-grow-862d21baae",
+  "name": "Atelier Grow",
+  "aliases": [
+   "アトリエグロウ"
+  ],
+  "address": "兵庫県尼崎市武庫元町2丁目13-1",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-cb5af7932d",
+  "name": "アトリエヨネダ",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口町3丁目38-3",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-cf84a04d13",
+  "name": "アニスト",
+  "aliases": [],
+  "address": "兵庫県尼崎市長洲本通2丁目1-18",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "annex-4786de9157",
+  "name": "ANNEX",
+  "aliases": [
+   "アネックス"
+  ],
+  "address": "兵庫県尼崎市神田南通3丁目63",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

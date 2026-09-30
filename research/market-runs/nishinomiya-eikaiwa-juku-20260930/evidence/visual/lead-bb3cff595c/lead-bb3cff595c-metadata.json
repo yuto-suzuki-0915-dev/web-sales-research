@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-bb3cff595c",
+  "page_type": "top",
+  "page_url": "https://learnmate.me/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:42:02.446Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-bb3cff595c\\lead-bb3cff595c-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-bb3cff595c\\lead-bb3cff595c-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

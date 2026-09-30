@@ -1,0 +1,183 @@
+[
+ {
+  "lead_id": "lead-a10ee41734",
+  "name": "美容室かんしゃ",
+  "aliases": [
+   "kansha"
+  ],
+  "address": "尼崎市武庫之荘",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "http://www.eonet.ne.jp/~kansha/",
+  "priority": "high",
+  "sources": [
+   "http://www.eonet.ne.jp/~kansha/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "oro-59c38e42a9",
+  "name": "ORO 武庫之荘店",
+  "aliases": [
+   "ORO(オーロ)",
+   "ORO"
+  ],
+  "address": "尼崎市（阪急武庫之荘駅徒歩4分）",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://www.oro-beauty.jp/salon_mukonoso",
+  "priority": "medium",
+  "sources": [
+   "https://www.oro-beauty.jp/salon_mukonoso",
+   "https://beauty.hotpepper.jp/svcSB/stc3240876/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "mool-hair-24a489be9f",
+  "name": "MOOL hair 武庫之荘店",
+  "aliases": [
+   "MooL hair",
+   "MooL hair武庫之荘店【モールヘア】"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1-21-2 リュクスド武庫之荘B1",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/",
+   "https://www.beauty-park.jp/shop/576225/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-27310b10fc",
+  "name": "ヘアーサロン ア・レーズ",
+  "aliases": [
+   "a-laise"
+  ],
+  "address": "尼崎市武庫之荘",
+  "industry": "理容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.mukonoso.shop/page/a-laise"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-3844f0d1f7",
+  "name": "ヘアーズベリー 塚口店",
+  "aliases": [
+   "Hairs BERRY 塚口"
+  ],
+  "address": "尼崎市塚口",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://hairs-berry.com/salon/tsukaguchi/",
+  "priority": "low",
+  "sources": [
+   "https://hairs-berry.com/salon/tsukaguchi/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lead-30bf668fac",
+  "name": "理髪館 尼崎店",
+  "aliases": [
+   "株式会社マツモト 塚口店",
+   "美粧館・理髪館 尼崎店",
+   "株式会社マツモト"
+  ],
+  "address": "兵庫県尼崎市神田中通4-163",
+  "industry": "理容室",
+  "website_presence": "confirmed",
+  "website_url": "https://www.matsu-moto.com/s-barber/",
+  "priority": "low",
+  "sources": [
+   "https://www.matsu-moto.com/s-salon/",
+   "https://www.matsu-moto.com/s-barber/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-b2d4a3f9b3",
+  "name": "モンステラ塚口店",
+  "aliases": [
+   "Monstera"
+  ],
+  "address": "尼崎市塚口（阪急塚口駅徒歩7分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/g0201/st5353/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "soin-de-brace-ddde0338c8",
+  "name": "soin de brace 立花店",
+  "aliases": [
+   "soin de brace elne 立花店"
+  ],
+  "address": "尼崎市（JR立花駅徒歩1〜2分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3240876/",
+   "https://beauty.rakuten.co.jp/s2000048895/",
+   "https://search.yahoo.co.jp/search?p=尼崎市+立花町+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "fufu-6aa987d9c0",
+  "name": "ヘアカラー専門店fufu 立花店",
+  "aliases": [
+   "fufu"
+  ],
+  "address": "兵庫県尼崎市立花町1-4-15 成光ビル2階",
+  "industry": "美容室・ヘアカラー専門店",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://epark.jp/shopinfo/rtb658263/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "blanket-56a8a17427",
+  "name": "blanket 園田",
+  "aliases": [
+   "ブランケット",
+   "blanket"
+  ],
+  "address": "尼崎市園田",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://r.goope.jp/blanket-hair/",
+  "priority": "high",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s3000051216/",
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ }
+]

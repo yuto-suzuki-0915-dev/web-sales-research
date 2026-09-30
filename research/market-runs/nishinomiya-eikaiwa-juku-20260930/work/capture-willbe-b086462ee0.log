@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "willbe-b086462ee0",
+  "page_type": "top",
+  "page_url": "https://www.willbe-inc.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:50:39.726Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\willbe-b086462ee0\\willbe-b086462ee0-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\willbe-b086462ee0\\willbe-b086462ee0-top-mobile.png"
+  },
+  "visual_status": "verified",
+  "metadata_path": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\willbe-b086462ee0\\willbe-b086462ee0-metadata.json"
+}

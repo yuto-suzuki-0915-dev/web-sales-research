@@ -1,0 +1,168 @@
+[
+ {
+  "lead_id": "rinda-beauty-salon-2230bce766",
+  "name": "Rinda Beauty Salon",
+  "aliases": [
+   "ブライダル痩身×脱毛 尼崎駅前サロン",
+   "リンダビューティーサロン"
+  ],
+  "address": "尼崎市",
+  "industry": "エステサロン",
+  "website_presence": "confirmed",
+  "website_url": "https://rindabeautysalon.jp/",
+  "priority": "medium",
+  "sources": [
+   "https://minimodel.jp/r/PiP3Zlp",
+   "https://rindabeautysalon.jp/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "modek-s-amagasaki-75ace1e5f1",
+  "name": "modek's Amagasaki",
+  "aliases": [
+   "モデックス尼崎"
+  ],
+  "address": "兵庫県尼崎市潮江1丁目2-6 尼崎フロントビル1F",
+  "industry": "まつげサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/g-eyelash/stc3241031/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "menoa-1b2645c848",
+  "name": "menoa(メノア)",
+  "aliases": [],
+  "address": "尼崎市（阪急塚口駅徒歩3分）",
+  "industry": "アイラッシュサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.beauty-park.jp/eyelash/hyogo/amagasaki/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-34d9bc9283",
+  "name": "ビューティーアイラッシュ つかしん店",
+  "aliases": [
+   "Beauty Eyelash つかしん店",
+   "まつげエクステ専門店 ビューティーアイラッシュ"
+  ],
+  "address": "兵庫県尼崎市塚口本町 グンゼタウンセンターつかしん2F",
+  "industry": "まつげエクステサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.tsukashin.com/shop/index.jsp?bf=1&fmt=6&shopid=1148",
+   "https://beauty.hotpepper.jp/kr/slnH000326109/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-91d1ad4d13",
+  "name": "マツコのまつげサロン 尼崎店",
+  "aliases": [],
+  "address": "尼崎市",
+  "industry": "まつげサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.beauty-park.jp/shop/463614/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "bodysh-8f22bb2ddc",
+  "name": "Bodysh(ボディッシュ) 阪急塚口駅前店",
+  "aliases": [],
+  "address": "尼崎市（阪急塚口駅前）",
+  "industry": "リラクゼーション(アロマリンパ)",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mitsuraku.jp/hyogo/amagasakishi/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "repose-831820698e",
+  "name": "リラクゼーション＆ヘッドスパ Repose",
+  "aliases": [
+   "Repose"
+  ],
+  "address": "尼崎市武庫之荘7丁目",
+  "industry": "リラクゼーション・ヘッドスパ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/relax/area2806/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-0e71bc82bf",
+  "name": "プライベートサロン ひだまり～ほぐし処～",
+  "aliases": [
+   "ひだまり ほぐし処"
+  ],
+  "address": "尼崎市（阪急塚口駅徒歩20分）",
+  "industry": "リラクゼーション(プライベート)",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mitsuraku.jp/hyogo/amagasakishi/genre/relaxation/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "yavis-nail-d138c1315c",
+  "name": "YAVIS_nail",
+  "aliases": [
+   "ヤヴィスネイル"
+  ],
+  "address": "尼崎市",
+  "industry": "ネイルサロン(完全予約制プライベート)",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://minimodel.jp/list/2/28/c12/164"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "solution-1a4a4dc9d9",
+  "name": "Solution(ソリューション)",
+  "aliases": [],
+  "address": "兵庫県尼崎市水堂町4丁目18-26",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/g0202/a28202/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

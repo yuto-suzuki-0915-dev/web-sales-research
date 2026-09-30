@@ -1,0 +1,154 @@
+[
+ {
+  "lead_id": "2-663e1fd267",
+  "name": "ヘアカラー専門店ビーマイルアミング潮江ウエスト２番館店",
+  "aliases": [],
+  "address": "尼崎市潮江（アミング潮江ウエスト2番館）",
+  "industry": "美容室（ヘアカラー専門）",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://www.ekiten.jp/g0201/st0347/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-6631479db6",
+  "name": "スマイルカラー",
+  "aliases": [],
+  "address": "尼崎市（JR尼崎駅徒歩3分）",
+  "industry": "美容室（ヘアカラー）",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3241031/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "carra-salon-8d6064e478",
+  "name": "Carra Salon",
+  "aliases": [],
+  "address": "尼崎市（JR尼崎駅2分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3241031/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-d21b508f27",
+  "name": "ぴょんぴょん",
+  "aliases": [],
+  "address": "尼崎市（JR尼崎駅徒歩5分）",
+  "industry": "理容室・美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3241031/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-48f98a9099",
+  "name": "尼崎エーサロン",
+  "aliases": [],
+  "address": "兵庫県尼崎市昭和通4-118",
+  "industry": "リラクゼーション",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://mitsuraku.jp/salon/81278/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-3cd03d3b11",
+  "name": "サロン・ドエクラ",
+  "aliases": [],
+  "address": "尼崎市昭和通",
+  "industry": "サロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_97072189/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "bambina-nail-eyelash-75d840b6fe",
+  "name": "Bambina Nail&eyelash【バンビーナ】",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩2分）",
+  "industry": "ネイル・まつげ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/genre/kgkw024/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "men-women-nail-eyebrow-salon-8648727e42",
+  "name": "MEN&WOMEN NAIL・EYEBROW Salon.Pudding【サロンドットプディング】",
+  "aliases": [
+   "Salon.Pudding"
+  ],
+  "address": "尼崎市（阪神尼崎駅徒歩3分）",
+  "industry": "ネイル・アイブロウ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/genre/kgkw024/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "mies-nails-eyelash-563406c0d5",
+  "name": "mies nails.ミィスネイルズ eyelash",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩8分）",
+  "industry": "ネイル・まつげ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/genre/kgkw024/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "nail-salon-ebliss-bbda35ca37",
+  "name": "Nail salon ebliss",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅北口徒歩5分）",
+  "industry": "ネイル",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/genre/kgkw024/stc3240968/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "jr-e2b98d2046",
+  "page_type": "top",
+  "page_url": "https://koritoru-relax.com/amagasaki/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:19:29.040Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\jr-e2b98d2046\\jr-e2b98d2046-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-salon-20260924\\evidence\\visual\\jr-e2b98d2046\\jr-e2b98d2046-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

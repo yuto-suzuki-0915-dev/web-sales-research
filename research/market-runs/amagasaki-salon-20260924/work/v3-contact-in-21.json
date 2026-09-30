@@ -1,0 +1,162 @@
+[
+ {
+  "lead_id": "lead-1034b2123d",
+  "name": "カノン",
+  "aliases": [
+   "Canon"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1丁目30-12",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_7134216/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "re-born-d155a3ede7",
+  "name": "Re・Born",
+  "aliases": [],
+  "address": "兵庫県尼崎市水堂町1-14-14",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_13083760/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "bang-doll-0447715dfa",
+  "name": "Bang-doll",
+  "aliases": [],
+  "address": "兵庫県尼崎市南塚口町",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://bangdoll.xyz/",
+  "priority": "high",
+  "sources": [
+   "https://www.ekiten.jp/shop_6045065/",
+   "https://bangdoll.xyz/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "jr-65e7a5a4a3",
+  "name": "美容サラJR立花店",
+  "aliases": [
+   "Beauty Sala JR立花"
+  ],
+  "address": "兵庫県尼崎市立花町1丁目13-3",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1075203/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "agu-hair-alegria-9d270f973f",
+  "name": "Agu hair alegria 塚口店",
+  "aliases": [],
+  "address": "尼崎市（阪急塚口駅徒歩3分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s3000050206/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "agu-hair-edel-127e924070",
+  "name": "Agu hair edel 武庫之荘店",
+  "aliases": [],
+  "address": "尼崎市（阪急武庫之荘駅徒歩5分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s3000050197/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "agu-hair-elf-jr-4b0becb5e7",
+  "name": "Agu hair elf JR立花駅前店",
+  "aliases": [],
+  "address": "尼崎市（JR立花駅徒歩1分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s4000054528/",
+   "https://beauty.hotpepper.jp/svcSB/stc3240876/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "allen-hair-dcc1415700",
+  "name": "ALLEN hair 阪神尼崎店",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩3分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s6000060750/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "yucca-elua-570806eb7d",
+  "name": "YUCCA elua 武庫之荘南口",
+  "aliases": [
+   "YUCCA elua"
+  ],
+  "address": "尼崎市（武庫之荘駅南口徒歩2分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s9000044930/",
+   "https://search.yahoo.co.jp/search?p=尼崎市+武庫之荘+美容室",
+   "https://beauty.hotpepper.jp/svcSB/stc3240946/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "yucca-ekolu-71be4cf8e5",
+  "name": "YUCCA ekolu 塚口",
+  "aliases": [],
+  "address": "尼崎市（阪急塚口駅徒歩3分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s0000045218/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

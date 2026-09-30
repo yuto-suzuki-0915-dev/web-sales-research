@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "rintosull-ed60f4dd9a",
+  "page_type": "top",
+  "page_url": "https://rintosull.jp/shop/hyogo/amagasaki/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T20:10:52.648Z",
+  "desktop": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\rintosull-ed60f4dd9a\\rintosull-ed60f4dd9a-top-desktop.png",
+    "error": "[18288:23428:0925/050956.134:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[18288:23428:0925/050957.372:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n[18288:23428:0925/050957.389:ERROR:chrome\\browser\\task_manager\\providers\\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a \"Renderer\" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.\r\n388711 bytes written to file C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\rintosull-ed60f4dd9a\\rintosull-ed60f4dd9a-top-desktop.png\r\n"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\amagasaki-pilates-20260924\\evidence\\visual\\rintosull-ed60f4dd9a\\rintosull-ed60f4dd9a-top-mobile.png"
+  },
+  "visual_status": "unverified"
+}

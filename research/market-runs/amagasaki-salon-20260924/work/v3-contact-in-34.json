@@ -1,0 +1,172 @@
+[
+ {
+  "lead_id": "mama-s-4c5a79453b",
+  "name": "MAMA'S 塚口店",
+  "aliases": [
+   "ママス塚口店"
+  ],
+  "address": "兵庫県尼崎市南塚口町2-1-2-103 2番館1F",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/beauty_salon/hyogo/28202/e3400106/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "papa-s-cec3519350",
+  "name": "PAPA'S 塚口店",
+  "aliases": [
+   "パパス塚口店"
+  ],
+  "address": "兵庫県尼崎市南塚口町2-1-2-103 2番館1F",
+  "industry": "理容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://riyou.jp/beauty_salon/hyogo/28202/e3400106/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-3cf7111c18",
+  "name": "ヘアーカットたに",
+  "aliases": [],
+  "address": "兵庫県尼崎市塚口町2丁目2-5-1F-A メゾン塚口",
+  "industry": "理容室・美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://riyou.jp/beauty_salon/hyogo/28202/e3400106/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "battery-hair-make-ce35385cdc",
+  "name": "Battery hair&make ビエラ塚口店",
+  "aliases": [
+   "Battery",
+   "BATTERY VIERRA 塚口店"
+  ],
+  "address": "〒661-0979 兵庫県尼崎市上坂部1-1-1 ビエラ塚口1階",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.rakuten.co.jp/s8000035052/",
+   "https://amagasaki.mypl.net/shop/list?s=21&area=580"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "oro-d95bed39c9",
+  "name": "ORO 塚口店【オーロ】",
+  "aliases": [
+   "ORO"
+  ],
+  "address": "尼崎市（阪急塚口駅徒歩3分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3241029/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "reuna-be9dd3410c",
+  "name": "Reuna 塚口【レウーナ】",
+  "aliases": [
+   "Reuna"
+  ],
+  "address": "尼崎市（阪急塚口駅南改札徒歩2分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3241029/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "ciron-e851f186ae",
+  "name": "Ciron【シロン】",
+  "aliases": [
+   "Ciron"
+  ],
+  "address": "尼崎市（阪急塚口駅徒歩30秒）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3241029/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "sai-87df748fe7",
+  "name": "sai【サイ】",
+  "aliases": [
+   "sai"
+  ],
+  "address": "尼崎市（阪急塚口駅徒歩5分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3241029/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "attrait-48b0686129",
+  "name": "attrait塚口",
+  "aliases": [
+   "アトレ塚口"
+  ],
+  "address": "尼崎市（阪急塚口駅徒歩3分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3241029/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "nifty-a60f022a8b",
+  "name": "Nifty【ニフティー】",
+  "aliases": [
+   "Nifty"
+  ],
+  "address": "尼崎市（阪急塚口駅北口徒歩4分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/svcSB/stc3241029/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

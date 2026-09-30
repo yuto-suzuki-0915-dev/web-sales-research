@@ -1,0 +1,212 @@
+[
+ {
+  "lead_id": "hair-room-e9ua-1a81318101",
+  "name": "hair room e9ua(ヘアルーム エクア)",
+  "aliases": [
+   "e9ua"
+  ],
+  "address": "兵庫県尼崎市東園田町5-97-2 セントラルファイブ1F",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://e9ua.com/",
+  "priority": "high",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6491-7785"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "le-jardin-8ee53a0873",
+  "name": "Le Jardin ル・ジャルダン園田店",
+  "aliases": [
+   "ル・ジャルダン",
+   "ジャルダン園田"
+  ],
+  "address": "尼崎市園田",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "http://jardin-net.com/jardin-sonoda/index.html",
+  "priority": "high",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu",
+   "http://jardin-net.com/jardin-sonoda/index.html"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6492-6890"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "lead-56a328603c",
+  "name": "ひまわり美容室",
+  "aliases": [],
+  "address": "尼崎市（阪急園田駅徒歩5分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "high",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu",
+   "https://beauty.hotpepper.jp/svcSB/stc3240945/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6491-7155"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "cut-color-lunlun-add7d20329",
+  "name": "HAIRS NJ MEN 園田店",
+  "aliases": [
+   "LUNLUN"
+  ],
+  "address": "兵庫県尼崎市東園田町9-48-1 園田阪急プラザ2F",
+  "industry": "美容室(メンズ)",
+  "website_presence": "confirmed",
+  "website_url": "http://www.hairs-nj.com/",
+  "priority": "low",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-4960-1138"
+   },
+   {
+    "type": "phone",
+    "value": "06-4960-1138"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "style-in-balance-b8db49d17b",
+  "name": "Style in Balance",
+  "aliases": [
+   "スタイルインバランス"
+  ],
+  "address": "兵庫県尼崎市東園田町9-18-1 1・2F",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6494-7774"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-space-bloom-hero-2692576a57",
+  "name": "HAIR SPACE BLOOM hero(ヘアースペースブルーム ヒーロー)",
+  "aliases": [
+   "BLOOM hero"
+  ],
+  "address": "兵庫県尼崎市東園田町4-92-3",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "http://www.bloom1995.com/hero.html",
+  "priority": "medium",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-6493-2258"
+   }
+  ],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hakm-279cd1dbb4",
+  "name": "HAKM(ハクム)",
+  "aliases": [],
+  "address": "兵庫県尼崎市東園田町5-111-5 松本運送ビル3F",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://sonodatown.wixsite.com/sonoda-town/biyou-riyoubiyousitu"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lee-3894a0c18a",
+  "name": "Lee尼崎店",
+  "aliases": [
+   "Hair&Make Lee Amagasaki",
+   "Lee(リー)尼崎",
+   "Hair&Make Lee尼崎店"
+  ],
+  "address": "兵庫県尼崎市昭和南通3-26 松本ビル1F",
+  "industry": "美容室",
+  "website_presence": "confirmed",
+  "website_url": "https://hair-lee.com/hair_salon/lee-amagasaki/",
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202/SCH,J,6UR",
+   "https://hair-lee.com/hair_salon/lee-amagasaki/"
+  ],
+  "known_channels": [
+   {
+    "type": "phone",
+    "value": "06-4869-7075"
+   }
+  ],
+  "has_visual": true
+ },
+ {
+  "lead_id": "agu-hair-bliss-92db0094e3",
+  "name": "Agu hair bliss 阪神尼崎駅前店",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩1分）",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202",
+   "https://beauty.rakuten.co.jp/s4000054526/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-make-dizzy-d82f77d426",
+  "name": "Hair Make Dizzy",
+  "aliases": [
+   "ヘアメイクディジー"
+  ],
+  "address": "兵庫県尼崎市神田中通3丁目30",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202/SCH,J,6UR"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-c339ec6c0f",
+  "page_type": "top",
+  "page_url": "https://kitaguchi-juku.com/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T07:40:33.020Z",
+  "desktop": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-c339ec6c0f\\lead-c339ec6c0f-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\web-sales-research\\research\\market-runs\\nishinomiya-eikaiwa-juku-20260930\\evidence\\visual\\lead-c339ec6c0f\\lead-c339ec6c0f-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

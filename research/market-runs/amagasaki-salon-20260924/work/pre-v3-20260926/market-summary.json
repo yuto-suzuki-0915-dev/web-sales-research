@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "run_id": "amagasaki-salon-20260924",
+  "region": "尼崎市",
+  "industry": "美容室・サロン",
+  "generated_at": "2026-09-25T06:22:19.768Z",
+  "discovery": {
+    "observed_unique_businesses": 404,
+    "merged_duplicates": 26,
+    "stop_reason": "technical_limit",
+    "basic_discovery_completed": true,
+    "saturated": false
+  },
+  "website_presence": {
+    "confirmed": 82,
+    "unconfirmed": 322,
+    "confirmed_no_site": 0
+  },
+  "renewal_opportunity": {
+    "large": 18,
+    "medium": 27,
+    "small": 18,
+    "undetermined": 19,
+    "not_applicable": 322
+  },
+  "lead_status": {
+    "candidate": 402,
+    "excluded": 2,
+    "recheck": 0
+  },
+  "candidates": {
+    "total": 402,
+    "priority": {
+      "high": 22,
+      "medium": 245,
+      "low": 135
+    },
+    "text_outreach_available": 31,
+    "text_outreach_unavailable": 371,
+    "personalization_missing": 17,
+    "outreach_generated": 385,
+    "outreach_reviewed": 385
+  }
+}

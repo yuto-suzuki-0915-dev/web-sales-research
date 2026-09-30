@@ -1,0 +1,9 @@
+{"route_id":"web-01","route_type":"web","phase":"basic","status":"completed","query_or_condition":null,"source":null,"discovered_raw":0,"new_unique_count":13,"executed_at":"2026-09-24T03:02:58.755Z"}
+{"route_id":"map-01","route_type":"map","phase":"basic","status":"completed","query_or_condition":null,"source":null,"discovered_raw":0,"new_unique_count":2,"executed_at":"2026-09-24T03:02:58.872Z"}
+{"route_id":"industry-media-01","route_type":"industry_media","phase":"basic","status":"completed","query_or_condition":null,"source":null,"discovered_raw":0,"new_unique_count":3,"executed_at":"2026-09-24T03:19:02.671Z"}
+{"route_id":"region-variant-01","route_type":"region_variant","phase":"basic","status":"completed","query_or_condition":null,"source":null,"discovered_raw":0,"new_unique_count":5,"executed_at":"2026-09-24T03:19:03.024Z"}
+{"route_id":"station-area-01","route_type":"station_area","phase":"basic","status":"completed","query_or_condition":null,"source":null,"discovered_raw":0,"new_unique_count":2,"executed_at":"2026-09-24T03:19:03.389Z"}
+{"route_id":"industry-synonym-01","route_type":"industry_synonym","phase":"basic","status":"completed","query_or_condition":null,"source":null,"discovered_raw":0,"new_unique_count":3,"executed_at":"2026-09-24T03:19:03.711Z"}
+{"route_id":"additional-sns-01","route_type":"sns","phase":"additional","status":"completed","query_or_condition":null,"source":null,"discovered_raw":0,"new_unique_count":0,"executed_at":"2026-09-24T03:22:09.553Z"}
+{"route_id":"additional-adjacent-01","route_type":"adjacent_business","phase":"additional","status":"completed","query_or_condition":null,"source":null,"discovered_raw":0,"new_unique_count":2,"executed_at":"2026-09-24T03:22:09.914Z"}
+{"route_id":"additional-community-01","route_type":"community","phase":"additional","status":"completed","query_or_condition":null,"source":null,"discovered_raw":0,"new_unique_count":0,"executed_at":"2026-09-24T03:22:10.333Z"}

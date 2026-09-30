@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "run_id": "amagasaki-pilates-20260924",
+  "region": "尼崎市",
+  "industry": "ピラティススタジオ",
+  "generated_at": "2026-09-25T01:54:20.365Z",
+  "discovery": {
+    "observed_unique_businesses": 43,
+    "merged_duplicates": 11,
+    "stop_reason": "technical_limit",
+    "basic_discovery_completed": true,
+    "saturated": false
+  },
+  "website_presence": {
+    "confirmed": 33,
+    "unconfirmed": 10,
+    "confirmed_no_site": 0
+  },
+  "renewal_opportunity": {
+    "large": 4,
+    "medium": 11,
+    "small": 6,
+    "undetermined": 12,
+    "not_applicable": 10
+  },
+  "lead_status": {
+    "candidate": 41,
+    "excluded": 2,
+    "recheck": 0
+  },
+  "candidates": {
+    "total": 41,
+    "priority": {
+      "high": 5,
+      "medium": 21,
+      "low": 15
+    },
+    "text_outreach_available": 27,
+    "text_outreach_unavailable": 14,
+    "personalization_missing": 2,
+    "outreach_generated": 39,
+    "outreach_reviewed": 39
+  }
+}

@@ -1,0 +1,162 @@
+[
+ {
+  "lead_id": "settle-e02745fb5e",
+  "name": "Settle",
+  "aliases": [],
+  "address": "尼崎市（JR尼崎駅から380m）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6992927/",
+   "https://www.ekiten.jp/g0201/st0347/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lococo-organics-label-3cc0507eda",
+  "name": "LOCOCO organics label",
+  "aliases": [],
+  "address": "兵庫県尼崎市南塚口町1-7-3 エクセル平井1F",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_7110173/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "rond-f937e73c2e",
+  "name": "Rond",
+  "aliases": [
+   "Ｒｏｎｄ"
+  ],
+  "address": "兵庫県尼崎市南武庫之荘2丁目22-14",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6011889/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-7171944e49",
+  "name": "すずらん美容室",
+  "aliases": [],
+  "address": "兵庫県尼崎市南武庫之荘10丁目51-15",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1068469/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-gallery-avant-18fe3028c7",
+  "name": "HAIR GALLERY Avant",
+  "aliases": [],
+  "address": "兵庫県尼崎市南塚口町1丁目7-8",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6030295/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-0a539fee3a",
+  "name": "ヘアースタジオアート塚口店",
+  "aliases": [
+   "Hair Studio Art"
+  ],
+  "address": "兵庫県尼崎市南塚口町2丁目29-33",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1071151/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-cdfa8f3b94",
+  "name": "ピノ",
+  "aliases": [
+   "Pino"
+  ],
+  "address": "兵庫県尼崎市武庫之荘1丁目20-10",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1070877/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "ratuna-bac1496663",
+  "name": "Ratuna",
+  "aliases": [
+   "ラトゥーナ"
+  ],
+  "address": "兵庫県尼崎市塚口本町1丁目16-15",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_33780847/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hairsalon-elite-3e5ee97862",
+  "name": "hairsalon elite",
+  "aliases": [],
+  "address": "兵庫県尼崎市西昆陽1-1-27",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_1069520/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "lead-a85124bc77",
+  "name": "美容室くわはら",
+  "aliases": [],
+  "address": "兵庫県尼崎市七松町2丁目4-21",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/shop_6017572/",
+   "https://search.yahoo.co.jp/search?p=尼崎市+七松町+美容室"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]

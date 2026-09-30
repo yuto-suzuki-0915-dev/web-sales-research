@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "two-three-131eb37fb6",
+  "page_type": "top",
+  "page_url": "https://twothree-pilates.co.jp/ashiya/",
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-24T03:06:56.049Z",
+  "desktop": {
+    "success": false,
+    "output": "C:\\Users\\suzuy\\営業素材\\work\\web-sales-research-v2\\research\\market-runs\\ashiya-pilates-20260924-b\\evidence\\visual\\two-three-131eb37fb6\\two-three-131eb37fb6-top-desktop.png",
+    "error": "Screenshot was not created: C:\\Users\\suzuy\\営業素材\\work\\web-sales-research-v2\\research\\market-runs\\ashiya-pilates-20260924-b\\evidence\\visual\\two-three-131eb37fb6\\two-three-131eb37fb6-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "C:\\Users\\suzuy\\営業素材\\work\\web-sales-research-v2\\research\\market-runs\\ashiya-pilates-20260924-b\\evidence\\visual\\two-three-131eb37fb6\\two-three-131eb37fb6-top-mobile.png"
+  },
+  "visual_status": "unverified"
+}

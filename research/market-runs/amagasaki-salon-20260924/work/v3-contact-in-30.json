@@ -1,0 +1,169 @@
+[
+ {
+  "lead_id": "eye-beauty-salon-sylph-9b9e881e91",
+  "name": "Eye Beauty Salon Sylph 尼崎店",
+  "aliases": [],
+  "address": "兵庫県尼崎市",
+  "industry": "まつげ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+まつげエクステ+サロン"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "menoa-0be6bb99b4",
+  "name": "menoa 阪神尼崎店",
+  "aliases": [
+   "まつげパーマ・アイブロウ専門店 menoa",
+   "menoa"
+  ],
+  "address": "尼崎市（阪神尼崎駅徒歩2分）",
+  "industry": "まつげパーマ・アイブロウ専門店",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://beauty.hotpepper.jp/g-eyelash/stc3241031/",
+   "https://search.yahoo.co.jp/search?p=尼崎市+まつげエクステ+サロン",
+   "https://beauty.hotpepper.jp/g-eyelash/pre28/city20200000/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "bupura-7409f4845a",
+  "name": "小顔サロン BUPURA 尼崎店",
+  "aliases": [],
+  "address": "兵庫県尼崎市",
+  "industry": "エステ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+エステサロン+リラクゼーション"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "sakuraspa-7dfe236ef2",
+  "name": "SAKURASPA",
+  "aliases": [],
+  "address": "兵庫県尼崎市昭和通4丁目127",
+  "industry": "エステ・スパ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "low",
+  "sources": [
+   "https://search.yahoo.co.jp/search?p=尼崎市+エステサロン+リラクゼーション"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "clip-elm-f8d0a44d99",
+  "name": "clip elm",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩3分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/g0201/st0348/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-lyle-c17b5c07b1",
+  "name": "hair Lyle.（ヘアーライル）",
+  "aliases": [
+   "hair Lyle.",
+   "Lyle",
+   "ヘアーライル 尼崎"
+  ],
+  "address": "尼崎市",
+  "industry": "美容室・ヘアサロン",
+  "website_presence": "confirmed",
+  "website_url": "http://www.lyle.jp/",
+  "priority": "high",
+  "sources": [
+   "https://mapfan.com/genres/450/28/202/SCH,J,6UR",
+   "https://www.ekiten.jp/shop_1067975/",
+   "http://www.lyle.jp/"
+  ],
+  "known_channels": [],
+  "has_visual": true
+ },
+ {
+  "lead_id": "sunny-e0ecb656b8",
+  "name": "SUNNY（サニー）",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩11分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/g0201/st0348/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "japs-2b45238def",
+  "name": "ヘアー＆エステJAPS",
+  "aliases": [
+   "JAPS"
+  ],
+  "address": "尼崎市（阪神尼崎駅徒歩7分）",
+  "industry": "美容室・エステ",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/g0201/st0348/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "salon-cookie-b0c5529c15",
+  "name": "Salon.Cookie",
+  "aliases": [
+   "Ｓａｌｏｎ．Ｃｏｏｋｉｅ",
+   "Salon.Cookie 尼崎"
+  ],
+  "address": "尼崎市（阪神尼崎駅徒歩5分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://beauty.hotpepper.jp/g-eyelash/stc3241031/",
+   "https://www.ekiten.jp/g0201/st0348/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ },
+ {
+  "lead_id": "hair-make-sutela-2e85c4a5c4",
+  "name": "hair make SUTELA",
+  "aliases": [],
+  "address": "尼崎市（阪神尼崎駅徒歩12分）",
+  "industry": "美容室",
+  "website_presence": "unconfirmed",
+  "website_url": null,
+  "priority": "medium",
+  "sources": [
+   "https://www.ekiten.jp/g0201/st0348/"
+  ],
+  "known_channels": [],
+  "has_visual": false
+ }
+]
