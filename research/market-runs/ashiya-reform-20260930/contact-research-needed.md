@@ -2,7 +2,6 @@
 
 - 株式会社越智工務店 (lead-33af443513) — contact_unverified / pending
 - 株式会社川北工務店 (lead-79b73ce987) — contact_unverified / pending
-- 株式会社スタジオ・コア (lead-44f2f96c4a) — contact_unverified / pending
 - MASAKI Corporation株式会社 (masaki-corporation-7d796c587b) — contact_unverified / pending
 - Decor blanc(デコールブラン) (decor-blanc-345b0928e7) — contact_unverified / pending
 - 建築工房 感 設計事務所 (lead-d64fb69de8) — contact_unverified / pending
@@ -38,7 +37,6 @@
 - 住友林業ホームテック株式会社 (lead-9c62967c68) — contact_unverified / pending
 - 阪急阪神不動産(阪急阪神のリフォーム・リノベーション) (lead-a548042b15) — contact_unverified / pending
 - Arkas Ashiya(アルカス芦屋) (arkas-ashiya-ed363c4623) — contact_unverified / pending
-- 株式会社イーズスタイル (lead-234f98eaa7) — contact_unverified / pending
 - なごみ建設株式会社 (lead-27eaa6d659) — contact_unverified / pending
 - 株式会社藤野工務店 (lead-7d0f450224) — contact_unverified / pending
 - 株式会社光嶋裕介建築設計事務所 (lead-3fbb8e7534) — contact_unverified / pending
@@ -63,7 +61,6 @@
 - 株式会社オフィスナウ (lead-c2c78aa918) — contact_unverified / pending
 - 株式会社富士 (lead-dd590eb8cb) — contact_unverified / pending
 - 有限会社藤本工務店 (lead-4db1084159) — contact_unverified / pending
-- アン・シェル株式会社(anciel) (anciel-ee6b01d26d) — contact_unverified / pending
 - 芦屋市のG.CRAFT(ジークラフト) (g-craft-6de5daf078) — contact_unverified / pending
 - 株式会社三福 (lead-4461cf9585) — contact_unverified / pending
 - 株式会社えびす工務店 (lead-01d4668ae1) — contact_unverified / pending

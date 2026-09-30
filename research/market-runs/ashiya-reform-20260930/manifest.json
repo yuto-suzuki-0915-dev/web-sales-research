@@ -5,11 +5,11 @@
   "region": "芦屋市",
   "industry": "リフォーム・リノベーション・インテリア・住宅設計事務所",
   "segment": "個人・小規模のリフォーム／リノベーション／インテリア／住宅設計事務所",
-  "state": "running",
+  "state": "complete",
   "workflow_stage": "discovered",
   "started_at": "2026-09-30T08:23:47.016Z",
-  "updated_at": "2026-09-30T09:22:41.922Z",
-  "stop_reason": null,
+  "updated_at": "2026-09-30T09:24:18.640Z",
+  "stop_reason": "technical_limit",
   "limits": {
     "user_business_limit": null,
     "technical": {
