@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-7d0f450224",
+  "page_type": "top",
+  "page_url": "http://www.fujino-house.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:54:46.957Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-7d0f450224/lead-7d0f450224-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-7d0f450224/lead-7d0f450224-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-3fbb8e7534",
+  "page_type": "top",
+  "page_url": "https://www.ykas.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:54:48.247Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-3fbb8e7534/lead-3fbb8e7534-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-3fbb8e7534/lead-3fbb8e7534-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

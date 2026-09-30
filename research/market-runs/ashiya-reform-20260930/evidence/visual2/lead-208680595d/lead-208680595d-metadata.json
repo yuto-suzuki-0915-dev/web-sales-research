@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-208680595d",
+  "page_type": "top",
+  "page_url": "https://www.jllll-design.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:58:36.767Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-208680595d/lead-208680595d-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-208680595d/lead-208680595d-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

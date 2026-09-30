@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "cecela-66648e20b4",
+  "page_type": "top",
+  "page_url": "https://cecela-est.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:55:19.286Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/cecela-66648e20b4/cecela-66648e20b4-top-desktop.png"
+  },
+  "mobile": {
+    "success": false,
+    "output": "/tmp/cap/out2/cecela-66648e20b4/cecela-66648e20b4-top-mobile.png",
+    "error": "[8425:8470:0930/085449.208755:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\n[8425:8470:0930/085449.208893:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[8425:8470:0930/085449.208915:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\n[8425:8470:0930/085449.208932:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\n[8425:8470:0930/085449.377035:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[8425:8470:0930/085449.581938:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[8425:8425:0930/085449.918687:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[8425:8470:0930/085449.918845:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[8425:8470:0930/085449.918900:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[8425:8470:0930/085449.918960:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[8425:8470:0930/085449.918998:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on U"
+  },
+  "visual_status": "unverified"
+}

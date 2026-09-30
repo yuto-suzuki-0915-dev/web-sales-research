@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "three-threedesign-7053097fa7",
+  "page_type": "top",
+  "page_url": "https://www.three-design.net/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:57:12.253Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/three-threedesign-7053097fa7/three-threedesign-7053097fa7-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/three-threedesign-7053097fa7/three-threedesign-7053097fa7-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

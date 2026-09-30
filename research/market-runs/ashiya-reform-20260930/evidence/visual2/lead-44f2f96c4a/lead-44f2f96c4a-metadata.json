@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-44f2f96c4a",
+  "page_type": "top",
+  "page_url": "https://www.studio-koa.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:53:28.268Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-44f2f96c4a/lead-44f2f96c4a-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-44f2f96c4a/lead-44f2f96c4a-top-mobile.png"
+  },
+  "visual_status": "verified"
+}

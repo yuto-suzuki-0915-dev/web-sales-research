@@ -1,0 +1,142 @@
+[
+ {
+  "lead_id": "lead-e26ab1fb16",
+  "name": "有限会社エコ・ハウス芦屋",
+  "address": "",
+  "industry": "リフォーム・増改築・リノベーション(小規模リフォーム会社)",
+  "notes": "2000年創業と検索結果にあり。公式サイト候補 https://ecohouse-ashiya.com/ (未確認)。",
+  "site": "https://ecohouse-ashiya.com/",
+  "pass1_decision": "advance",
+  "pass1_reason": "検索結果で有限会社エコ・ハウス芦屋(芦屋市伊勢町5-7、増改築・リフォーム)が ecohouse-ashiya.com を公式タイトルとして掲載しており、名称・所在地・業種が一致。小規模で対象Segment内。トップ画面は未確認のためQUALIFYで再取得して判断する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-e26ab1fb16/lead-e26ab1fb16-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-e26ab1fb16/lead-e26ab1fb16-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-33af443513",
+  "name": "株式会社越智工務店",
+  "address": "兵庫県芦屋市打出小槌町14-12",
+  "industry": "工務店(住宅新築・建築家設計住宅の施工・リフォーム)",
+  "notes": "1933年創業の地元工務店。小〜中規模(規模未確認)。法人番号5140001000237。宅建業登録あり。打出エリア",
+  "site": "https://ochi-k.co.jp/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋市打出小槌町の1933年創業工務店で芦屋市内拠点は一致するが、新築・建築家住宅施工が主体とみられ、リフォーム比重と小規模性が未確認。公式サイトも本文未確認。再取得後にSegment適合を確認する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-33af443513/lead-33af443513-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-33af443513/lead-33af443513-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-79b73ce987",
+  "name": "株式会社川北工務店",
+  "address": "兵庫県芦屋市竹園町3-23",
+  "industry": "工務店(新築・建築工事・内装仕上)",
+  "notes": "創業約80年の地域密着工務店。公式サイト候補 https://www.kawakitakoumuten.com/ (未確認)。",
+  "site": "https://www.kawakitakoumuten.com/",
+  "pass1_decision": "defer",
+  "pass1_reason": "芦屋市竹園町の創業約80年の工務店(新築・建築工事・内装仕上)。業種のリフォーム比重と規模が未確認で、公式サイトもトップ本文未確認。再取得後にSegment適合を確認する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-79b73ce987/lead-79b73ce987-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-79b73ce987/lead-79b73ce987-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-44f2f96c4a",
+  "name": "株式会社スタジオ・コア",
+  "address": "兵庫県芦屋市東芦屋町7-5 芦屋アーチストビラ1F",
+  "industry": "リフォーム・リノベーション(不動産仲介併営)",
+  "notes": "2003年設立、スタッフ全員女性のリフォーム会社。電話 0797-21-6375。公式サイト候補 https://www.studio-koa.jp/ (未確認)。",
+  "site": "https://www.studio-koa.jp/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市東芦屋町の2003年設立、スタッフ全員女性のリフォーム会社(芦屋市商工会掲載あり)で小規模・対象Segment内。公式サイト本文は未確認のためQUALIFYで再取得する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-44f2f96c4a/lead-44f2f96c4a-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-44f2f96c4a/lead-44f2f96c4a-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "rises-cd28961efe",
+  "name": "rises株式会社",
+  "address": "",
+  "industry": "リフォーム・リノベーション・インテリアデザイン・店舗設計施工",
+  "notes": "TOTOリモデルクラブ店。公式サイト候補 https://www.rises-inc.jp/ (未確認)。Houzz掲載の電話・メールは公式性未確認。",
+  "site": "https://www.rises-inc.jp/",
+  "pass1_decision": "defer",
+  "pass1_reason": "住所が未確認で芦屋市内拠点かを確認できておらず、公式サイトも本文未確認(Houzz掲載情報は公式性未確認)。再取得で所在地・規模を確認してからSegment適合を判断する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/rises-cd28961efe/rises-cd28961efe-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/rises-cd28961efe/rises-cd28961efe-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-7233319cfa",
+  "name": "株式会社アメニティ芦屋",
+  "address": "",
+  "industry": "インテリアコーディネート事務所",
+  "notes": "30年以上の活動実績。公式サイト候補 https://amenityashiya.com/ (未確認)。",
+  "site": "https://amenityashiya.com/",
+  "pass1_decision": "advance",
+  "pass1_reason": "検索結果で amenityashiya.com が株式会社アメニティ芦屋(芦屋市朝日ケ丘町、1991年設立、インテリアコーディネート事務所)の公式タイトルとして掲載され、名称・所在地・業種が一致。少人数の事務所で対象Segment内。トップ画面は未確認のためQUALIFYで再取得する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-7233319cfa/lead-7233319cfa-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-7233319cfa/lead-7233319cfa-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-e33749eca3",
+  "name": "イーズスタイル",
+  "address": "",
+  "industry": "インテリア商品販売・インテリアコーディネート・リフォーム・マンションリノベーション",
+  "notes": "芦屋市内所在は検索スニペットからの推定。公式サイト候補 https://www.easestyle.com/ (未確認)。",
+  "site": "https://www.easestyle.com/",
+  "pass1_decision": "advance",
+  "pass1_reason": "検索結果で株式会社イーズスタイル(芦屋市内、エキテン等は大原町28-1と茶屋之町で住所表記が異なるが両方芦屋市内)が www.easestyle.com を公式サイトとして掲載し、インテリア・リフォーム・マンションリノベを提供。地域密着の小規模事業者とみられ対象Segment内。トップ画面は未確認のためQUALIFYで再取得する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-e33749eca3/lead-e33749eca3-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-e33749eca3/lead-e33749eca3-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-d64fb69de8",
+  "name": "建築工房 感 設計事務所",
+  "address": "兵庫県芦屋市三条町17-21-B102",
+  "industry": "一級建築士事務所(自然素材の木造住宅、高断熱高気密住宅の設計・監理)",
+  "notes": "小規模。代表 多田寛史。Houzz・homify・住宅展示場ネット等に掲載",
+  "site": "https://www.as-kan-ap.com/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市三条町の小規模な一級建築士事務所(自然素材の木造住宅設計・監理)で、Houzz等の複数媒体に掲載があり対象Segment内。公式サイト(as-kan-ap.com)は本文を確認できておらず公式性は未確認。QUALIFYで再取得する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-d64fb69de8/lead-d64fb69de8-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-d64fb69de8/lead-d64fb69de8-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-6a6d9d6eb3",
+  "name": "株式会社アトリエフルタ建築研究所",
+  "address": "兵庫県芦屋市東山町12番8号",
+  "industry": "住宅設計事務所(建築設計)",
+  "notes": "小規模の設計事務所。代表は古田義弘(JIA・登録建築家掲載)。Instagramあり(@atelier_furuta)",
+  "site": "https://atelier-furuta.com/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市東山町の小規模な住宅設計事務所(代表は古田義弘、JIA登録建築家掲載、Instagramあり)で対象Segment内。公式サイト(atelier-furuta.com)は本文を確認できておらず公式性は未確認。QUALIFYで再取得する",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-6a6d9d6eb3/lead-6a6d9d6eb3-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-6a6d9d6eb3/lead-6a6d9d6eb3-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-a0916c3c2c",
+  "name": "有限会社エコ・ハウス芦屋",
+  "address": "兵庫県芦屋市伊勢町5-7",
+  "industry": "リフォーム工務店(増改築・インテリア・リフォーム全般)",
+  "notes": "小規模。地元密着を自称。住所は検索結果要約による",
+  "site": "https://ecohouse-ashiya.com/",
+  "pass1_decision": "advance",
+  "pass1_reason": "芦屋市伊勢町の小規模リフォーム工務店で対象Segmentに合致し、公式サイトの名称・所在地も検索結果で一致。トップ画面は取得失敗で未観察のため、QUALIFYで実サイトを確認する価値あり",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-a0916c3c2c/lead-a0916c3c2c-top-desktop.png",
+   "mobile": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-a0916c3c2c/lead-a0916c3c2c-top-mobile.png"
+  }
+ }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "lead_id": "lead-b4287888b9",
+  "page_type": "top",
+  "page_url": "https://www.oba-archi.com/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:59:37.027Z",
+  "desktop": {
+    "success": false,
+    "output": "/tmp/cap/out2/lead-b4287888b9/lead-b4287888b9-top-desktop.png",
+    "error": "[18910:18927:0930/085847.583133:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\n[18910:18927:0930/085847.595021:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[18910:18927:0930/085847.596576:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\n[18910:18927:0930/085847.596638:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\n[18910:18927:0930/085847.781779:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[18910:18927:0930/085847.907457:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[18910:18910:0930/085848.018059:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: \n[18910:18927:0930/085848.020414:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[18910:18927:0930/085848.024161:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[18910:18927:0930/085848.024235:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are \"tcp\" and on UNIX \"unix\")\n[18910:18927:0930/085848.024247:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid ty"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/lead-b4287888b9/lead-b4287888b9-top-mobile.png"
+  },
+  "visual_status": "unverified"
+}

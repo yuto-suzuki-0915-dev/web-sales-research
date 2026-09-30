@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "lead_id": "arkas-ashiya-ed363c4623",
+  "page_type": "top",
+  "page_url": "https://arkas-ashiya.co.jp/",
+  "browser": "/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
+  "no_browser_sandbox": false,
+  "captured_at": "2026-09-30T08:54:18.942Z",
+  "desktop": {
+    "success": true,
+    "output": "/tmp/cap/out2/arkas-ashiya-ed363c4623/arkas-ashiya-ed363c4623-top-desktop.png"
+  },
+  "mobile": {
+    "success": true,
+    "output": "/tmp/cap/out2/arkas-ashiya-ed363c4623/arkas-ashiya-ed363c4623-top-mobile.png"
+  },
+  "visual_status": "verified"
+}
