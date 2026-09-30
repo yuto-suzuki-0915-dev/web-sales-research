@@ -1,0 +1,9 @@
+p0.txt https://kyara-arc.com/
+p1.txt https://kyara-arc.com/about/
+p2.txt https://kyara-arc.com/service/
+p3.txt https://kyara-arc.com/works/
+p4.txt https://kyara-arc.com/staff/
+p5.txt https://kyara-arc.com/contact/
+p6.txt https://kyara-arc.com/works/details.php?id=110
+p7.txt https://kyara-arc.com/works/details.php?id=79
+p8.txt https://kyara-arc.com/works/details.php?id=111

@@ -1,0 +1,6 @@
+p0.txt https://blr.jp/ecoenergie/
+p1.txt https://blr.jp/ecoenergie/company.html
+p2.txt https://blr.jp/ecoenergie/jirei.html
+p3.txt https://blr.jp/ecoenergie/staff.html
+p4.txt https://blr.jp/reform-ex/?offset=0&shop_id=3791
+p5.txt https://blr.jp/reform/advisor.html

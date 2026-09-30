@@ -1,0 +1,9 @@
+p0.txt https://www.an-en-ciel.com/
+p1.txt https://www.an-en-ciel.com/contact/
+p2.txt https://www.an-en-ciel.com/concept/
+p3.txt https://www.an-en-ciel.com/work/
+p4.txt https://www.an-en-ciel.com/flow/
+p5.txt https://www.an-en-ciel.com/company/
+p6.txt https://www.an-en-ciel.com/work/patisserie-aux-plaisirs-sucres%e6%a7%98/
+p7.txt https://www.an-en-ciel.com/work/%e9%98%aa%e6%80%a5%e5%85%ad%e7%94%b2%e8%87%aa%e7%bf%92%e5%ae%a4studista%e3%80%80%e6%a7%98/
+p8.txt https://www.an-en-ciel.com/work/patisserie-shuyama%e3%80%80%e6%a7%98/

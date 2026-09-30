@@ -1,0 +1,2 @@
+p0.txt https://www.eonet.ne.jp/~tkym-a/
+p1.txt https://www.eonet.ne.jp/~tkym-a/menu02.html

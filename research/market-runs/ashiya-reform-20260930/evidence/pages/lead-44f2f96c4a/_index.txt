@@ -1,0 +1,9 @@
+p0.txt https://www.studio-koa.jp/
+p1.txt https://www.studio-koa.jp/concept/index.shtml
+p2.txt https://www.studio-koa.jp/staff/index.shtml
+p3.txt https://www.studio-koa.jp/company/index.shtml
+p4.txt https://www.studio-koa.jp/otoiawase/contact.shtml
+p5.txt https://www.studio-koa.jp/area/index.shtml
+p6.txt https://www.studio-koa.jp/company/staff.html
+p7.txt https://www.studio-koa.jp/service/index_44.shtml
+p8.txt https://www.studio-koa.jp/service/index_41.shtml

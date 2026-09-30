@@ -1,0 +1,9 @@
+p0.txt https://casa-deco.theblog.me/
+p1.txt https://casa-deco.theblog.me/pages/4652097/page_202102141137
+p2.txt https://casa-deco.theblog.me/pages/4652121/page_202102141149
+p3.txt https://casa-deco.theblog.me/pages/4675647/page_202102211412
+p4.txt https://casa-deco.theblog.me/posts/52086219
+p5.txt https://casa-deco.theblog.me/posts/48698477
+p6.txt https://casa-deco.theblog.me/posts/48698016
+p7.txt https://casa-deco.theblog.me/posts/14714484
+p8.txt https://casa-deco.theblog.me/posts/14714373

@@ -1,0 +1,6 @@
+p0.txt https://www.jllll-design.co.jp/
+p1.txt https://www.jllll-design.co.jp/%E8%A4%87%E8%A3%BD-concept
+p2.txt https://www.jllll-design.co.jp/bio
+p3.txt https://www.jllll-design.co.jp/%E8%A4%87%E8%A3%BD-%E8%A4%87%E8%A3%BD-home
+p4.txt https://www.jllll-design.co.jp/about-us
+p5.txt https://www.jllll-design.co.jp/about-4

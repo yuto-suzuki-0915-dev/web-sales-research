@@ -1,0 +1,5 @@
+p0.txt https://www.oba-archi.com/
+p1.txt https://www.oba-archi.com/works
+p2.txt https://www.oba-archi.com/news
+p3.txt https://www.oba-archi.com/profile
+p4.txt https://www.oba-archi.com/contact
