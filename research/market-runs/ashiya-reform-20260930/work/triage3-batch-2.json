@@ -1,0 +1,132 @@
+[
+ {
+  "lead_id": "lead-9e3b07bd74",
+  "name": "有限会社スペースアート",
+  "site": "https://www.ne.jp/asahi/space/art/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイト(有限会社スペースアート、リフォーム・リノベ専門店、tel 0797)と確認。更新日付は見えず活動は未確定。スマホでナビとキャッチ枠が右端で切れ、お知らせ・事例への導線がトップで見えない。QUALIFYでWORKS/INFORMATIONを確認する価値あり",
+  "pass2_web_observation": "mobile(390px幅)でナビ6項目のうちABOUT USが右端で切れ、キャッチ枠の文言も右に溢れて欠ける。desktopは全画面写真とナビのみで、新着・事例の一覧はトップ1画面目に出ない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-9e3b07bd74/lead-9e3b07bd74-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-9e3b07bd74-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-589b407173",
+  "name": "株式会社アメニティ芦屋",
+  "site": "https://amenityashiya.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイト(株式会社アメニティ芦屋、インテリアコーディネート事務所)と確認。トップに日付なく活動は未確定だがブログ・事例紹介メニューあり。スマホでメニューが見えない点などをQUALIFYでブログ更新日・事例と合わせて確認",
+  "pass2_web_observation": "mobile(390px幅)のヘッダーはロゴのみでメニュー/ハンバーガーが見えず、ヒーロー下に大きな空白。事例・お問い合わせへの導線がmobile1画面目にない。desktopはナビ・SNSシェア付きで整っている",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-589b407173/lead-589b407173-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-589b407173-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "itten-617c9580d7",
+  "name": "インテリアセレクト＆コーディネートショップ itten(イッテン)",
+  "site": "https://www.ittena.com/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "desktop/mobile画像は両方とも接続失敗画面(ERR_TUNNEL_CONNECTION_FAILED)、WebFetchもENOTFOUNDで、サイト内容を観察できていない。取得経路の失敗であり閉業や不存在の根拠ではない。業態も家具販売寄りで境界的。別環境での再取得後に判断",
+  "pass2_web_observation": "desktop/mobileとも接続失敗画面のためサイトの構成・導線は観察不能",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/itten-617c9580d7/itten-617c9580d7-top-desktop.png",
+   "mobile_true_390": null
+  }
+ },
+ {
+  "lead_id": "lead-18b55eefb0",
+  "name": "高山建築設計事務所",
+  "site": "http://www.eonet.ne.jp/~tkym-a/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "strong",
+  "pass2_reason": "公式サイト(高山建築設計事務所、フッターに芦屋市宮川町5-7)と確認。mobile非対応の固定幅で、トップは1文と小写真のみ、日付もなく更新感が読み取れない。活動は未確定のため、QUALIFYで実績ページと更新状況を確認",
+  "pass2_web_observation": "mobile(390px幅)でヘッダーのナビと本文・フッター(住所・電話)が右端で切れ、左メニューが縦に潰れ「プロフィール」「問合せ」が縦書き状に折れる。desktopの本文は数行と小写真のみ、連絡先はメール記載のみでフォームなし、問合せ導線は左メニューとフッター",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-18b55eefb0/lead-18b55eefb0-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-18b55eefb0-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-cc9744cb44",
+  "name": "有限会社エコ・エネルギー",
+  "site": "https://blr.jp/ecoenergie/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "画像はリフォーム評価ナビ(blr.jp)上の「有限会社エコ・エネルギー」ページで名称は一致するが、所在地(芦屋か)はトップで確認できず事業者同定が未了。メニューに別の「企業サイト」があるため、QUALIFYで同定し実際の自社サイトを確認する。エコ・ハウス芦屋・lead-741fc27af4とは統合しない",
+  "pass2_web_observation": "blr.jpの共通テンプレート上のページで、同一バナー画像が2回繰り返され、メニューに別の「企業サイト」リンクあり。mobileはメニューが折りたたみ。自社サイトの本体は未確認のためgapは判定しない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-cc9744cb44/lead-cc9744cb44-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-cc9744cb44-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "arkas-ashiya-ed363c4623",
+  "name": "Arkas Ashiya(アルカス芦屋)",
+  "site": "https://arkas-ashiya.co.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイト(ARKAS ASHIYA、トップに兵庫県芦屋市翠ヶ丘町7-6、リフォーム&リノベーション)と確認。日付表示がなく活動は未確定。スマホの文言画像の小ささと浮遊ボタンの重なりがあり、QUALIFYで施工例の更新と問い合わせ導線を確認。法人同定(株式会社アルカス同名他社)も併せて確認",
+  "pass2_web_observation": "mobileで「ARKAS DESIGN」枠の本文が画像化され小さく読みにくく、チャットの浮遊ボタンが「Interior Coordinate」見出しに重なる。desktopはお問い合わせフォームボタンとナビ(会社情報/施工例/アクセス/お問い合わせ)あり。新着表示なし",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/arkas-ashiya-ed363c4623/arkas-ashiya-ed363c4623-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/arkas-ashiya-ed363c4623-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-234f98eaa7",
+  "name": "株式会社イーズスタイル",
+  "site": "https://www.easestyle.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "公式サイト(イーズスタイル、兵庫県芦屋市、インテリアコーディネート・リフォーム)と確認。トップに日付がなく活動は未確定。スマホ非対応の固定幅で本文とナビが切れるが、サービス・流れ・FAQ・施工実績・ブログは揃う。QUALIFYで更新状況と所在地表記の揺れ(大原町/茶屋之町)を確認",
+  "pass2_web_observation": "mobile(390px幅)でPC幅レイアウトのままナビ・本文・ヒーローが右端で切れ、左サイドメニューが画面の大部分を占める。desktopはナビ6項目・サイドメニュー・電話番号あり。フォームへの導線はトップ1画面目で未確認",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-234f98eaa7/lead-234f98eaa7-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-234f98eaa7-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-27eaa6d659",
+  "name": "なごみ建設株式会社",
+  "site": "https://nagomi-kensetsu.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "芦屋の施工会社の公式サイトで更新も継続している。スマホ表示の乱れがあり、Web提案余地をQUALIFYで確認する価値がある。従業員40名で個人・小規模のSegmentを超える可能性があり、規模は会社概要で要確認",
+  "pass2_web_observation": "mobile(390px)でナビの「施工事例」「お問合せ」と事例見出しの右端が切れている。desktopはロゴ・6項目ナビ(会社概要/施工事例/お知らせ/INSTAGRAM/お問合せ)・大型写真で整っている。スマホ画面の切れは取得上の描画差の可能性もあり、QUALIFYで要確認",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-27eaa6d659/lead-27eaa6d659-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-27eaa6d659-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-7d0f450224",
+  "name": "株式会社藤野工務店",
+  "site": "http://www.fujino-house.co.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "strong",
+  "pass2_reason": "芦屋の工務店の公式サイトで、トップのお知らせが2024年4月止まり。スマホ非対応の固定幅レイアウトが観察でき、更新・モバイル対応の提案余地がある。規模はQUALIFYで確認",
+  "pass2_web_observation": "desktopは幅約850px固定の濃紺レイアウトと小さい画像ナビ。mobile(390px)では同じ固定幅のまま、ナビがLINKで切れ、お知らせ本文も右端で切れる。レスポンシブ非対応と読める。問い合わせ導線はメール問合せボタンがdesktopで確認できる",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-7d0f450224/lead-7d0f450224-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-7d0f450224-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-a323c186b1",
+  "name": "高級注文住宅 建築設計デザイン事務所 参會堂",
+  "site": "https://sankaido.com/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "公式サイトは参會堂(SANKAIDO、高級注文住宅)で同定できる。ただし所在地がトップ画像に出ておらず、芦屋拠点かが未確認。芦屋市内の拠点が確認できればadvanceを再検討。確認先は会社概要の所在地",
+  "pass2_web_observation": "desktop/mobileともLINE登録のモーダルがトップ画面を覆い、ヒーロー以外の構成を確認できない。WebFetchもEGRESS_BLOCKEDで取得不可。ナビ(こだわり/ヨーロッパデザイン/事業紹介/施工事例/デザインワーク/工程)は整っている",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-a323c186b1/lead-a323c186b1-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-a323c186b1-top-mobile.png"
+  }
+ }
+]

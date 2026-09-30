@@ -1,0 +1,132 @@
+[
+ {
+  "lead_id": "casa-decoration-279cc88847",
+  "name": "CASA DECORATION(カーサデコラシオン芦屋)",
+  "site": "https://casa-deco.theblog.me/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "『Casa Decoration ashiya』の公式サイトと判断。芦屋の個人インテリアコーディネート(レッスン)でSegment内。無料のAmeba Ownd上に構築され、更新日や問い合わせ導線の確認価値がある。",
+  "pass2_web_observation": "desktop/mobile両方の最上部にAmeba Owndの『今すぐ試す』広告バナーが表示されている(無料プランの表示とみられる)。ナビはHome/About/Lesson/Contactの4項目、mobileはハンバーガーあり。ドメインはtheblog.me",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/casa-decoration-279cc88847/casa-decoration-279cc88847-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/casa-decoration-279cc88847-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-e26ab1fb16-2",
+  "name": "有限会社エコ・ハウス芦屋",
+  "site": "https://ecohouse-ashiya.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "有限会社エコ・ハウスの公式サイトで『地元芦屋に根ざしたリフォーム会社』と明記。小規模リフォーム工務店でSegment適合。ナビに事例・お知らせがなく、QUALIFYで事例・更新状況を確認する価値がある。",
+  "pass2_web_observation": "desktopナビはMESSAGE/PHILOSOPHY/SERVICES/PROFILE/ACCESSの5項目で、施工事例・お知らせ・料金へのナビ項目がない。問い合わせは『お問い合わせお電話』ボタン1つでトップに電話番号の表示なし。mobile画像ではナビメニュー(ハンバーガー等)が見えない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-e26ab1fb16-2/lead-e26ab1fb16-2-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-e26ab1fb16-2-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "life-0e49792b52",
+  "name": "株式会社LIFE建築工房",
+  "site": "https://life-kk.co.jp/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "none",
+  "pass2_reason": "LIFE建築工房の公式サイトと判断。トップに所在地表示がなく芦屋市内拠点は未確認(電話は06局番)。トップは新着情報・施工実績・LINE・問い合わせ導線が整い提案余地は見えない。会社概要の所在地確認まで保留。",
+  "pass2_web_observation": "desktopに電話・FAX・受付時間、LINE、お問い合わせ、ナビ(会社概要/サービス/選ばれる理由/新着情報/施工実績)が揃う。mobileはMENUボタンと事例写真、会社紹介セクション。トップ範囲では導線不足は見えない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/life-0e49792b52/life-0e49792b52-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/life-0e49792b52-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-9ec895d110",
+  "name": "株式会社スタジオ・コア",
+  "site": "https://www.studio-koa.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "strong",
+  "pass2_reason": "スタジオ・コア公式サイトで『2003年1月、芦屋に誕生』と明記した小規模リフォーム会社でSegment適合。PC・スマホとも固定幅の非レスポンシブ構成で、提案余地が最も明確な候補。",
+  "pass2_web_observation": "desktop(幅1440)で約800px幅の固定レイアウトが左寄せで表示され右側が空白。mobile画像でも同じ固定幅レイアウトが縮小されず、ナビが途中で切れる(ハンバーガー等なし)。電話・営業時間・6項目ナビ・実例/お客様の声への導線は確認できる",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-9ec895d110/lead-9ec895d110-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-9ec895d110-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "ecohouse-e65a9bebeb",
+  "name": "有限会社エコ・ハウス(エコ・ハウス芦屋 ECOHOUSE)",
+  "site": "https://ecohouse-ashiya.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "有限会社エコ・ハウス(増改築・インテリア・リフォーム全般、地元芦屋)の公式サイトと名称・業種が一致。トップメニューに施工事例・お知らせへの導線がなく、QUALIFYで事例・更新有無を確認する価値がある。所在地は画像で確認できず(pass1メモの企業INDEXナビ記載に依拠)。lead-e26ab1fb16-2と同一事業者の可能性あり(未確認のため統合せず親のmerge判断へ)",
+  "pass2_web_observation": "desktop: ヘッダーメニューはMESSAGE/PHILOSOPHY/SERVICES/PROFILE/ACCESSの5項目で施工事例・お知らせ・実績への導線が見当たらない。ヒーローに『お問い合わせお電話』ボタンが1つある。mobile: 初期画面はヒーローと同ボタンのみでメニューは見えない(右端切れは撮影由来の可能性があり根拠にしない)。確認範囲はトップ初期画面のみ",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/ecohouse-e65a9bebeb/ecohouse-e65a9bebeb-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/ecohouse-e65a9bebeb-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "masaki-1b19d38f2c",
+  "name": "MASAKIコーポレーション株式会社",
+  "site": "https://masaki-corporation.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "MASAKI Corp.(lumière 邸宅)の公式サイトと名称・業種が一致。2023年設立の小規模な注文住宅・リフォーム会社で、WORKS・CONTACTのメニューがある。トップ初期画面だけではweb_gapを判断できないため、QUALIFYでWORKSの更新状況を確認する。所在地は画像で確認できず(pass1メモ依拠)",
+  "pass2_web_observation": "desktop: CONCEPT/QUALITY/WORKS/SERVICE/CONTACT(ボタン)のメニューがある。ヒーローは住宅外観の全画面画像のみ。mobile: 初期画面はロゴとヒーロー画像のみでメニュー・問い合わせ導線は見えない(表示や撮影の制約の可能性があり断定しない)。確認範囲はトップ初期画面のみ",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/masaki-1b19d38f2c/masaki-1b19d38f2c-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/masaki-1b19d38f2c-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-2b7902b287",
+  "name": "参會堂(高級注文住宅 建築設計デザイン事務所)",
+  "site": "https://sankaido.com/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "参會堂(SANKAIDO)の公式サイトであることはロゴ・業態から確認できたが、芦屋市内所在かは画像でも未確認。LINE登録ポップアップが初期画面を覆いトップの構成を確認しきれなかった。次回は会社概要(https://sankaido.com/company-overview/)で所在地を確認し、芦屋市内ならQUALIFYへ進める",
+  "pass2_web_observation": "desktop: 参會堂のこだわり/ヨーロッパデザイン/事業紹介/施工事例/デザインワーク/建築工程のメニューと公式LINE誘導があり、既存の導線は複数ある。mobile: LINE登録ポップアップが初期画面のほぼ全面を覆い、メニューや閉じるボタンは撮影範囲内で確認できない。確認範囲はトップ初期画面のみ",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-2b7902b287/lead-2b7902b287-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-2b7902b287-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "three-threedesign-7053097fa7",
+  "name": "株式会社THREE(ThreeDesign)",
+  "site": "https://www.three-design.net/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "THREE...(ThreeDesign)の公式サイトとロゴ・業態(店舗・住宅の内装デザイン/グラフィック/開業支援)が一致。ただし住宅リフォーム・設計よりも店舗・グラフィック寄りでSegment境界、規模と芦屋拠点も画像では未確認。メニューにWORKS/NEWS/CONTACT/Instagramがあり既存導線は揃っているため、NEWSの更新日と業務範囲を確認してから進める",
+  "pass2_web_observation": "desktop: HOME/WORKS/PROSESS/ABOUT/NEWS/RECRUIT/CONTACTとInstagramアイコンのメニュー。ヒーローはロゴと『デザインの力で、こだわり/想いを届ける。』のみ。mobile: ハンバーガーとInstagram、ABOUT US文、WORKS画像が縦に並ぶ(右端切れは撮影由来の可能性)。既存の事例・問い合わせ導線があり、提案余地は判断できない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/three-threedesign-7053097fa7/three-threedesign-7053097fa7-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/three-threedesign-7053097fa7-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-0b1d230ac5",
+  "name": "シンプルアンドスタイル",
+  "site": "https://simpleandstyle.com/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "Simple & Styleの公式サイトと名称・業態(インテリアアドバイス/プラン作成/実例)が一致。ただし芦屋市内拠点かが画像でも未確認。サービス・実例・予約・問い合わせの導線は既にあり、トップ観察範囲ではgapを判断できない。活動はpass1メモのブログ2025年12月更新のみで確定しない。所在地とブログ最新日の確認後に判断",
+  "pass2_web_observation": "desktop: ホーム/はじめに/メニュー/インテリア実例/ご予約/お問合せのメニュー、インテリアサービス一覧と実例サムネイル8枚がトップにある。mobile: メニューはグリッド表示で右列が切れている(撮影由来の可能性)。既存の実例・予約・問い合わせ導線が揃っており、主観的な古さだけではgap根拠にしない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-0b1d230ac5/lead-0b1d230ac5-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-0b1d230ac5-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-6a520e277f",
+  "name": "芦屋カーテン・石(カーテン館石)",
+  "site": "https://ashiyacurtain.com/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "芦屋カーテン・石(Ashiya Curtain)の公式サイトとロゴ・名称が一致。オーダーカーテンの施工実績・注文の流れ・店舗紹介・FAQを持つが、リフォーム・設計業ではなくインテリア用品小売でSegment境界。親のSegment判断待ち。Segment内とされた場合はQUALIFYで施工実績の更新状況を確認する",
+  "pass2_web_observation": "desktop: トップページ/施工実績/ご注文の流れ/店舗紹介/よくある質問のメニューがあり、European/Traditional/Modernのスタイル別セクションはフェード表示で文字が薄く読みにくい。mobile: 見出しが既定フォントの黒字で写真上に並ぶ(右端切れは撮影由来の可能性)。既存導線は揃っており、問い合わせ導線と更新導線はトップ初期画面で判断できない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-6a520e277f/lead-6a520e277f-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-6a520e277f-top-mobile.png"
+  }
+ }
+]

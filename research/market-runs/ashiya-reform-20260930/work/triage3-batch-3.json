@@ -1,0 +1,132 @@
+[
+ {
+  "lead_id": "lead-741fc27af4",
+  "name": "有限会社エコ・エネルギー",
+  "site": null,
+  "pass2_decision": "defer",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "画像は有限会社エコ・エネルギー名義だが、リフォーム評価ナビ(blr.jp)の配下にあるプラットフォーム共通テンプレートのページ。所在地は画像内になく、芦屋の事業者かと独自公式サイトの有無が未確認。ナビに「企業サイト」リンクがあるのでそのリンク先を確認する。lead-cc9744cb44との同一性は未確定で統合しない",
+  "pass2_web_observation": "blr.jpのプラットフォーム共通ページで、事業者が管理するサイトの構成とは言えないため、Web提案余地は判定しない。WebFetchもEGRESS_BLOCKEDで取得不可",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-741fc27af4/lead-741fc27af4-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-741fc27af4-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "rises-c7fd1d4a94",
+  "name": "rises株式会社",
+  "site": "https://www.rises-inc.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "芦屋の小規模な内装・リフォーム会社の公式サイトで、Segmentに合う。トップのBlog欄と施工写真の見せ方に情報整理の余地があり、QUALIFYで事例・ブログ更新とサービス・料金ページを確認する価値がある。rises-d4df3ed75aとの同一性は未確定",
+  "pass2_web_observation": "desktopトップはBlog欄が日付・内容なしの短い一文で、施工写真カルーセルの1枚だけが広い空白の中央に小さく出る。問い合わせはナビ内のみで、トップ上に電話や目立つ相談ボタンはない。mobileはハンバーガー化されカルーセルとサムネイルが表示されるなど、基本のレスポンシブ対応はある",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/rises-c7fd1d4a94/rises-c7fd1d4a94-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/rises-c7fd1d4a94-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-f4a8bdc6d7",
+  "name": "有限会社シンプレックス一級建築士事務所",
+  "site": "https://www.simplex-arc.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "芦屋・西宮のRC住宅設計事務所の公式サイトで、Segmentに合う。トップは大きな空白が中心で、スマホでナビが見えず見出しも切れる。ただしアニメーション待ちの可能性があり、QUALIFYでWORKS・JOURNALの更新と導線を確認する。lead-0542378f78との同一性は未確定",
+  "pass2_web_observation": "desktopはトップの上半分が空白で、ロゴ文字とエリア表示(RC・鉄筋コンクリート/芦屋・西宮)以外の写真や事例が出ていない。mobileはナビ(WORKS/ABOUT/FLOW/JOURNAL/CONTACT)が見えず、タイトル文字「SIMPLEX」が右端で切れる。アニメーション待ちの描画の可能性あり",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-f4a8bdc6d7/lead-f4a8bdc6d7-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-f4a8bdc6d7-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-4db1084159",
+  "name": "有限会社藤本工務店",
+  "site": "https://fujimoto-ashiya.co.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "芦屋局番の電話(0797)を掲げる小規模な工務店の公式サイトで、リノベーションと不動産を扱う。トップに事例の日付がなく、スマホでナビが見えず特徴欄が空白に見える。QUALIFYで事例ページの更新と導線を確認する価値がある。リノベ・不動産の比重はQUALIFYで確認",
+  "pass2_web_observation": "desktopは電話番号・お問い合わせボタン・5項目ナビ・スライダーがあり導線は明確。mobileはナビやハンバーガーが見えず、「藤本工務店の特徴」の見出し下が空白のまま。スクロール表示待ちの可能性あり、QUALIFYで要確認",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-4db1084159/lead-4db1084159-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-4db1084159-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "anciel-ee6b01d26d",
+  "name": "アン・シェル株式会社(anciel)",
+  "site": "https://www.an-en-ciel.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "芦屋局番の設計デザイン会社で住宅・リフォーム事例も掲載。店舗設計中心で業種は境界だが、スマホ向け切替が見えず提案余地を確認する価値がある。",
+  "pass2_web_observation": "mobile画像でもPC同様のナビ(CONCEPT/WORK/FLOW)とスライダー構成で、ハンバーガー等のスマホ向け切替が見えない(右端切れは撮影要因の可能性あり)。desktopはWORK/Q&A/CONTACTとInstagramへの導線あり。ヘッダーは『兵庫県神戸市』表記でTELは0797(芦屋)局番",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/anciel-ee6b01d26d/anciel-ee6b01d26d-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/anciel-ee6b01d26d-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "g-craft-6de5daf078",
+  "name": "芦屋市のG.CRAFT(ジークラフト)",
+  "site": "https://gcraft.co.jp/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "none",
+  "pass2_reason": "トップに所在地表示がなく芦屋市内拠点が未確認(『神戸・芦屋・西宮』の注文住宅と表記)。トップは導線が整い提案余地は見えない。会社概要の所在地確認まで保留。",
+  "pass2_web_observation": "desktopにInstagram/Pinterest/LINE/CONTACT導線、mobileにイベント情報・LINEボタンがあり、トップ範囲では導線・更新感に明確な不足なし",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/g-craft-6de5daf078/g-craft-6de5daf078-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/g-craft-6de5daf078-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-0542378f78",
+  "name": "有限会社シンプレックス一級建築士事務所",
+  "site": "https://www.simplex-arc.com/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "『芦屋・西宮』『RC・鉄筋コンクリート』表記の小規模設計事務所でSegment適合の見込み。JOURNAL導線はあるが更新状況とスマホ表示が未確認のため、追加確認で判断が変わり得る。",
+  "pass2_web_observation": "desktopはWORKS/ABOUT/FLOW/JOURNAL/CONTACTのナビとSCROLL表示がある一方、mobileはロゴのみでほぼ空白(メニュー・本文なし)。表示遅延か撮影要因の可能性があり、欠陥とは断定しない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-0542378f78/lead-0542378f78-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-0542378f78-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "rises-d4df3ed75a",
+  "name": "rises株式会社",
+  "site": "https://www.rises-inc.jp/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "unknown",
+  "pass2_reason": "rises株式会社の公式サイト。施工事例・サービス料金・会社概要・ブログの導線があり、Segment適合の見込み。ブログ更新日と事例の状況を確認する価値がある。",
+  "pass2_web_observation": "desktopにHOME/CONCEPT/WORKS/SERVICE・料金/COMPANY/CONTACT/BLOGのナビ、事例スライダーあり。mobileはハンバーガーメニューと事例スライダー。トップ画像では明確な導線不足は見えず、gapは判断保留。トップに芦屋の所在表示は見えない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/rises-d4df3ed75a/rises-d4df3ed75a-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/rises-d4df3ed75a-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-1da9531142",
+  "name": "有本優史郎建築設計事務所",
+  "site": "http://a-rim.net/",
+  "pass2_decision": "advance",
+  "pass2_web_gap": "moderate",
+  "pass2_reason": "有本優史郎建築設計事務所の独立サイトa-rim.netを確認。芦屋の個人設計事務所。トップに電話・所在地がなく連絡先がメールのみ。事例の更新状況を確認する価値がある。",
+  "pass2_web_observation": "desktop/mobileトップに電話番号・所在地の表示がなく、連絡先はmobileのメールアドレスのみ。ナビはHome/works/about/detail,material,atmosphereの4項目で、サービス内容・料金などの説明はトップに見えない。mobileは本文がほぼ空白(スライダー未表示は撮影要因の可能性)",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-1da9531142/lead-1da9531142-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-1da9531142-top-mobile.png"
+  }
+ },
+ {
+  "lead_id": "lead-782ef27021",
+  "name": "株式会社藤本高志建築設計事務所",
+  "site": "https://www.fujimoto-archi.com/",
+  "pass2_decision": "defer",
+  "pass2_web_gap": "none",
+  "pass2_reason": "公式サイトの事業者名は一致するが、トップ画像に所在地表示がなく芦屋拠点は未確認(探索メモでは公式側が大阪市北区)。トップは整った設計で提案余地は見えない。公式の会社概要で拠点を確認し、芦屋拠点がなければ対象外。",
+  "pass2_web_observation": "desktopにAbout us/Works/News/progress/Contactナビ、mobileはロゴ・社名と全幅スライダーで、スマホ向けレイアウトに切り替わっている。トップ範囲では導線不足は見えない",
+  "images": {
+   "desktop": "research/market-runs/ashiya-reform-20260930/evidence/visual2/lead-782ef27021/lead-782ef27021-top-desktop.png",
+   "mobile_true_390": "research/market-runs/ashiya-reform-20260930/evidence/visual3/lead-782ef27021-top-mobile.png"
+  }
+ }
+]
